@@ -38,6 +38,7 @@ Bảng dưới đây liệt kê các chức năng chính cần kiểm thử và 
 | 9 | Quản Lý Giỏ Hàng | N | Cập nhật số lượng, xóa sản phẩm, và kiểm tra hiển thị hình ảnh, giá. | **ATuan** |
 | 10 | Áp Dụng Khuyến Mãi | P | Áp dụng Mã giảm giá (Voucher code). | **trung** |
 | 11 | Nhập TT Giao Hàng | BB | Kiểm tra tính bắt buộc và định dạng của các trường thông tin nhận hàng. | **Hưng** |
+| 12 | Xem chi tiết SP  | C | Hiển thị đầy đủ thông tin, kiểm tra bảng quy đổi kích cỡ (Size Chart). | **Trường** |
 
 #### 3. Giao Diện & Nội Dung
 
