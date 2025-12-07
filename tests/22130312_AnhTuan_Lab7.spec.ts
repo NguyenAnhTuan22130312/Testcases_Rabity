@@ -1,7 +1,27 @@
-import { test, expect } from '@playwright/test';
+import { test, expect, TestInfo } from '@playwright/test';
 
 // Set global timeout to 2 minutes
 test.setTimeout(120000);
+
+test.afterEach(async ({ page }, testInfo: TestInfo) => {
+  // Tạo tên file screenshot dựa trên tên test và trạng thái (Pass/Fail)
+  const screenshotName = `${testInfo.title.replace(/[^a-zA-Z0-9]/g, '_')}-${testInfo.status}.png`;
+  
+  // Tùy chọn: Chụp ảnh toàn bộ trang (fullPage: true)
+  await page.screenshot({ 
+      path: testInfo.outputPath(screenshotName),
+      fullPage: true,
+  });
+  
+  // Đính kèm screenshot vào report (rất quan trọng)
+  testInfo.attachments.push({
+      name: 'screenshot',
+      path: testInfo.outputPath(screenshotName),
+      contentType: 'image/png',
+  });
+  
+  console.log(`✅ Screenshot đã lưu: ${testInfo.outputPath(screenshotName)}`);
+});
 
 // =============================================================================
 // PHẦN 1: TESTS QUẢN LÝ GIỎ HÀNG (CART MANAGEMENT)

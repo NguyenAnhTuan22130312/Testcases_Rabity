@@ -43,10 +43,10 @@
         - link [ref=e51] [cursor=pointer]:
           - /url: /account
           - img [ref=e52] [cursor=pointer]
-        - link "1" [ref=e57] [cursor=pointer]:
+        - link "0" [ref=e57] [cursor=pointer]:
           - /url: /cart
           - img [ref=e58] [cursor=pointer]
-          - generic [ref=e60] [cursor=pointer]: "1"
+          - generic [ref=e60] [cursor=pointer]: "0"
   - main [ref=e61]:
     - generic [ref=e62]:
       - navigation "breadcrumb" [ref=e63]:

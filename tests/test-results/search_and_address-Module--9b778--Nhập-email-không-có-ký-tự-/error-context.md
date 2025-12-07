@@ -1,0 +1,149 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - link [ref=e12] [cursor=pointer]:
+      - /url: https://rabity.vn
+      - img [ref=e13] [cursor=pointer]
+  - generic [ref=e14]:
+    - generic [ref=e18]:
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Đăng nhập để mua hàng tiện lợi và nhận nhiều ưu đãi hơn nữa
+        - button "Đăng nhập" [ref=e22] [cursor=pointer]
+      - generic [ref=e23]:
+        - generic [ref=e25]: Thông tin giao hàng
+        - generic [ref=e28]:
+          - generic [ref=e29]: Họ và tên
+          - textbox "Họ và tên Họ và tên" [ref=e31]
+        - generic [ref=e34]:
+          - generic [ref=e35]: Số điện thoại
+          - generic [ref=e36]:
+            - textbox "Số điện thoại Số điện thoại" [ref=e37]
+            - generic:
+              - log
+              - generic:
+                - generic:
+                  - generic: 🇻🇳
+                  - combobox [disabled]
+        - generic [ref=e40]:
+          - generic [ref=e41]: Email
+          - textbox "Email Email" [ref=e43]
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic:
+              - generic:
+                - generic [ref=e46]: Quốc gia
+                - generic:
+                  - textbox "Quốc gia Quốc gia": Vietnam
+            - generic [ref=e47]:
+              - log [ref=e49]
+              - generic [ref=e50]:
+                - combobox [ref=e52]
+                - img [ref=e55]
+          - generic [ref=e59]:
+            - generic [ref=e60]: Địa chỉ, tên đường
+            - textbox "Địa chỉ, tên đường Địa chỉ, tên đường" [active] [ref=e62]
+          - generic [ref=e63]:
+            - generic [ref=e65]:
+              - generic [ref=e66]: Tỉnh/TP, Quận/Huyện, Phường/Xã
+              - textbox "Tỉnh/TP, Quận/Huyện, Phường/Xã Tỉnh/TP, Quận/Huyện, Phường/Xã" [ref=e68]
+            - generic [ref=e69]:
+              - log [ref=e71]
+              - combobox [ref=e74]
+      - generic [ref=e75]:
+        - generic [ref=e76]: Phương thức giao hàng
+        - paragraph [ref=e78]: Nhập địa chỉ để xem các phương thức giao hàng
+      - generic [ref=e79]:
+        - generic [ref=e81]: Phương thức thanh toán
+        - radiogroup [ref=e84]:
+          - generic [ref=e85] [cursor=pointer]:
+            - radio "Thanh toán khi giao hàng (COD)" [checked] [ref=e87]
+            - generic [ref=e95] [cursor=pointer]:
+              - img [ref=e96] [cursor=pointer]
+              - generic [ref=e98] [cursor=pointer]: Thanh toán khi giao hàng (COD)
+          - generic [ref=e99] [cursor=pointer]:
+            - radio "TT VNPay (ATM/Visa/MasterCard/JCB/QR Pay)" [ref=e101]
+            - generic [ref=e109] [cursor=pointer]:
+              - img [ref=e110] [cursor=pointer]
+              - generic [ref=e111] [cursor=pointer]:
+                - generic [ref=e112] [cursor=pointer]: TT VNPay (ATM/Visa/MasterCard/JCB/QR Pay)
+                - generic [ref=e113] [cursor=pointer]:
+                  - img [ref=e115] [cursor=pointer]
+                  - img [ref=e117] [cursor=pointer]
+                  - img [ref=e119] [cursor=pointer]
+                  - img [ref=e121] [cursor=pointer]
+          - generic [ref=e122] [cursor=pointer]:
+            - radio "TT qua ví MoMo" [ref=e124]
+            - generic [ref=e132] [cursor=pointer]:
+              - img [ref=e133] [cursor=pointer]
+              - generic [ref=e135] [cursor=pointer]: TT qua ví MoMo
+          - generic [ref=e136] [cursor=pointer]:
+            - radio "Thanh toán online qua cổng ZaloPay bằng ZaloPay QR đa năng" [ref=e138]
+            - generic [ref=e146] [cursor=pointer]:
+              - img [ref=e147] [cursor=pointer]
+              - generic [ref=e148] [cursor=pointer]:
+                - generic [ref=e149] [cursor=pointer]: Thanh toán online qua cổng ZaloPay bằng ZaloPay QR đa năng
+                - img [ref=e152] [cursor=pointer]
+          - generic [ref=e153] [cursor=pointer]:
+            - radio "Chuyển khoản qua QR - MBBank" [ref=e155]
+            - generic [ref=e163] [cursor=pointer]:
+              - img [ref=e164] [cursor=pointer]
+              - generic [ref=e170] [cursor=pointer]: Chuyển khoản qua QR - MBBank
+      - generic [ref=e172]:
+        - paragraph [ref=e173]: Hoá đơn điện tử
+        - generic [ref=e175] [cursor=pointer]:
+          - paragraph [ref=e176] [cursor=pointer]: Yêu cầu xuất
+          - img [ref=e178] [cursor=pointer]
+      - textbox "Ghi chú đơn hàng" [ref=e184]
+    - generic [ref=e188]:
+      - generic [ref=e189]:
+        - paragraph [ref=e190]: Giỏ hàng
+        - generic [ref=e194]:
+          - img "Be / 2Y-11-12kg" [ref=e202] [cursor=pointer]
+          - generic [ref=e204]:
+            - generic [ref=e206]:
+              - generic [ref=e207]:
+                - paragraph [ref=e208]: Áo nỉ mũ dài tay bé gái Rabity 915.001
+                - img [ref=e210] [cursor=pointer]
+              - button "Be / 2Y-11-12kg" [ref=e214] [cursor=pointer]:
+                - generic [ref=e215] [cursor=pointer]:
+                  - paragraph [ref=e216] [cursor=pointer]: Be / 2Y-11-12kg
+                  - img [ref=e218] [cursor=pointer]
+            - generic [ref=e221]:
+              - generic [ref=e223]: 299,000₫
+              - group [ref=e227]:
+                - button "Decrease product-quantity" [ref=e228] [cursor=pointer]:
+                  - img [ref=e229] [cursor=pointer]
+                - textbox "product-quantity" [ref=e230]: "1"
+                - button "Increase product-quantity" [ref=e231] [cursor=pointer]:
+                  - img [ref=e232] [cursor=pointer]
+      - generic [ref=e234]:
+        - paragraph [ref=e235]: Mã khuyến mãi
+        - generic [ref=e236]:
+          - button "Chọn mã" [ref=e239] [cursor=pointer]:
+            - generic [ref=e240] [cursor=pointer]:
+              - img [ref=e241] [cursor=pointer]
+              - paragraph [ref=e243] [cursor=pointer]: Chọn mã
+            - img [ref=e246] [cursor=pointer]
+          - generic [ref=e248]:
+            - textbox "Nhập mã khuyến mãi" [ref=e253]
+            - button "Áp dụng" [ref=e254] [cursor=pointer]
+      - generic [ref=e255]:
+        - paragraph [ref=e256]: Tóm tắt đơn hàng
+        - generic [ref=e258]:
+          - generic [ref=e259]:
+            - paragraph [ref=e260]: Tổng tiền hàng
+            - paragraph [ref=e261]: 299,000₫
+          - generic [ref=e262]:
+            - paragraph [ref=e263]: Phí vận chuyển
+            - paragraph [ref=e264]: "-"
+          - generic [ref=e265]:
+            - paragraph [ref=e266]: Tổng thanh toán
+            - paragraph [ref=e268]: 299,000₫
+        - button "Đặt hàng" [ref=e271] [cursor=pointer]:
+          - paragraph [ref=e273] [cursor=pointer]: Đặt hàng
+  - generic [ref=e278]:
+    - text: Powered by
+    - img [ref=e279]
+```

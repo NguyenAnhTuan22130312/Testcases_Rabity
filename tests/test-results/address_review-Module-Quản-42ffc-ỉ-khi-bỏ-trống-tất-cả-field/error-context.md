@@ -198,19 +198,19 @@
               - paragraph [ref=e146]: 123 Đường Test Playwright
               - paragraph [ref=e147]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
               - paragraph [ref=e148]: "0999888777"
-              - generic [ref=e149]: Địa chỉ mặc định
-              - generic [ref=e150]:
-                - link [ref=e151] [cursor=pointer]:
+              - generic [ref=e149]:
+                - link [ref=e150] [cursor=pointer]:
                   - /url: "#"
-                  - img [ref=e152] [cursor=pointer]
-                - link "Xóa" [ref=e156] [cursor=pointer]:
+                  - img [ref=e151] [cursor=pointer]
+                - link "Xóa" [ref=e155] [cursor=pointer]:
                   - /url: "#"
-            - generic [ref=e158]:
-              - paragraph [ref=e159]:
-                - strong [ref=e160]: "!@#$ %^&*"
-              - paragraph [ref=e161]: 123 Duong Test
-              - paragraph [ref=e162]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
-              - paragraph [ref=e163]: "0912345678"
+            - generic [ref=e157]:
+              - paragraph [ref=e158]:
+                - strong [ref=e159]: "!@#$ %^&*"
+              - paragraph [ref=e160]: 123 Duong Test
+              - paragraph [ref=e161]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
+              - paragraph [ref=e162]: "0912345678"
+              - generic [ref=e163]: Địa chỉ mặc định
               - generic [ref=e164]:
                 - link [ref=e165] [cursor=pointer]:
                   - /url: "#"
@@ -229,100 +229,112 @@
                   - img [ref=e178] [cursor=pointer]
                 - link "Xóa" [ref=e182] [cursor=pointer]:
                   - /url: "#"
-  - contentinfo [ref=e183]:
-    - generic [ref=e185]:
-      - generic [ref=e186]:
-        - generic [ref=e187]: ĐĂNG KÝ NHẬN TIN
-        - generic [ref=e188]:
-          - paragraph [ref=e189]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
-          - generic [ref=e190]:
-            - textbox "Nhập địa chỉ email" [ref=e191]
-            - button "Đăng ký" [ref=e192] [cursor=pointer]
-          - list [ref=e194]:
-            - listitem [ref=e195]:
-              - link "icon" [ref=e196] [cursor=pointer]:
+            - generic [ref=e184]:
+              - paragraph [ref=e185]:
+                - strong [ref=e186]: "!@#$ %^&*"
+              - paragraph [ref=e187]: 123 Duong Test
+              - paragraph [ref=e188]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
+              - paragraph [ref=e189]: "0912345678"
+              - generic [ref=e190]:
+                - link [ref=e191] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e192] [cursor=pointer]
+                - link "Xóa" [ref=e196] [cursor=pointer]:
+                  - /url: "#"
+  - contentinfo [ref=e197]:
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - generic [ref=e201]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e202]:
+          - paragraph [ref=e203]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e204]:
+            - textbox "Nhập địa chỉ email" [ref=e205]
+            - button "Đăng ký" [ref=e206] [cursor=pointer]
+          - list [ref=e208]:
+            - listitem [ref=e209]:
+              - link "icon" [ref=e210] [cursor=pointer]:
                 - /url: https://www.facebook.com/Rabityfashion
-                - img "icon" [ref=e197] [cursor=pointer]
-            - listitem [ref=e198]:
-              - link "icon" [ref=e199] [cursor=pointer]:
+                - img "icon" [ref=e211] [cursor=pointer]
+            - listitem [ref=e212]:
+              - link "icon" [ref=e213] [cursor=pointer]:
                 - /url: https://www.youtube.com/@rabity8526
-                - img "icon" [ref=e200] [cursor=pointer]
-            - listitem [ref=e201]:
-              - link "icon" [ref=e202] [cursor=pointer]:
+                - img "icon" [ref=e214] [cursor=pointer]
+            - listitem [ref=e215]:
+              - link "icon" [ref=e216] [cursor=pointer]:
                 - /url: https://www.youtube.com/@rabity8526
-                - img "icon" [ref=e203] [cursor=pointer]
-      - generic [ref=e204]:
-        - generic [ref=e205]: VỀ RABITY
-        - list [ref=e206]:
-          - listitem [ref=e207]:
-            - link "Câu chuyện về Rabity" [ref=e208] [cursor=pointer]:
+                - img "icon" [ref=e217] [cursor=pointer]
+      - generic [ref=e218]:
+        - generic [ref=e219]: VỀ RABITY
+        - list [ref=e220]:
+          - listitem [ref=e221]:
+            - link "Câu chuyện về Rabity" [ref=e222] [cursor=pointer]:
               - /url: /pages/cau-chuyen-ve-rabity
-          - listitem [ref=e209]:
-            - link "Tin tức nhà Thỏ" [ref=e210] [cursor=pointer]:
+          - listitem [ref=e223]:
+            - link "Tin tức nhà Thỏ" [ref=e224] [cursor=pointer]:
               - /url: /blogs/tin-tuc-rabity
-          - listitem [ref=e211]:
-            - link "Hệ thống cửa hàng" [ref=e212] [cursor=pointer]:
+          - listitem [ref=e225]:
+            - link "Hệ thống cửa hàng" [ref=e226] [cursor=pointer]:
               - /url: /pages/danh-sach-cua-hang
-      - generic [ref=e213]:
-        - generic [ref=e214]: HỖ TRỢ KHÁCH HÀNG
-        - list [ref=e215]:
-          - listitem [ref=e216]:
-            - link "Chính sách đổi trả hàng" [ref=e217] [cursor=pointer]:
+      - generic [ref=e227]:
+        - generic [ref=e228]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e229]:
+          - listitem [ref=e230]:
+            - link "Chính sách đổi trả hàng" [ref=e231] [cursor=pointer]:
               - /url: /pages/rabity-chinh-sach-doi-hang
-          - listitem [ref=e218]:
-            - link "Hướng dẫn chọn size" [ref=e219] [cursor=pointer]:
+          - listitem [ref=e232]:
+            - link "Hướng dẫn chọn size" [ref=e233] [cursor=pointer]:
               - /url: https://rabity.vn/pages/huong-dan-chon-size
-          - listitem [ref=e220]:
-            - link "Hướng dẫn giặt quần áo" [ref=e221] [cursor=pointer]:
+          - listitem [ref=e234]:
+            - link "Hướng dẫn giặt quần áo" [ref=e235] [cursor=pointer]:
               - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
-          - listitem [ref=e222]:
-            - link "Tra cứu đơn hàng" [ref=e223] [cursor=pointer]:
+          - listitem [ref=e236]:
+            - link "Tra cứu đơn hàng" [ref=e237] [cursor=pointer]:
               - /url: /pages/kiem-tra-don-hang
-          - listitem [ref=e224]:
-            - link "Giao hàng & phí giao hàng" [ref=e225] [cursor=pointer]:
+          - listitem [ref=e238]:
+            - link "Giao hàng & phí giao hàng" [ref=e239] [cursor=pointer]:
               - /url: /pages/rabity-chinh-sach-giao-hang
-          - listitem [ref=e226]:
-            - link "Chính sách Khách hàng thân thiết" [ref=e227] [cursor=pointer]:
+          - listitem [ref=e240]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e241] [cursor=pointer]:
               - /url: /pages/chinh-sach-khach-hang-than-thiet
-          - listitem [ref=e228]:
-            - link "Chính sách bảo mật thông tin" [ref=e229] [cursor=pointer]:
-              - /url: /pages/chinh-sach-bao-mat-thong-tin
-      - generic [ref=e230]:
-        - generic [ref=e231]: CÔNG TY TNHH TÂN PHÚ
-        - list [ref=e232]:
-          - listitem [ref=e233]:
-            - img [ref=e235]
-            - generic [ref=e239]:
-              - generic [ref=e240]: "Văn phòng phía Bắc:"
-              - generic [ref=e241]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
           - listitem [ref=e242]:
-            - img [ref=e244]
-            - generic [ref=e248]:
-              - generic [ref=e249]: "Văn phòng phía Nam:"
-              - generic [ref=e250]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
-          - listitem [ref=e251]:
-            - img [ref=e253]
-            - generic [ref=e258]:
+            - link "Chính sách bảo mật thông tin" [ref=e243] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e244]:
+        - generic [ref=e245]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e246]:
+          - listitem [ref=e247]:
+            - img [ref=e249]
+            - generic [ref=e253]:
+              - generic [ref=e254]: "Văn phòng phía Bắc:"
+              - generic [ref=e255]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e256]:
+            - img [ref=e258]
+            - generic [ref=e262]:
+              - generic [ref=e263]: "Văn phòng phía Nam:"
+              - generic [ref=e264]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e265]:
+            - img [ref=e267]
+            - generic [ref=e272]:
               - text: "Số điện thoại:"
-              - link "1900633520" [ref=e259] [cursor=pointer]:
+              - link "1900633520" [ref=e273] [cursor=pointer]:
                 - /url: tel:1900633520
-          - listitem [ref=e260]:
-            - img [ref=e262]
-            - generic [ref=e266]:
+          - listitem [ref=e274]:
+            - img [ref=e276]
+            - generic [ref=e280]:
               - text: "Email:"
-              - link "cskh@rabity.vn" [ref=e267] [cursor=pointer]:
+              - link "cskh@rabity.vn" [ref=e281] [cursor=pointer]:
                 - /url: mailto:cskh@rabity.vn
-    - generic [ref=e270]:
-      - generic [ref=e271]:
+    - generic [ref=e284]:
+      - generic [ref=e285]:
         - text: © CÔNG TY TNHH TÂN PHÚ
         - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
         - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
-      - link "Logo bộ công thương" [ref=e274] [cursor=pointer]:
+      - link "Logo bộ công thương" [ref=e288] [cursor=pointer]:
         - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
-        - img "Logo bộ công thương" [ref=e275] [cursor=pointer]
+        - img "Logo bộ công thương" [ref=e289] [cursor=pointer]
   - text: prev next
   - alert:
     - button "Close":
       - img "Button Close"
-  - button [ref=e277] [cursor=pointer]
+  - button [ref=e291] [cursor=pointer]
 ```

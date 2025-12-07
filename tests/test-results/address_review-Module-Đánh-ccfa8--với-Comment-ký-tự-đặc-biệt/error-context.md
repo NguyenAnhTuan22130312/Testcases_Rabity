@@ -103,7 +103,7 @@
               - img [ref=e108]
               - img [ref=e110]
               - img [ref=e112]
-            - generic [ref=e114] [cursor=pointer]: (249 đánh giá)
+            - generic [ref=e114] [cursor=pointer]: (251 đánh giá)
           - generic [ref=e116]:
             - strong [ref=e117]: "SKU:"
             - generic [ref=e118]: "9276200000411"
@@ -244,7 +244,7 @@
               - generic [ref=e285]:
                 - img [ref=e286]
                 - generic [ref=e288]: "4.9"
-              - generic [ref=e289]: 249 đánh giá
+              - generic [ref=e289]: 251 đánh giá
             - generic [ref=e290]:
               - generic [ref=e291]:
                 - generic [ref=e292]:
@@ -254,7 +254,7 @@
                   - img [ref=e299]
                   - img [ref=e301]
                 - progressbar [ref=e303]: 96.0%
-                - generic [ref=e304]: "239"
+                - generic [ref=e304]: "241"
               - generic [ref=e305]:
                 - generic [ref=e306]:
                   - img [ref=e307]
@@ -306,7 +306,7 @@
           - generic [ref=e411]:
             - generic [ref=e412]:
               - generic [ref=e414]: Lam Lam
-              - generic [ref=e415]: 07/12/2025
+              - generic [ref=e415]: 08/12/2025
             - generic [ref=e416]:
               - generic [ref=e417]:
                 - img [ref=e418]
@@ -314,7 +314,7 @@
                 - img [ref=e422]
                 - img [ref=e424]
                 - img [ref=e426]
-              - generic [ref=e428]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #460"
+              - generic [ref=e428]: h
               - generic [ref=e429]:
                 - generic [ref=e430] [cursor=pointer]:
                   - img [ref=e431] [cursor=pointer]
@@ -324,8 +324,8 @@
                   - generic [ref=e437] [cursor=pointer]: (0)
           - generic [ref=e438]:
             - generic [ref=e439]:
-              - generic [ref=e441]: dangvuhaphuong
-              - generic [ref=e442]: 30/11/2025
+              - generic [ref=e441]: Lam Lam
+              - generic [ref=e442]: 08/12/2025
             - generic [ref=e443]:
               - generic [ref=e444]:
                 - img [ref=e445]
@@ -333,76 +333,76 @@
                 - img [ref=e449]
                 - img [ref=e451]
                 - img [ref=e453]
-              - generic [ref=e455]: Quần jean ko bị cứng, bé trai 1m75, 65kg mặc vẫn vừa, mặc đẹp nhé!
-              - generic [ref=e457]:
-                - generic [ref=e458]:
+              - generic [ref=e455]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #165"
+              - generic [ref=e456]:
+                - generic [ref=e457] [cursor=pointer]:
+                  - img [ref=e458] [cursor=pointer]
+                  - generic [ref=e460] [cursor=pointer]: (0)
+                - generic [ref=e461] [cursor=pointer]:
+                  - img [ref=e462] [cursor=pointer]
+                  - generic [ref=e464] [cursor=pointer]: (0)
+          - generic [ref=e465]:
+            - generic [ref=e466]:
+              - generic [ref=e468]: Lam Lam
+              - generic [ref=e469]: 07/12/2025
+            - generic [ref=e470]:
+              - generic [ref=e471]:
+                - img [ref=e472]
+                - img [ref=e474]
+                - img [ref=e476]
+                - img [ref=e478]
+                - img [ref=e480]
+              - generic [ref=e482]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #460"
+              - generic [ref=e483]:
+                - generic [ref=e484] [cursor=pointer]:
+                  - img [ref=e485] [cursor=pointer]
+                  - generic [ref=e487] [cursor=pointer]: (0)
+                - generic [ref=e488] [cursor=pointer]:
+                  - img [ref=e489] [cursor=pointer]
+                  - generic [ref=e491] [cursor=pointer]: (0)
+          - generic [ref=e492]:
+            - generic [ref=e493]:
+              - generic [ref=e495]: dangvuhaphuong
+              - generic [ref=e496]: 30/11/2025
+            - generic [ref=e497]:
+              - generic [ref=e498]:
+                - img [ref=e499]
+                - img [ref=e501]
+                - img [ref=e503]
+                - img [ref=e505]
+                - img [ref=e507]
+              - generic [ref=e509]: Quần jean ko bị cứng, bé trai 1m75, 65kg mặc vẫn vừa, mặc đẹp nhé!
+              - generic [ref=e511]:
+                - generic [ref=e512]:
                   - text: slide
-                  - generic [ref=e459]: "1"
+                  - generic [ref=e513]: "1"
                   - text: of 1
-                - img "Hình ảnh đánh giá" [ref=e464] [cursor=pointer]
-              - generic [ref=e465]:
-                - generic [ref=e466] [cursor=pointer]:
-                  - img [ref=e467] [cursor=pointer]
-                  - generic [ref=e469] [cursor=pointer]: (0)
-                - generic [ref=e470] [cursor=pointer]:
-                  - img [ref=e471] [cursor=pointer]
-                  - generic [ref=e473] [cursor=pointer]: (0)
-          - generic [ref=e474]:
-            - generic [ref=e475]:
-              - generic [ref=e477]: Lam Lam
-              - generic [ref=e478]: 28/11/2025
-            - generic [ref=e479]:
-              - generic [ref=e480]:
-                - img [ref=e481]
-                - img [ref=e483]
-                - img [ref=e485]
-                - img [ref=e487]
-                - img [ref=e489]
-              - generic [ref=e491]: "Áo khoác rất đẹp, giống hệt trong ảnh. Vải dày dặn. Mã review: #310"
-              - generic [ref=e493]:
-                - generic [ref=e494]:
+                - img "Hình ảnh đánh giá" [ref=e518] [cursor=pointer]
+              - generic [ref=e519]:
+                - generic [ref=e520] [cursor=pointer]:
+                  - img [ref=e521] [cursor=pointer]
+                  - generic [ref=e523] [cursor=pointer]: (0)
+                - generic [ref=e524] [cursor=pointer]:
+                  - img [ref=e525] [cursor=pointer]
+                  - generic [ref=e527] [cursor=pointer]: (0)
+          - generic [ref=e528]:
+            - generic [ref=e529]:
+              - generic [ref=e531]: Lam Lam
+              - generic [ref=e532]: 28/11/2025
+            - generic [ref=e533]:
+              - generic [ref=e534]:
+                - img [ref=e535]
+                - img [ref=e537]
+                - img [ref=e539]
+                - img [ref=e541]
+                - img [ref=e543]
+              - generic [ref=e545]: "Áo khoác rất đẹp, giống hệt trong ảnh. Vải dày dặn. Mã review: #310"
+              - generic [ref=e547]:
+                - generic [ref=e548]:
                   - text: slide
-                  - generic [ref=e495]: "1"
+                  - generic [ref=e549]: "1"
                   - text: of 1
-                - img "Hình ảnh đánh giá" [ref=e500] [cursor=pointer]
-              - generic [ref=e501]:
-                - generic [ref=e502] [cursor=pointer]:
-                  - img [ref=e503] [cursor=pointer]
-                  - generic [ref=e505] [cursor=pointer]: (0)
-                - generic [ref=e506] [cursor=pointer]:
-                  - img [ref=e507] [cursor=pointer]
-                  - generic [ref=e509] [cursor=pointer]: (0)
-          - generic [ref=e510]:
-            - generic [ref=e511]:
-              - generic [ref=e513]: Lam Lam
-              - generic [ref=e514]: 28/11/2025
-            - generic [ref=e515]:
-              - generic [ref=e516]:
-                - img [ref=e517]
-                - img [ref=e519]
-                - img [ref=e521]
-                - img [ref=e523]
-                - img [ref=e525]
-              - generic [ref=e527]: "!@#$#"
-              - generic [ref=e528]:
-                - generic [ref=e529] [cursor=pointer]:
-                  - img [ref=e530] [cursor=pointer]
-                  - generic [ref=e532] [cursor=pointer]: (0)
-                - generic [ref=e533] [cursor=pointer]:
-                  - img [ref=e534] [cursor=pointer]
-                  - generic [ref=e536] [cursor=pointer]: (0)
-          - generic [ref=e537]:
-            - generic [ref=e538]:
-              - generic [ref=e540]: Lam Lam
-              - generic [ref=e541]: 28/11/2025
-            - generic [ref=e542]:
-              - generic [ref=e543]:
-                - img [ref=e544]
-                - img [ref=e546]
-                - img [ref=e548]
-                - img [ref=e550]
-                - img [ref=e552]
-              - generic [ref=e554]: h
+                - img "Hình ảnh đánh giá" [ref=e554] [cursor=pointer]
               - generic [ref=e555]:
                 - generic [ref=e556] [cursor=pointer]:
                   - img [ref=e557] [cursor=pointer]
@@ -421,7 +421,7 @@
                 - img [ref=e575]
                 - img [ref=e577]
                 - img [ref=e579]
-              - generic [ref=e581]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #461"
+              - generic [ref=e581]: "!@#$#"
               - generic [ref=e582]:
                 - generic [ref=e583] [cursor=pointer]:
                   - img [ref=e584] [cursor=pointer]
@@ -459,7 +459,7 @@
                 - img [ref=e629]
                 - img [ref=e631]
                 - img [ref=e633]
-              - generic [ref=e635]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #425"
+              - generic [ref=e635]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #461"
               - generic [ref=e636]:
                 - generic [ref=e637] [cursor=pointer]:
                   - img [ref=e638] [cursor=pointer]
@@ -478,7 +478,7 @@
                 - img [ref=e656]
                 - img [ref=e658]
                 - img [ref=e660]
-              - generic [ref=e662]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #644"
+              - generic [ref=e662]: h
               - generic [ref=e663]:
                 - generic [ref=e664] [cursor=pointer]:
                   - img [ref=e665] [cursor=pointer]
@@ -497,7 +497,7 @@
                 - img [ref=e683]
                 - img [ref=e685]
                 - img [ref=e687]
-              - generic [ref=e689]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #916"
+              - generic [ref=e689]: "Sản phẩm đẹp, bé mặc vừa in. Chất vải mềm mát, giao hàng nhanh. Mã review: #425"
               - generic [ref=e690]:
                 - generic [ref=e691] [cursor=pointer]:
                   - img [ref=e692] [cursor=pointer]
@@ -704,7 +704,7 @@
                   - generic [ref=e945]: "4.9"
                   - generic [ref=e947]:
                     - img [ref=e949]
-                    - generic [ref=e951]: (249)
+                    - generic [ref=e951]: (251)
                 - link "Áo khoác mũ dài tay bé trai Rabity 92762" [ref=e952] [cursor=pointer]:
                   - /url: /products/ao-khoac-ni-mu-be-trai-rabity-92762
                   - img "Áo khoác mũ dài tay bé trai Rabity 92762" [ref=e954] [cursor=pointer]
@@ -835,4 +835,9 @@
       - img "Button Close"
   - button [ref=e1079] [cursor=pointer]
   - button "↑" [ref=e1080] [cursor=pointer]
+  - generic [ref=e1082]:
+    - img [ref=e1084]
+    - generic [ref=e1086]:
+      - generic [ref=e1087]: Cảm ơn bạn đã để lại đánh giá!
+      - generic [ref=e1088]: Đánh giá của bạn sẽ được kiểm duyệt và hiển thị trong thời gian sớm nhất
 ```

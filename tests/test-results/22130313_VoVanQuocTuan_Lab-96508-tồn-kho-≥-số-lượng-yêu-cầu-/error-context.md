@@ -41,7 +41,7 @@
         - img [ref=e42] [cursor=pointer]
         - img [ref=e47] [cursor=pointer]
         - link [ref=e51] [cursor=pointer]:
-          - /url: "#"
+          - /url: /account
           - img [ref=e52] [cursor=pointer]
         - link "0" [ref=e57] [cursor=pointer]:
           - /url: /cart

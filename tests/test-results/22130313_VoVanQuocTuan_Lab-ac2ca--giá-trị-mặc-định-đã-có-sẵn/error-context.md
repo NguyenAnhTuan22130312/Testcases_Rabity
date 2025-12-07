@@ -1,7 +1,7 @@
 # Page snapshot
 
 ```yaml
-- generic [ref=e1]:
+- generic [active] [ref=e1]:
   - link "Banner top" [ref=e4] [cursor=pointer]:
     - /url: https://rabity.vn/collections/sale-he-ruc-ro
     - img "Banner top" [ref=e5] [cursor=pointer]
@@ -62,9 +62,9 @@
       - generic [ref=e73]:
         - generic [ref=e74]:
           - generic [ref=e75]:
-            - img "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Tuấn" [ref=e77]
+            - img "Tuấn" [ref=e77]
             - generic [ref=e78]:
-              - text: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Tuấn
+              - text: Tuấn
               - link "Đăng xuất" [ref=e79] [cursor=pointer]:
                 - /url: /account/logout
           - list [ref=e81]:
@@ -109,7 +109,7 @@
           - generic [ref=e116]:
             - generic [ref=e117]:
               - generic [ref=e118]: Họ
-              - textbox "Nhập họ của bạn" [ref=e119]: Võ @#$%^&*()
+              - textbox "Nhập họ của bạn" [ref=e119]
             - generic [ref=e120]:
               - generic [ref=e121]: Tên
               - textbox "Nhập tên của bạn" [ref=e122]: Tuấn
@@ -122,7 +122,7 @@
                 - option "Giới tính" [selected]
                 - option "Nam"
                 - option "Nữ"
-            - button "Cập nhật" [active] [ref=e130] [cursor=pointer]
+            - button "Cập nhật" [ref=e130] [cursor=pointer]
   - contentinfo [ref=e131]:
     - generic [ref=e133]:
       - generic [ref=e134]:
@@ -215,9 +215,8 @@
         - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
         - img "Logo bộ công thương" [ref=e223] [cursor=pointer]
   - text: prev next
-  - alert [ref=e224]:
-    - button "Close" [ref=e225] [cursor=pointer]:
-      - img "Button Close" [ref=e226] [cursor=pointer]
-    - generic [ref=e227]: Cập nhật thông tin thành công
-  - button [ref=e229] [cursor=pointer]
+  - alert:
+    - button "Close":
+      - img "Button Close"
+  - button [ref=e225] [cursor=pointer]
 ```
