@@ -1,0 +1,1081 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - link "Banner top" [ref=e4] [cursor=pointer]:
+    - /url: https://rabity.vn/collections/sale-he-ruc-ro
+    - img "Banner top" [ref=e5] [cursor=pointer]
+  - banner [ref=e6]:
+    - generic [ref=e8]:
+      - link "Logo" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Logo Rabity | Thời trang trẻ em cao cấp – Quần áo cho bé" [ref=e11] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link "BÉ GÁI" [ref=e16] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-gai
+          - listitem [ref=e17]:
+            - link "BÉ TRAI" [ref=e18] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-trai
+          - listitem [ref=e19]:
+            - link "🌟 GIÀY DÉP" [ref=e20] [cursor=pointer]:
+              - /url: /collections/giay-tre-em
+          - listitem [ref=e21]:
+            - link "BỘ SƯU TẬP MỚI" [ref=e22] [cursor=pointer]:
+              - /url: /collections/new
+          - listitem [ref=e23]:
+            - link "🔥TUẦN LỄ GIÁ MỚI" [ref=e24] [cursor=pointer]:
+              - /url: /collections/sale-he-ruc-ro
+          - listitem [ref=e25]:
+            - link "THỎ CHIA SẺ" [ref=e26] [cursor=pointer]:
+              - /url: /blogs/news
+      - generic [ref=e28]:
+        - textbox "Bạn cần tìm gì?" [ref=e29]
+        - button [ref=e30] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+      - generic [ref=e34]:
+        - link [ref=e36] [cursor=pointer]:
+          - /url: /account?view=wishlist
+          - img [ref=e37] [cursor=pointer]
+        - img [ref=e42] [cursor=pointer]
+        - img [ref=e47] [cursor=pointer]
+        - link [ref=e51] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e52] [cursor=pointer]
+        - link "0" [ref=e57] [cursor=pointer]:
+          - /url: /cart
+          - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60] [cursor=pointer]: "0"
+  - main [ref=e61]:
+    - heading "Giày dép trẻ em" [level=1] [ref=e65]
+    - generic [ref=e66]:
+      - generic [ref=e70]:
+        - button "Lọc" [ref=e71] [cursor=pointer]:
+          - img [ref=e72] [cursor=pointer]
+          - generic [ref=e75] [cursor=pointer]: Lọc
+        - generic [ref=e76]:
+          - button "Giới tính" [ref=e77] [cursor=pointer]:
+            - generic [ref=e78] [cursor=pointer]: Giới tính
+            - img [ref=e79] [cursor=pointer]
+          - button "Độ tuổi" [ref=e82] [cursor=pointer]:
+            - generic [ref=e83] [cursor=pointer]: Độ tuổi
+            - img [ref=e84] [cursor=pointer]
+          - button "Cân nặng" [ref=e87] [cursor=pointer]:
+            - generic [ref=e88] [cursor=pointer]: Cân nặng
+            - img [ref=e89] [cursor=pointer]
+          - button "Loại sản phẩm" [ref=e92] [cursor=pointer]:
+            - generic [ref=e93] [cursor=pointer]: Loại sản phẩm
+            - img [ref=e94] [cursor=pointer]
+          - button "Màu sắc" [ref=e97] [cursor=pointer]:
+            - generic [ref=e98] [cursor=pointer]: Màu sắc
+            - img [ref=e99] [cursor=pointer]
+          - button "Giá" [ref=e102] [cursor=pointer]:
+            - generic [ref=e103] [cursor=pointer]: Giá
+            - img [ref=e104] [cursor=pointer]
+      - 'button "Xếp theo: Sản phẩm nổi bật" [ref=e111] [cursor=pointer]':
+        - generic [ref=e112] [cursor=pointer]: "Xếp theo:"
+        - generic [ref=e113] [cursor=pointer]:
+          - generic [ref=e114] [cursor=pointer]: Sản phẩm nổi bật
+          - img [ref=e115] [cursor=pointer]
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - generic [ref=e125]:
+                - img [ref=e127]
+                - generic [ref=e129]: (0)
+              - generic [ref=e131]: Mới
+              - link "Giày búp bê bé gái Rabity 686.500" [ref=e132] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-686-500
+                - img "Giày búp bê bé gái Rabity 686.500" [ref=e134] [cursor=pointer]
+            - generic [ref=e135]:
+              - heading "Giày búp bê bé gái Rabity 686.500" [level=4] [ref=e136]:
+                - link "Giày búp bê bé gái Rabity 686.500" [ref=e137] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-686-500
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e141] [cursor=pointer]:
+                    - img [ref=e142] [cursor=pointer]
+                  - button [ref=e146] [cursor=pointer]:
+                    - img [ref=e147] [cursor=pointer]
+                - generic [ref=e152]: 439,000đ
+              - img "Giày búp bê bé gái Rabity 686.500" [ref=e156] [cursor=pointer]
+          - generic [ref=e157]:
+            - generic [ref=e158]:
+              - generic [ref=e161]:
+                - img [ref=e163]
+                - generic [ref=e165]: (0)
+              - generic [ref=e167]: Mới
+              - link "Giày búp bê bé gái Rabity 683.019 (Size 31 - Size 35)" [ref=e168] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-019
+                - img "Giày búp bê bé gái Rabity 683.019 (Size 31 - Size 35)" [ref=e170] [cursor=pointer]
+            - generic [ref=e171]:
+              - heading "Giày búp bê bé gái Rabity 683.019 (Size 31 - Size 35)" [level=4] [ref=e172]:
+                - link "Giày búp bê bé gái Rabity 683.019 (Size 31 - Size 35)" [ref=e173] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-019
+              - generic [ref=e174]:
+                - generic [ref=e175]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e177] [cursor=pointer]:
+                    - img [ref=e178] [cursor=pointer]
+                  - button [ref=e182] [cursor=pointer]:
+                    - img [ref=e183] [cursor=pointer]
+                - generic [ref=e188]: 479,000đ
+              - generic [ref=e189]:
+                - img "Giày búp bê bé gái Rabity 683.019 (Size 31 - Size 35)" [ref=e192] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.019 (Size 31 - Size 35)" [ref=e195] [cursor=pointer]
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e200]:
+                - img [ref=e202]
+                - generic [ref=e204]: (0)
+              - generic [ref=e206]: Mới
+              - link "Giày thể thao bé trai/bé gái Rabity 684.007.009 (Size 25 - Size 35)" [ref=e207] [cursor=pointer]:
+                - /url: /products/giay-the-thao-tre-em-rabity-684-007
+                - img "Giày thể thao bé trai/bé gái Rabity 684.007.009 (Size 25 - Size 35)" [ref=e209] [cursor=pointer]
+            - generic [ref=e210]:
+              - heading "Giày thể thao bé trai/bé gái Rabity 684.007.009 (Size 25 - Size 35)" [level=4] [ref=e211]:
+                - link "Giày thể thao bé trai/bé gái Rabity 684.007.009 (Size 25 - Size 35)" [ref=e212] [cursor=pointer]:
+                  - /url: /products/giay-the-thao-tre-em-rabity-684-007
+              - generic [ref=e213]:
+                - generic [ref=e214]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e216] [cursor=pointer]:
+                    - img [ref=e217] [cursor=pointer]
+                  - button [ref=e221] [cursor=pointer]:
+                    - img [ref=e222] [cursor=pointer]
+                - generic [ref=e227]: 469,000đ
+              - img "Giày thể thao bé trai/bé gái Rabity 684.007.009 (Size 25 - Size 35)" [ref=e231] [cursor=pointer]
+          - generic [ref=e232]:
+            - generic [ref=e233]:
+              - generic [ref=e236]:
+                - img [ref=e238]
+                - generic [ref=e240]: (0)
+              - generic [ref=e242]: Mới
+              - link "Giày thể thao bé trai/bé gái Rabity 684.011" [ref=e243] [cursor=pointer]:
+                - /url: /products/giay-the-thao-tre-em-rabity-684-011
+                - img "Giày thể thao bé trai/bé gái Rabity 684.011" [ref=e245] [cursor=pointer]
+            - generic [ref=e246]:
+              - heading "Giày thể thao bé trai/bé gái Rabity 684.011" [level=4] [ref=e247]:
+                - link "Giày thể thao bé trai/bé gái Rabity 684.011" [ref=e248] [cursor=pointer]:
+                  - /url: /products/giay-the-thao-tre-em-rabity-684-011
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e252] [cursor=pointer]:
+                    - img [ref=e253] [cursor=pointer]
+                  - button [ref=e257] [cursor=pointer]:
+                    - img [ref=e258] [cursor=pointer]
+                - generic [ref=e263]: 489,000đ
+              - img "Giày thể thao bé trai/bé gái Rabity 684.011" [ref=e267] [cursor=pointer]
+          - generic [ref=e268]:
+            - generic [ref=e269]:
+              - generic [ref=e272]:
+                - img [ref=e274]
+                - generic [ref=e276]: (0)
+              - generic [ref=e278]: Mới
+              - link "Giày búp bê bé gái Rabity 683.021.022 (Size 26 - Size 35)" [ref=e279] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-021
+                - img "Giày búp bê bé gái Rabity 683.021.022 (Size 26 - Size 35)" [ref=e281] [cursor=pointer]
+            - generic [ref=e282]:
+              - heading "Giày búp bê bé gái Rabity 683.021.022 (Size 26 - Size 35)" [level=4] [ref=e283]:
+                - link "Giày búp bê bé gái Rabity 683.021.022 (Size 26 - Size 35)" [ref=e284] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-021
+              - generic [ref=e285]:
+                - generic [ref=e286]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e288] [cursor=pointer]:
+                    - img [ref=e289] [cursor=pointer]
+                  - button [ref=e293] [cursor=pointer]:
+                    - img [ref=e294] [cursor=pointer]
+                - generic [ref=e299]: 449,000đ
+              - generic [ref=e300]:
+                - img "Giày búp bê bé gái Rabity 683.021.022 (Size 26 - Size 35)" [ref=e303] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.021.022 (Size 26 - Size 35)" [ref=e306] [cursor=pointer]
+          - generic [ref=e307]:
+            - generic [ref=e308]:
+              - generic [ref=e311]:
+                - img [ref=e313]
+                - generic [ref=e315]: (0)
+              - generic [ref=e317]: Mới
+              - link "Giày búp bê bé gái Rabity 683.013 (Size 31 - Size 35)" [ref=e318] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-013
+                - img "Giày búp bê bé gái Rabity 683.013 (Size 31 - Size 35)" [ref=e320] [cursor=pointer]
+            - generic [ref=e321]:
+              - heading "Giày búp bê bé gái Rabity 683.013 (Size 31 - Size 35)" [level=4] [ref=e322]:
+                - link "Giày búp bê bé gái Rabity 683.013 (Size 31 - Size 35)" [ref=e323] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-013
+              - generic [ref=e324]:
+                - generic [ref=e325]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e327] [cursor=pointer]:
+                    - img [ref=e328] [cursor=pointer]
+                  - button [ref=e332] [cursor=pointer]:
+                    - img [ref=e333] [cursor=pointer]
+                - generic [ref=e338]: 469,000đ
+              - generic [ref=e339]:
+                - img "Giày búp bê bé gái Rabity 683.013 (Size 31 - Size 35)" [ref=e342] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.013 (Size 31 - Size 35)" [ref=e345] [cursor=pointer]
+          - generic [ref=e346]:
+            - generic [ref=e347]:
+              - generic [ref=e350]:
+                - img [ref=e352]
+                - generic [ref=e354]: (0)
+              - generic [ref=e356]: Mới
+              - link "Giày búp bê bé gái Rabity 683.017 (Size 21 - Size 25)" [ref=e357] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-017
+                - img "Giày búp bê bé gái Rabity 683.017 (Size 21 - Size 25)" [ref=e359] [cursor=pointer]
+            - generic [ref=e360]:
+              - heading "Giày búp bê bé gái Rabity 683.017 (Size 21 - Size 25)" [level=4] [ref=e361]:
+                - link "Giày búp bê bé gái Rabity 683.017 (Size 21 - Size 25)" [ref=e362] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-017
+              - generic [ref=e363]:
+                - generic [ref=e364]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e366] [cursor=pointer]:
+                    - img [ref=e367] [cursor=pointer]
+                  - button [ref=e371] [cursor=pointer]:
+                    - img [ref=e372] [cursor=pointer]
+                - generic [ref=e377]: 459,000đ
+              - generic [ref=e378]:
+                - img "Giày búp bê bé gái Rabity 683.017 (Size 21 - Size 25)" [ref=e381] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.017 (Size 21 - Size 25)" [ref=e384] [cursor=pointer]
+          - generic [ref=e385]:
+            - generic [ref=e386]:
+              - generic [ref=e389]:
+                - img [ref=e391]
+                - generic [ref=e393]: (0)
+              - generic [ref=e395]: Mới
+              - link "Giày búp bê bé gái Rabity 683.015.016 (Size 26 - Size 35)" [ref=e396] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-015
+                - img "Giày búp bê bé gái Rabity 683.015.016 (Size 26 - Size 35)" [ref=e398] [cursor=pointer]
+            - generic [ref=e399]:
+              - heading "Giày búp bê bé gái Rabity 683.015.016 (Size 26 - Size 35)" [level=4] [ref=e400]:
+                - link "Giày búp bê bé gái Rabity 683.015.016 (Size 26 - Size 35)" [ref=e401] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-015
+              - generic [ref=e402]:
+                - generic [ref=e403]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e405] [cursor=pointer]:
+                    - img [ref=e406] [cursor=pointer]
+                  - button [ref=e410] [cursor=pointer]:
+                    - img [ref=e411] [cursor=pointer]
+                - generic [ref=e416]: 449,000đ
+              - generic [ref=e417]:
+                - img "Giày búp bê bé gái Rabity 683.015.016 (Size 26 - Size 35)" [ref=e420] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.015.016 (Size 26 - Size 35)" [ref=e423] [cursor=pointer]
+          - generic [ref=e424]:
+            - generic [ref=e425]:
+              - generic [ref=e428]:
+                - img [ref=e430]
+                - generic [ref=e432]: (0)
+              - generic [ref=e434]: Mới
+              - link "Giày búp bê bé gái Rabity 683.012 (Size 26 - Size 30)" [ref=e435] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-012
+                - img "Giày búp bê bé gái Rabity 683.012 (Size 26 - Size 30)" [ref=e437] [cursor=pointer]
+            - generic [ref=e438]:
+              - heading "Giày búp bê bé gái Rabity 683.012 (Size 26 - Size 30)" [level=4] [ref=e439]:
+                - link "Giày búp bê bé gái Rabity 683.012 (Size 26 - Size 30)" [ref=e440] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-012
+              - generic [ref=e441]:
+                - generic [ref=e442]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e444] [cursor=pointer]:
+                    - img [ref=e445] [cursor=pointer]
+                  - button [ref=e449] [cursor=pointer]:
+                    - img [ref=e450] [cursor=pointer]
+                - generic [ref=e455]: 459,000đ
+              - generic [ref=e456]:
+                - img "Giày búp bê bé gái Rabity 683.012 (Size 26 - Size 30)" [ref=e459] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.012 (Size 26 - Size 30)" [ref=e462] [cursor=pointer]
+          - generic [ref=e463]:
+            - generic [ref=e464]:
+              - generic [ref=e467]:
+                - img [ref=e469]
+                - generic [ref=e471]: (0)
+              - generic [ref=e473]: Mới
+              - link "Giày thể thao bé trai/bé gái Rabity 684.008.010 (Size 25 - Size 35)" [ref=e474] [cursor=pointer]:
+                - /url: /products/giay-the-thao-tre-em-rabity-684-008
+                - img "Giày thể thao bé trai/bé gái Rabity 684.008.010 (Size 25 - Size 35)" [ref=e476] [cursor=pointer]
+            - generic [ref=e477]:
+              - heading "Giày thể thao bé trai/bé gái Rabity 684.008.010 (Size 25 - Size 35)" [level=4] [ref=e478]:
+                - link "Giày thể thao bé trai/bé gái Rabity 684.008.010 (Size 25 - Size 35)" [ref=e479] [cursor=pointer]:
+                  - /url: /products/giay-the-thao-tre-em-rabity-684-008
+              - generic [ref=e480]:
+                - generic [ref=e481]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e483] [cursor=pointer]:
+                    - img [ref=e484] [cursor=pointer]
+                  - button [ref=e488] [cursor=pointer]:
+                    - img [ref=e489] [cursor=pointer]
+                - generic [ref=e494]: 469,000đ
+              - img "Giày thể thao bé trai/bé gái Rabity 684.008.010 (Size 25 - Size 35)" [ref=e498] [cursor=pointer]
+          - generic [ref=e499]:
+            - generic [ref=e500]:
+              - generic [ref=e503]:
+                - img [ref=e505]
+                - generic [ref=e507]: (0)
+              - generic [ref=e509]: Mới
+              - link "Giày búp bê bé gái Rabity 683.023 (tăng 1 size)" [ref=e510] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-023
+                - img "Giày búp bê bé gái Rabity 683.023 (tăng 1 size)" [ref=e512] [cursor=pointer]
+            - generic [ref=e513]:
+              - heading "Giày búp bê bé gái Rabity 683.023 (tăng 1 size)" [level=4] [ref=e514]:
+                - link "Giày búp bê bé gái Rabity 683.023 (tăng 1 size)" [ref=e515] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-023
+              - generic [ref=e516]:
+                - generic [ref=e517]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e519] [cursor=pointer]:
+                    - img [ref=e520] [cursor=pointer]
+                  - button [ref=e524] [cursor=pointer]:
+                    - img [ref=e525] [cursor=pointer]
+                - generic [ref=e530]: 499,000đ
+              - generic [ref=e531]:
+                - img "Giày búp bê bé gái Rabity 683.023 (tăng 1 size)" [ref=e534] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.023 (tăng 1 size)" [ref=e537] [cursor=pointer]
+          - generic [ref=e538]:
+            - generic [ref=e539]:
+              - generic [ref=e542]:
+                - img [ref=e544]
+                - generic [ref=e546]: (0)
+              - generic [ref=e548]: Mới
+              - link "Giày búp bê bé gái Rabity 683.024" [ref=e549] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-024
+                - img "Giày búp bê bé gái Rabity 683.024" [ref=e551] [cursor=pointer]
+            - generic [ref=e552]:
+              - heading "Giày búp bê bé gái Rabity 683.024" [level=4] [ref=e553]:
+                - link "Giày búp bê bé gái Rabity 683.024" [ref=e554] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-024
+              - generic [ref=e555]:
+                - generic [ref=e556]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e558] [cursor=pointer]:
+                    - img [ref=e559] [cursor=pointer]
+                  - button [ref=e563] [cursor=pointer]:
+                    - img [ref=e564] [cursor=pointer]
+                - generic [ref=e569]: 499,000đ
+              - generic [ref=e570]:
+                - img "Giày búp bê bé gái Rabity 683.024" [ref=e573] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.024" [ref=e576] [cursor=pointer]
+          - generic [ref=e577]:
+            - generic [ref=e578]:
+              - generic [ref=e581]:
+                - img [ref=e583]
+                - generic [ref=e585]: (0)
+              - generic [ref=e587]: Mới
+              - link "Giày búp bê bé gái Rabity 683.020 (Size 21 - Size 25)" [ref=e588] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-020
+                - img "Giày búp bê bé gái Rabity 683.020 (Size 21 - Size 25)" [ref=e590] [cursor=pointer]
+            - generic [ref=e591]:
+              - heading "Giày búp bê bé gái Rabity 683.020 (Size 21 - Size 25)" [level=4] [ref=e592]:
+                - link "Giày búp bê bé gái Rabity 683.020 (Size 21 - Size 25)" [ref=e593] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-020
+              - generic [ref=e594]:
+                - generic [ref=e595]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e597] [cursor=pointer]:
+                    - img [ref=e598] [cursor=pointer]
+                  - button [ref=e602] [cursor=pointer]:
+                    - img [ref=e603] [cursor=pointer]
+                - generic [ref=e608]: 439,000đ
+              - generic [ref=e609]:
+                - img "Giày búp bê bé gái Rabity 683.020 (Size 21 - Size 25)" [ref=e612] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.020 (Size 21 - Size 25)" [ref=e615] [cursor=pointer]
+          - generic [ref=e616]:
+            - generic [ref=e617]:
+              - generic [ref=e620]:
+                - img [ref=e622]
+                - generic [ref=e624]: (0)
+              - generic [ref=e626]: Mới
+              - link "Giày búp bê bé gái Rabity 683.011 (Size 21 - Size 25)" [ref=e627] [cursor=pointer]:
+                - /url: /products/giau-bup-be-be-gai-rabity-683-011
+                - img "Giày búp bê bé gái Rabity 683.011 (Size 21 - Size 25)" [ref=e629] [cursor=pointer]
+            - generic [ref=e630]:
+              - heading "Giày búp bê bé gái Rabity 683.011 (Size 21 - Size 25)" [level=4] [ref=e631]:
+                - link "Giày búp bê bé gái Rabity 683.011 (Size 21 - Size 25)" [ref=e632] [cursor=pointer]:
+                  - /url: /products/giau-bup-be-be-gai-rabity-683-011
+              - generic [ref=e633]:
+                - generic [ref=e634]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e636] [cursor=pointer]:
+                    - img [ref=e637] [cursor=pointer]
+                  - button [ref=e641] [cursor=pointer]:
+                    - img [ref=e642] [cursor=pointer]
+                - generic [ref=e647]: 449,000đ
+              - generic [ref=e648]:
+                - img "Giày búp bê bé gái Rabity 683.011 (Size 21 - Size 25)" [ref=e651] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.011 (Size 21 - Size 25)" [ref=e654] [cursor=pointer]
+          - generic [ref=e655]:
+            - generic [ref=e656]:
+              - generic [ref=e659]:
+                - img [ref=e661]
+                - generic [ref=e663]: (0)
+              - generic [ref=e665]: Mới
+              - link "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [ref=e666] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-018
+                - img "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [ref=e668] [cursor=pointer]
+            - generic [ref=e669]:
+              - heading "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [level=4] [ref=e670]:
+                - link "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [ref=e671] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-018
+              - generic [ref=e672]:
+                - generic [ref=e673]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e675] [cursor=pointer]:
+                    - img [ref=e676] [cursor=pointer]
+                  - button [ref=e680] [cursor=pointer]:
+                    - img [ref=e681] [cursor=pointer]
+                - generic [ref=e686]: 469,000đ
+              - generic [ref=e687]:
+                - img "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [ref=e690] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [ref=e693] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.018 (Size 26 - Size 30)" [ref=e696] [cursor=pointer]
+          - generic [ref=e697]:
+            - generic [ref=e698]:
+              - generic [ref=e701]:
+                - img [ref=e703]
+                - generic [ref=e705]: (0)
+              - generic [ref=e707]: Mới
+              - link "Giày búp bê bé gái Rabity 683.014 (Size 21 - Size 25)" [ref=e708] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-014
+                - img "Giày búp bê bé gái Rabity 683.014 (Size 21 - Size 25)" [ref=e710] [cursor=pointer]
+            - generic [ref=e711]:
+              - heading "Giày búp bê bé gái Rabity 683.014 (Size 21 - Size 25)" [level=4] [ref=e712]:
+                - link "Giày búp bê bé gái Rabity 683.014 (Size 21 - Size 25)" [ref=e713] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-014
+              - generic [ref=e714]:
+                - generic [ref=e715]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e717] [cursor=pointer]:
+                    - img [ref=e718] [cursor=pointer]
+                  - button [ref=e722] [cursor=pointer]:
+                    - img [ref=e723] [cursor=pointer]
+                - generic [ref=e728]: 439,000đ
+              - generic [ref=e729]:
+                - img "Giày búp bê bé gái Rabity 683.014 (Size 21 - Size 25)" [ref=e732] [cursor=pointer]
+                - img "Giày búp bê bé gái Rabity 683.014 (Size 21 - Size 25)" [ref=e735] [cursor=pointer]
+          - generic [ref=e736]:
+            - generic [ref=e737]:
+              - generic [ref=e740]:
+                - img [ref=e742]
+                - generic [ref=e744]: (0)
+              - generic [ref=e746]: Mới
+              - link "Giày tập đi bé trai Rabity 682.006" [ref=e747] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-trai-rabity-682-006
+                - img "Giày tập đi bé trai Rabity 682.006" [ref=e749] [cursor=pointer]
+            - generic [ref=e750]:
+              - heading "Giày tập đi bé trai Rabity 682.006" [level=4] [ref=e751]:
+                - link "Giày tập đi bé trai Rabity 682.006" [ref=e752] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-trai-rabity-682-006
+              - generic [ref=e753]:
+                - generic [ref=e754]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e756] [cursor=pointer]:
+                    - img [ref=e757] [cursor=pointer]
+                  - button [ref=e761] [cursor=pointer]:
+                    - img [ref=e762] [cursor=pointer]
+                - generic [ref=e767]: 239,000đ
+              - generic [ref=e768]:
+                - img "Giày tập đi bé trai Rabity 682.006" [ref=e771] [cursor=pointer]
+                - img "Giày tập đi bé trai Rabity 682.006" [ref=e774] [cursor=pointer]
+          - generic [ref=e775]:
+            - generic [ref=e776]:
+              - generic [ref=e779]:
+                - img [ref=e781]
+                - generic [ref=e783]: (0)
+              - generic [ref=e785]: Mới
+              - link "Giày tập đi bé gái Rabity 682.003" [ref=e786] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-gai-rabity-682-003
+                - img "Giày tập đi bé gái Rabity 682.003" [ref=e788] [cursor=pointer]
+            - generic [ref=e789]:
+              - heading "Giày tập đi bé gái Rabity 682.003" [level=4] [ref=e790]:
+                - link "Giày tập đi bé gái Rabity 682.003" [ref=e791] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-gai-rabity-682-003
+              - generic [ref=e792]:
+                - generic [ref=e793]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e795] [cursor=pointer]:
+                    - img [ref=e796] [cursor=pointer]
+                  - button [ref=e800] [cursor=pointer]:
+                    - img [ref=e801] [cursor=pointer]
+                - generic [ref=e806]: 249,000đ
+              - generic [ref=e807]:
+                - img "Giày tập đi bé gái Rabity 682.003" [ref=e810] [cursor=pointer]
+                - img "Giày tập đi bé gái Rabity 682.003" [ref=e813] [cursor=pointer]
+          - generic [ref=e814]:
+            - generic [ref=e815]:
+              - generic [ref=e818]:
+                - img [ref=e820]
+                - generic [ref=e822]: (0)
+              - generic [ref=e824]: Mới
+              - link "Giày tập đi bé gái Rabity 682.009" [ref=e825] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-gai-rabity-682-009
+                - img "Giày tập đi bé gái Rabity 682.009" [ref=e827] [cursor=pointer]
+            - generic [ref=e828]:
+              - heading "Giày tập đi bé gái Rabity 682.009" [level=4] [ref=e829]:
+                - link "Giày tập đi bé gái Rabity 682.009" [ref=e830] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-gai-rabity-682-009
+              - generic [ref=e831]:
+                - generic [ref=e832]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e834] [cursor=pointer]:
+                    - img [ref=e835] [cursor=pointer]
+                  - button [ref=e839] [cursor=pointer]:
+                    - img [ref=e840] [cursor=pointer]
+                - generic [ref=e845]: 239,000đ
+              - img "Giày tập đi bé gái Rabity 682.009" [ref=e849] [cursor=pointer]
+          - generic [ref=e850]:
+            - generic [ref=e851]:
+              - generic [ref=e854]:
+                - img [ref=e856]
+                - generic [ref=e858]: (0)
+              - generic [ref=e860]: Mới
+              - link "Giày tập đi bé trai Rabity 682.004" [ref=e861] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-trai-rabity-682-004
+                - img "Giày tập đi bé trai Rabity 682.004" [ref=e863] [cursor=pointer]
+            - generic [ref=e864]:
+              - heading "Giày tập đi bé trai Rabity 682.004" [level=4] [ref=e865]:
+                - link "Giày tập đi bé trai Rabity 682.004" [ref=e866] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-trai-rabity-682-004
+              - generic [ref=e867]:
+                - generic [ref=e868]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e870] [cursor=pointer]:
+                    - img [ref=e871] [cursor=pointer]
+                  - button [ref=e875] [cursor=pointer]:
+                    - img [ref=e876] [cursor=pointer]
+                - generic [ref=e881]: 239,000đ
+              - generic [ref=e882]:
+                - img "Giày tập đi bé trai Rabity 682.004" [ref=e885] [cursor=pointer]
+                - img "Giày tập đi bé trai Rabity 682.004" [ref=e888] [cursor=pointer]
+          - generic [ref=e889]:
+            - generic [ref=e890]:
+              - generic [ref=e893]:
+                - img [ref=e895]
+                - generic [ref=e897]: (0)
+              - generic [ref=e899]: Mới
+              - link "Giày tập đi bé trai Rabity 682.005" [ref=e900] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-trai-rabity-682-005
+                - img "Giày tập đi bé trai Rabity 682.005" [ref=e902] [cursor=pointer]
+            - generic [ref=e903]:
+              - heading "Giày tập đi bé trai Rabity 682.005" [level=4] [ref=e904]:
+                - link "Giày tập đi bé trai Rabity 682.005" [ref=e905] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-trai-rabity-682-005
+              - generic [ref=e906]:
+                - generic [ref=e907]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e909] [cursor=pointer]:
+                    - img [ref=e910] [cursor=pointer]
+                  - button [ref=e914] [cursor=pointer]:
+                    - img [ref=e915] [cursor=pointer]
+                - generic [ref=e920]: 249,000đ
+              - generic [ref=e921]:
+                - img "Giày tập đi bé trai Rabity 682.005" [ref=e924] [cursor=pointer]
+                - img "Giày tập đi bé trai Rabity 682.005" [ref=e927] [cursor=pointer]
+          - generic [ref=e928]:
+            - generic [ref=e929]:
+              - generic [ref=e932]:
+                - img [ref=e934]
+                - generic [ref=e936]: (0)
+              - generic [ref=e938]: Mới
+              - link "Giày tập đi bé gái Rabity 682.008" [ref=e939] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-gai-rabity-682-008
+                - img "Giày tập đi bé gái Rabity 682.008" [ref=e941] [cursor=pointer]
+            - generic [ref=e942]:
+              - heading "Giày tập đi bé gái Rabity 682.008" [level=4] [ref=e943]:
+                - link "Giày tập đi bé gái Rabity 682.008" [ref=e944] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-gai-rabity-682-008
+              - generic [ref=e945]:
+                - generic [ref=e946]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e948] [cursor=pointer]:
+                    - img [ref=e949] [cursor=pointer]
+                  - button [ref=e953] [cursor=pointer]:
+                    - img [ref=e954] [cursor=pointer]
+                - generic [ref=e959]: 239,000đ
+              - generic [ref=e960]:
+                - img "Giày tập đi bé gái Rabity 682.008" [ref=e963] [cursor=pointer]
+                - img "Giày tập đi bé gái Rabity 682.008" [ref=e966] [cursor=pointer]
+          - generic [ref=e967]:
+            - generic [ref=e968]:
+              - generic [ref=e971]:
+                - img [ref=e973]
+                - generic [ref=e975]: (0)
+              - generic [ref=e977]: Mới
+              - link "Giày tập đi bé gái Rabity 682.007" [ref=e978] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-gai-rabity-682-007
+                - img "Giày tập đi bé gái Rabity 682.007" [ref=e980] [cursor=pointer]
+            - generic [ref=e981]:
+              - heading "Giày tập đi bé gái Rabity 682.007" [level=4] [ref=e982]:
+                - link "Giày tập đi bé gái Rabity 682.007" [ref=e983] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-gai-rabity-682-007
+              - generic [ref=e984]:
+                - generic [ref=e985]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e987] [cursor=pointer]:
+                    - img [ref=e988] [cursor=pointer]
+                  - button [ref=e992] [cursor=pointer]:
+                    - img [ref=e993] [cursor=pointer]
+                - generic [ref=e998]: 239,000đ
+              - generic [ref=e999]:
+                - img "Giày tập đi bé gái Rabity 682.007" [ref=e1002] [cursor=pointer]
+                - img "Giày tập đi bé gái Rabity 682.007" [ref=e1005] [cursor=pointer]
+          - generic [ref=e1006]:
+            - generic [ref=e1007]:
+              - generic [ref=e1010]:
+                - img [ref=e1012]
+                - generic [ref=e1014]: (0)
+              - generic [ref=e1016]: Mới
+              - link "Giày tập đi bé trai Rabity 682.002" [ref=e1017] [cursor=pointer]:
+                - /url: /products/giay-sandal-tap-di-be-trai-rabity-682-002
+                - img "Giày tập đi bé trai Rabity 682.002" [ref=e1019] [cursor=pointer]
+            - generic [ref=e1020]:
+              - heading "Giày tập đi bé trai Rabity 682.002" [level=4] [ref=e1021]:
+                - link "Giày tập đi bé trai Rabity 682.002" [ref=e1022] [cursor=pointer]:
+                  - /url: /products/giay-sandal-tap-di-be-trai-rabity-682-002
+              - generic [ref=e1023]:
+                - generic [ref=e1024]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1026] [cursor=pointer]:
+                    - img [ref=e1027] [cursor=pointer]
+                  - button [ref=e1031] [cursor=pointer]:
+                    - img [ref=e1032] [cursor=pointer]
+                - generic [ref=e1037]: 299,000đ
+              - img "Giày tập đi bé trai Rabity 682.002" [ref=e1041] [cursor=pointer]
+          - generic [ref=e1042]:
+            - generic [ref=e1043]:
+              - generic [ref=e1046]:
+                - img [ref=e1048]
+                - generic [ref=e1050]: (0)
+              - generic [ref=e1052]: Mới
+              - link "Giày tập đi bé trai Rabity 682.001" [ref=e1053] [cursor=pointer]:
+                - /url: /products/giay-tap-di-be-trai-rabity-682-001
+                - img "Giày tập đi bé trai Rabity 682.001" [ref=e1055] [cursor=pointer]
+            - generic [ref=e1056]:
+              - heading "Giày tập đi bé trai Rabity 682.001" [level=4] [ref=e1057]:
+                - link "Giày tập đi bé trai Rabity 682.001" [ref=e1058] [cursor=pointer]:
+                  - /url: /products/giay-tap-di-be-trai-rabity-682-001
+              - generic [ref=e1059]:
+                - generic [ref=e1060]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1062] [cursor=pointer]:
+                    - img [ref=e1063] [cursor=pointer]
+                  - button [ref=e1067] [cursor=pointer]:
+                    - img [ref=e1068] [cursor=pointer]
+                - generic [ref=e1073]: 299,000đ
+              - img "Giày tập đi bé trai Rabity 682.001" [ref=e1077] [cursor=pointer]
+          - generic [ref=e1078]:
+            - generic [ref=e1079]:
+              - generic [ref=e1082]:
+                - img [ref=e1084]
+                - generic [ref=e1086]: (0)
+              - generic [ref=e1088]: Mới
+              - link "Giày sandal bé gái Rabity 681.004" [ref=e1089] [cursor=pointer]:
+                - /url: /products/giay-sandal-be-gai-rabity-681-004
+                - img "Giày sandal bé gái Rabity 681.004" [ref=e1091] [cursor=pointer]
+            - generic [ref=e1092]:
+              - heading "Giày sandal bé gái Rabity 681.004" [level=4] [ref=e1093]:
+                - link "Giày sandal bé gái Rabity 681.004" [ref=e1094] [cursor=pointer]:
+                  - /url: /products/giay-sandal-be-gai-rabity-681-004
+              - generic [ref=e1095]:
+                - generic [ref=e1096]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1098] [cursor=pointer]:
+                    - img [ref=e1099] [cursor=pointer]
+                  - button [ref=e1103] [cursor=pointer]:
+                    - img [ref=e1104] [cursor=pointer]
+                - generic [ref=e1109]: 399,000đ
+              - generic [ref=e1110]:
+                - img "Giày sandal bé gái Rabity 681.004" [ref=e1113] [cursor=pointer]
+                - img "Giày sandal bé gái Rabity 681.004" [ref=e1116] [cursor=pointer]
+          - generic [ref=e1117]:
+            - generic [ref=e1118]:
+              - generic [ref=e1121]:
+                - img [ref=e1123]
+                - generic [ref=e1125]: (0)
+              - generic [ref=e1127]: Mới
+              - link "Giày sandal bé gái Rabity 681.003" [ref=e1128] [cursor=pointer]:
+                - /url: /products/giay-sandal-be-gai-rabity-681-003
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e1130] [cursor=pointer]
+            - generic [ref=e1131]:
+              - heading "Giày sandal bé gái Rabity 681.003" [level=4] [ref=e1132]:
+                - link "Giày sandal bé gái Rabity 681.003" [ref=e1133] [cursor=pointer]:
+                  - /url: /products/giay-sandal-be-gai-rabity-681-003
+              - generic [ref=e1134]:
+                - generic [ref=e1135]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1137] [cursor=pointer]:
+                    - img [ref=e1138] [cursor=pointer]
+                  - button [ref=e1142] [cursor=pointer]:
+                    - img [ref=e1143] [cursor=pointer]
+                - generic [ref=e1148]: 379,000đ
+              - generic [ref=e1149]:
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e1152] [cursor=pointer]
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e1155] [cursor=pointer]
+          - generic [ref=e1156]:
+            - generic [ref=e1157]:
+              - generic [ref=e1160]:
+                - img [ref=e1162]
+                - generic [ref=e1164]: (0)
+              - link "Giày Sandal bé trai Rabity 681.002" [ref=e1165] [cursor=pointer]:
+                - /url: /products/giay-sandal-be-trai-rabity-681-002
+                - img "Giày Sandal bé trai Rabity 681.002" [ref=e1167] [cursor=pointer]
+            - generic [ref=e1168]:
+              - heading "Giày Sandal bé trai Rabity 681.002" [level=4] [ref=e1169]:
+                - link "Giày Sandal bé trai Rabity 681.002" [ref=e1170] [cursor=pointer]:
+                  - /url: /products/giay-sandal-be-trai-rabity-681-002
+              - generic [ref=e1171]:
+                - generic [ref=e1172]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1174] [cursor=pointer]:
+                    - img [ref=e1175] [cursor=pointer]
+                  - button [ref=e1179] [cursor=pointer]:
+                    - img [ref=e1180] [cursor=pointer]
+                - generic [ref=e1185]: 389,000đ
+              - generic [ref=e1186]:
+                - img "Giày Sandal bé trai Rabity 681.002" [ref=e1189] [cursor=pointer]
+                - img "Giày Sandal bé trai Rabity 681.002" [ref=e1192] [cursor=pointer]
+          - generic [ref=e1193]:
+            - generic [ref=e1194]:
+              - generic [ref=e1197]:
+                - img [ref=e1199]
+                - generic [ref=e1201]: (0)
+              - link "Giày Sandal bé trai Rabity 681.001" [ref=e1202] [cursor=pointer]:
+                - /url: /products/giay-sandal-be-trai-rabity-681-001
+                - img "Giày Sandal bé trai Rabity 681.001" [ref=e1204] [cursor=pointer]
+            - generic [ref=e1205]:
+              - heading "Giày Sandal bé trai Rabity 681.001" [level=4] [ref=e1206]:
+                - link "Giày Sandal bé trai Rabity 681.001" [ref=e1207] [cursor=pointer]:
+                  - /url: /products/giay-sandal-be-trai-rabity-681-001
+              - generic [ref=e1208]:
+                - generic [ref=e1209]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1211] [cursor=pointer]:
+                    - img [ref=e1212] [cursor=pointer]
+                  - button [ref=e1216] [cursor=pointer]:
+                    - img [ref=e1217] [cursor=pointer]
+                - generic [ref=e1222]: 369,000đ
+              - generic [ref=e1223]:
+                - img "Giày Sandal bé trai Rabity 681.001" [ref=e1226] [cursor=pointer]
+                - img "Giày Sandal bé trai Rabity 681.001" [ref=e1229] [cursor=pointer]
+          - generic [ref=e1230]:
+            - generic [ref=e1231]:
+              - generic [ref=e1232]:
+                - generic [ref=e1233]: "4.9"
+                - generic [ref=e1235]:
+                  - img [ref=e1237]
+                  - generic [ref=e1239]: (17)
+              - link "Giày búp bê Mary Jane da mềm đính nơ bé gái Rabity 683.008" [ref=e1240] [cursor=pointer]:
+                - /url: /products/giay-bup-be-be-gai-rabity-683-008
+                - img "Giày búp bê Mary Jane da mềm đính nơ bé gái Rabity 683.008" [ref=e1242] [cursor=pointer]
+            - generic [ref=e1243]:
+              - heading "Giày búp bê Mary Jane da mềm đính nơ bé gái Rabity 683.008" [level=4] [ref=e1244]:
+                - link "Giày búp bê Mary Jane da mềm đính nơ bé gái Rabity 683.008" [ref=e1245] [cursor=pointer]:
+                  - /url: /products/giay-bup-be-be-gai-rabity-683-008
+              - generic [ref=e1246]:
+                - generic [ref=e1247]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1249] [cursor=pointer]:
+                    - img [ref=e1250] [cursor=pointer]
+                  - button [ref=e1254] [cursor=pointer]:
+                    - img [ref=e1255] [cursor=pointer]
+                - generic [ref=e1260]: 399,000đ
+              - generic [ref=e1261]:
+                - img "Giày búp bê Mary Jane da mềm đính nơ bé gái Rabity 683.008" [ref=e1264] [cursor=pointer]
+                - img "Giày búp bê Mary Jane da mềm đính nơ bé gái Rabity 683.008" [ref=e1267] [cursor=pointer]
+        - button "Xem thêm" [ref=e1269] [cursor=pointer]
+      - generic [ref=e1272]:
+        - generic [ref=e1274]: Có thể ba mẹ tìm
+        - generic [ref=e1277]:
+          - link [ref=e1278] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/sale-he-ruc-ro
+          - link [ref=e1279] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/dam-vay-be-gai
+          - link [ref=e1280] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/marvel
+          - link [ref=e1281] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/ao-khoac-tre-em
+          - link [ref=e1282] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/elle-kids-x-rabity-collection
+          - link [ref=e1283] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/balo-tui-xach-tre-em
+  - contentinfo [ref=e1284]:
+    - generic [ref=e1286]:
+      - generic [ref=e1287]:
+        - generic [ref=e1288]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e1289]:
+          - paragraph [ref=e1290]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e1291]:
+            - textbox "Nhập địa chỉ email" [ref=e1292]
+            - button "Đăng ký" [ref=e1293] [cursor=pointer]
+          - list [ref=e1295]:
+            - listitem [ref=e1296]:
+              - link "icon" [ref=e1297] [cursor=pointer]:
+                - /url: https://www.facebook.com/Rabityfashion
+                - img "icon" [ref=e1298] [cursor=pointer]
+            - listitem [ref=e1299]:
+              - link "icon" [ref=e1300] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e1301] [cursor=pointer]
+            - listitem [ref=e1302]:
+              - link "icon" [ref=e1303] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e1304] [cursor=pointer]
+      - generic [ref=e1305]:
+        - generic [ref=e1306]: VỀ RABITY
+        - list [ref=e1307]:
+          - listitem [ref=e1308]:
+            - link "Câu chuyện về Rabity" [ref=e1309] [cursor=pointer]:
+              - /url: /pages/cau-chuyen-ve-rabity
+          - listitem [ref=e1310]:
+            - link "Tin tức nhà Thỏ" [ref=e1311] [cursor=pointer]:
+              - /url: /blogs/tin-tuc-rabity
+          - listitem [ref=e1312]:
+            - link "Hệ thống cửa hàng" [ref=e1313] [cursor=pointer]:
+              - /url: /pages/danh-sach-cua-hang
+      - generic [ref=e1314]:
+        - generic [ref=e1315]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e1316]:
+          - listitem [ref=e1317]:
+            - link "Chính sách đổi trả hàng" [ref=e1318] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-doi-hang
+          - listitem [ref=e1319]:
+            - link "Hướng dẫn chọn size" [ref=e1320] [cursor=pointer]:
+              - /url: https://rabity.vn/pages/huong-dan-chon-size
+          - listitem [ref=e1321]:
+            - link "Hướng dẫn giặt quần áo" [ref=e1322] [cursor=pointer]:
+              - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
+          - listitem [ref=e1323]:
+            - link "Tra cứu đơn hàng" [ref=e1324] [cursor=pointer]:
+              - /url: /pages/kiem-tra-don-hang
+          - listitem [ref=e1325]:
+            - link "Giao hàng & phí giao hàng" [ref=e1326] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-giao-hang
+          - listitem [ref=e1327]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e1328] [cursor=pointer]:
+              - /url: /pages/chinh-sach-khach-hang-than-thiet
+          - listitem [ref=e1329]:
+            - link "Chính sách bảo mật thông tin" [ref=e1330] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e1331]:
+        - generic [ref=e1332]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e1333]:
+          - listitem [ref=e1334]:
+            - img [ref=e1336]
+            - generic [ref=e1340]:
+              - generic [ref=e1341]: "Văn phòng phía Bắc:"
+              - generic [ref=e1342]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e1343]:
+            - img [ref=e1345]
+            - generic [ref=e1349]:
+              - generic [ref=e1350]: "Văn phòng phía Nam:"
+              - generic [ref=e1351]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e1352]:
+            - img [ref=e1354]
+            - generic [ref=e1359]:
+              - text: "Số điện thoại:"
+              - link "1900633520" [ref=e1360] [cursor=pointer]:
+                - /url: tel:1900633520
+          - listitem [ref=e1361]:
+            - img [ref=e1363]
+            - generic [ref=e1367]:
+              - text: "Email:"
+              - link "cskh@rabity.vn" [ref=e1368] [cursor=pointer]:
+                - /url: mailto:cskh@rabity.vn
+    - generic [ref=e1371]:
+      - generic [ref=e1372]:
+        - text: © CÔNG TY TNHH TÂN PHÚ
+        - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
+        - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
+      - link "Logo bộ công thương" [ref=e1375] [cursor=pointer]:
+        - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
+        - img "Logo bộ công thương" [ref=e1376] [cursor=pointer]
+  - alert [ref=e1377]:
+    - button "Close" [ref=e1378] [cursor=pointer]:
+      - img "Button Close" [ref=e1379] [cursor=pointer]
+    - generic [ref=e1380]: Số lượng bạn mua vượt quá tồn kho
+  - button [ref=e1382] [cursor=pointer]
+  - dialog [ref=e1383]:
+    - generic [ref=e1388]:
+      - generic [ref=e1389]:
+        - generic [ref=e1391]:
+          - generic [ref=e1392]:
+            - group "1 / 4" [ref=e1393]:
+              - img "main Hồng" [ref=e1395]
+            - group "2 / 4" [ref=e1396]:
+              - img "Hồng" [ref=e1398]
+            - group "3 / 4" [ref=e1399]:
+              - img "Hồng" [ref=e1401]
+            - group "4 / 4" [ref=e1402]:
+              - img "Hồng" [ref=e1404]
+          - generic:
+            - button "Previous slide" [disabled]: prev
+            - button "Next slide" [ref=e1405] [cursor=pointer]: next
+        - generic [ref=e1406]:
+          - heading "Giày búp bê bé gái Rabity 686.500" [level=2] [ref=e1407]
+          - generic [ref=e1408]:
+            - generic [ref=e1411]:
+              - generic [ref=e1412]:
+                - img [ref=e1413]
+                - img [ref=e1415]
+                - img [ref=e1417]
+                - img [ref=e1419]
+                - img [ref=e1421]
+              - generic [ref=e1423] [cursor=pointer]: (0 đánh giá)
+            - generic [ref=e1425]:
+              - strong [ref=e1426]: "SKU:"
+              - generic [ref=e1427]: "6865002512515"
+          - generic [ref=e1429]: 439,000đ
+          - generic [ref=e1430]:
+            - generic [ref=e1431]:
+              - generic [ref=e1432]: Màu sắc
+              - img "Hồng" [ref=e1437] [cursor=pointer]
+            - generic [ref=e1438]:
+              - generic [ref=e1439]: Kích thước
+              - generic [ref=e1440]:
+                - generic [ref=e1443] [cursor=pointer]: Size 25-17.5cm
+                - generic [ref=e1446] [cursor=pointer]: Size 26-18cm
+                - generic [ref=e1449] [cursor=pointer]: Size 28-19cm
+                - generic [ref=e1452] [cursor=pointer]: Size 29-19.5cm
+          - generic [ref=e1454] [cursor=pointer]:
+            - generic [ref=e1455] [cursor=pointer]: "Nhập ngay mã voucher RABIBF799K để giảm thêm 10% cho HĐ 799K (ngoại trừ phụ kiện: giày dép, ba lô, túi xách, đồ lót). Miễn phí giao hàng cho hóa đơn từ 299K"
+            - img [ref=e1456] [cursor=pointer]
+          - generic [ref=e1459]:
+            - generic [ref=e1460]:
+              - button [ref=e1461] [cursor=pointer]:
+                - img [ref=e1462] [cursor=pointer]
+              - textbox [ref=e1465]: "3"
+              - button [ref=e1466] [cursor=pointer]:
+                - img [ref=e1467] [cursor=pointer]
+            - generic [ref=e1470]:
+              - button "Thêm vào giỏ hàng" [active] [ref=e1471] [cursor=pointer]:
+                - generic [ref=e1472] [cursor=pointer]: Thêm vào giỏ hàng
+              - button "Mua ngay" [ref=e1473] [cursor=pointer]
+              - button [ref=e1474] [cursor=pointer]:
+                - img [ref=e1475] [cursor=pointer]
+      - button "Close" [ref=e1478] [cursor=pointer]:
+        - img [ref=e1479] [cursor=pointer]
+```
