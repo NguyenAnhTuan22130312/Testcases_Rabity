@@ -1,0 +1,246 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Banner top" [ref=e4] [cursor=pointer]:
+    - /url: https://rabity.vn/collections/sale-he-ruc-ro
+    - img "Banner top" [ref=e5] [cursor=pointer]
+  - banner [ref=e6]:
+    - generic [ref=e8]:
+      - link "Logo" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Logo Rabity | Thời trang trẻ em cao cấp – Quần áo cho bé" [ref=e11] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link "BÉ GÁI" [ref=e16] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-gai
+          - listitem [ref=e17]:
+            - link "BÉ TRAI" [ref=e18] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-trai
+          - listitem [ref=e19]:
+            - link "🌟 GIÀY DÉP" [ref=e20] [cursor=pointer]:
+              - /url: /collections/giay-tre-em
+          - listitem [ref=e21]:
+            - link "BỘ SƯU TẬP MỚI" [ref=e22] [cursor=pointer]:
+              - /url: /collections/new
+          - listitem [ref=e23]:
+            - link "🔥TUẦN LỄ GIÁ MỚI" [ref=e24] [cursor=pointer]:
+              - /url: /collections/sale-he-ruc-ro
+          - listitem [ref=e25]:
+            - link "THỎ CHIA SẺ" [ref=e26] [cursor=pointer]:
+              - /url: /blogs/news
+      - generic [ref=e28]:
+        - textbox "Bạn cần tìm gì?" [ref=e29]
+        - button [ref=e30] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+      - generic [ref=e34]:
+        - link [ref=e36] [cursor=pointer]:
+          - /url: /account?view=wishlist
+          - img [ref=e37] [cursor=pointer]
+        - img [ref=e42] [cursor=pointer]
+        - img [ref=e47] [cursor=pointer]
+        - link [ref=e51] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e52] [cursor=pointer]
+        - link "0" [ref=e57] [cursor=pointer]:
+          - /url: /cart
+          - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60] [cursor=pointer]: "0"
+  - main [ref=e61]:
+    - link "Thời Trang Bé Gái" [ref=e67] [cursor=pointer]:
+      - /url: "#"
+      - img "Thời Trang Bé Gái" [ref=e69] [cursor=pointer]
+    - generic [ref=e72]:
+      - link "Thời Trang Bé Gái" [ref=e74] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/dam-vay-be-gai
+        - img "Thời Trang Bé Gái" [ref=e76] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e78] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/ao-be-gai
+        - img "Thời Trang Bé Gái" [ref=e80] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e82] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/do-bo-be-gai
+        - img "Thời Trang Bé Gái" [ref=e84] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e86] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/quan-be-gai
+        - img "Thời Trang Bé Gái" [ref=e88] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e90] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/do-lot-be-gai
+        - img "Thời Trang Bé Gái" [ref=e92] [cursor=pointer]
+    - heading "Thời Trang Bé Gái" [level=1] [ref=e96]
+    - generic [ref=e97]:
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - button "Lọc 1" [ref=e102] [cursor=pointer]:
+            - img [ref=e103] [cursor=pointer]
+            - generic [ref=e106] [cursor=pointer]: Lọc
+            - generic [ref=e107] [cursor=pointer]: "1"
+          - generic [ref=e108]:
+            - button "Giới tính" [ref=e109] [cursor=pointer]:
+              - generic [ref=e110] [cursor=pointer]: Giới tính
+              - img [ref=e111] [cursor=pointer]
+            - button "Độ tuổi" [ref=e114] [cursor=pointer]:
+              - generic [ref=e115] [cursor=pointer]: Độ tuổi
+              - img [ref=e116] [cursor=pointer]
+            - button "Cân nặng" [ref=e119] [cursor=pointer]:
+              - generic [ref=e120] [cursor=pointer]: Cân nặng
+              - img [ref=e121] [cursor=pointer]
+            - button "Loại sản phẩm" [ref=e124] [cursor=pointer]:
+              - generic [ref=e125] [cursor=pointer]: Loại sản phẩm
+              - img [ref=e126] [cursor=pointer]
+            - button "Màu sắc" [ref=e129] [cursor=pointer]:
+              - generic [ref=e130] [cursor=pointer]: Màu sắc
+              - img [ref=e131] [cursor=pointer]
+            - button "Giá" [ref=e134] [cursor=pointer]:
+              - generic [ref=e135] [cursor=pointer]: Giá
+              - img [ref=e136] [cursor=pointer]
+        - list [ref=e140]:
+          - listitem [ref=e141]:
+            - generic [ref=e142]: Áo gile
+            - img [ref=e143] [cursor=pointer]
+          - listitem [ref=e146]:
+            - button "Xóa lọc" [ref=e147] [cursor=pointer]
+      - 'button "Xếp theo: Sản phẩm nổi bật" [ref=e152] [cursor=pointer]':
+        - generic [ref=e153] [cursor=pointer]: "Xếp theo:"
+        - generic [ref=e154] [cursor=pointer]:
+          - generic [ref=e155] [cursor=pointer]: Sản phẩm nổi bật
+          - img [ref=e156] [cursor=pointer]
+      - generic [ref=e162]:
+        - generic [ref=e163]:
+          - generic [ref=e166]:
+            - img [ref=e168]
+            - generic [ref=e170]: (0)
+          - generic [ref=e172]: Mới
+          - link "Áo gile bé gái Rabity 918.001" [ref=e173] [cursor=pointer]:
+            - /url: /products/ao-gile-be-gai-rabity-918-001
+            - img "Áo gile bé gái Rabity 918.001" [ref=e175] [cursor=pointer]
+        - generic [ref=e176]:
+          - heading "Áo gile bé gái Rabity 918.001" [level=4] [ref=e177]:
+            - link "Áo gile bé gái Rabity 918.001" [ref=e178] [cursor=pointer]:
+              - /url: /products/ao-gile-be-gai-rabity-918-001
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - list:
+                - listitem: Thêm nhanh vào giỏ
+                - listitem: S
+                - listitem: X
+                - listitem: L
+              - button [ref=e182] [cursor=pointer]:
+                - img [ref=e183] [cursor=pointer]
+              - button [ref=e187] [cursor=pointer]:
+                - img [ref=e188] [cursor=pointer]
+            - generic [ref=e193]: 109,000đ
+          - img "Áo gile bé gái Rabity 918.001" [ref=e197] [cursor=pointer]
+      - generic [ref=e200]:
+        - generic [ref=e202]: Có thể ba mẹ tìm
+        - generic [ref=e205]:
+          - link [ref=e206] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/sale-he-ruc-ro
+          - link [ref=e207] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/dam-vay-be-gai
+          - link [ref=e208] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/marvel
+          - link [ref=e209] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/ao-khoac-tre-em
+          - link [ref=e210] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/elle-kids-x-rabity-collection
+          - link [ref=e211] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/balo-tui-xach-tre-em
+  - contentinfo [ref=e212]:
+    - generic [ref=e214]:
+      - generic [ref=e215]:
+        - generic [ref=e216]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e217]:
+          - paragraph [ref=e218]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e219]:
+            - textbox "Nhập địa chỉ email" [ref=e220]
+            - button "Đăng ký" [ref=e221] [cursor=pointer]
+          - list [ref=e223]:
+            - listitem [ref=e224]:
+              - link "icon" [ref=e225] [cursor=pointer]:
+                - /url: https://www.facebook.com/Rabityfashion
+                - img "icon" [ref=e226] [cursor=pointer]
+            - listitem [ref=e227]:
+              - link "icon" [ref=e228] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e229] [cursor=pointer]
+            - listitem [ref=e230]:
+              - link "icon" [ref=e231] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e232] [cursor=pointer]
+      - generic [ref=e233]:
+        - generic [ref=e234]: VỀ RABITY
+        - list [ref=e235]:
+          - listitem [ref=e236]:
+            - link "Câu chuyện về Rabity" [ref=e237] [cursor=pointer]:
+              - /url: /pages/cau-chuyen-ve-rabity
+          - listitem [ref=e238]:
+            - link "Tin tức nhà Thỏ" [ref=e239] [cursor=pointer]:
+              - /url: /blogs/tin-tuc-rabity
+          - listitem [ref=e240]:
+            - link "Hệ thống cửa hàng" [ref=e241] [cursor=pointer]:
+              - /url: /pages/danh-sach-cua-hang
+      - generic [ref=e242]:
+        - generic [ref=e243]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e244]:
+          - listitem [ref=e245]:
+            - link "Chính sách đổi trả hàng" [ref=e246] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-doi-hang
+          - listitem [ref=e247]:
+            - link "Hướng dẫn chọn size" [ref=e248] [cursor=pointer]:
+              - /url: https://rabity.vn/pages/huong-dan-chon-size
+          - listitem [ref=e249]:
+            - link "Hướng dẫn giặt quần áo" [ref=e250] [cursor=pointer]:
+              - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
+          - listitem [ref=e251]:
+            - link "Tra cứu đơn hàng" [ref=e252] [cursor=pointer]:
+              - /url: /pages/kiem-tra-don-hang
+          - listitem [ref=e253]:
+            - link "Giao hàng & phí giao hàng" [ref=e254] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-giao-hang
+          - listitem [ref=e255]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e256] [cursor=pointer]:
+              - /url: /pages/chinh-sach-khach-hang-than-thiet
+          - listitem [ref=e257]:
+            - link "Chính sách bảo mật thông tin" [ref=e258] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e259]:
+        - generic [ref=e260]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e261]:
+          - listitem [ref=e262]:
+            - img [ref=e264]
+            - generic [ref=e268]:
+              - generic [ref=e269]: "Văn phòng phía Bắc:"
+              - generic [ref=e270]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e271]:
+            - img [ref=e273]
+            - generic [ref=e277]:
+              - generic [ref=e278]: "Văn phòng phía Nam:"
+              - generic [ref=e279]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e280]:
+            - img [ref=e282]
+            - generic [ref=e287]:
+              - text: "Số điện thoại:"
+              - link "1900633520" [ref=e288] [cursor=pointer]:
+                - /url: tel:1900633520
+          - listitem [ref=e289]:
+            - img [ref=e291]
+            - generic [ref=e295]:
+              - text: "Email:"
+              - link "cskh@rabity.vn" [ref=e296] [cursor=pointer]:
+                - /url: mailto:cskh@rabity.vn
+    - generic [ref=e299]:
+      - generic [ref=e300]:
+        - text: © CÔNG TY TNHH TÂN PHÚ
+        - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
+        - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
+      - link "Logo bộ công thương" [ref=e303] [cursor=pointer]:
+        - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
+        - img "Logo bộ công thương" [ref=e304] [cursor=pointer]
+  - text: prev next
+  - alert:
+    - button "Close":
+      - img "Button Close"
+  - button [ref=e306] [cursor=pointer]
+  - button "↑" [ref=e307] [cursor=pointer]
+```

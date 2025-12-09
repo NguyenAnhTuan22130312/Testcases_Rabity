@@ -1,0 +1,340 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Banner top" [ref=e4] [cursor=pointer]:
+    - /url: https://rabity.vn/collections/sale-he-ruc-ro
+    - img "Banner top" [ref=e5] [cursor=pointer]
+  - banner [ref=e6]:
+    - generic [ref=e8]:
+      - link "Logo" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Logo Rabity | Thời trang trẻ em cao cấp – Quần áo cho bé" [ref=e11] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link "BÉ GÁI" [ref=e16] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-gai
+          - listitem [ref=e17]:
+            - link "BÉ TRAI" [ref=e18] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-trai
+          - listitem [ref=e19]:
+            - link "🌟 GIÀY DÉP" [ref=e20] [cursor=pointer]:
+              - /url: /collections/giay-tre-em
+          - listitem [ref=e21]:
+            - link "BỘ SƯU TẬP MỚI" [ref=e22] [cursor=pointer]:
+              - /url: /collections/new
+          - listitem [ref=e23]:
+            - link "🔥TUẦN LỄ GIÁ MỚI" [ref=e24] [cursor=pointer]:
+              - /url: /collections/sale-he-ruc-ro
+          - listitem [ref=e25]:
+            - link "THỎ CHIA SẺ" [ref=e26] [cursor=pointer]:
+              - /url: /blogs/news
+      - generic [ref=e28]:
+        - textbox "Bạn cần tìm gì?" [ref=e29]
+        - button [ref=e30] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+      - generic [ref=e34]:
+        - link [ref=e36] [cursor=pointer]:
+          - /url: /account?view=wishlist
+          - img [ref=e37] [cursor=pointer]
+        - img [ref=e42] [cursor=pointer]
+        - img [ref=e47] [cursor=pointer]
+        - link [ref=e51] [cursor=pointer]:
+          - /url: /account
+          - img [ref=e52] [cursor=pointer]
+        - link "0" [ref=e57] [cursor=pointer]:
+          - /url: /cart
+          - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60] [cursor=pointer]: "0"
+  - main [ref=e61]:
+    - generic [ref=e62]:
+      - navigation "breadcrumb" [ref=e63]:
+        - list [ref=e64]:
+          - listitem [ref=e65]:
+            - link "Trang chủ" [ref=e66] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e67] [cursor=pointer]: Trang chủ
+            - img [ref=e68]
+          - listitem [ref=e70]:
+            - link "Tài khoản" [ref=e71] [cursor=pointer]:
+              - /url: /account
+              - text: Tài khoản
+              - img [ref=e72] [cursor=pointer]
+          - listitem [ref=e74]:
+            - generic [ref=e75]: Ðịa chỉ
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - img "Lam Lam" [ref=e81]
+            - generic [ref=e82]:
+              - text: Lam Lam
+              - link "Đăng xuất" [ref=e83] [cursor=pointer]:
+                - /url: /account/logout
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - link "123 Thông tin tài khoản" [ref=e87] [cursor=pointer]:
+                - /url: /account
+                - img "123" [ref=e88] [cursor=pointer]
+                - generic [ref=e89] [cursor=pointer]: Thông tin tài khoản
+            - listitem [ref=e90]:
+              - link "123 Đơn mua" [ref=e91] [cursor=pointer]:
+                - /url: /account?view=orders
+                - img "123" [ref=e92] [cursor=pointer]
+                - generic [ref=e93] [cursor=pointer]: Đơn mua
+            - listitem [ref=e94]:
+              - link "123 Số địa chỉ" [ref=e95] [cursor=pointer]:
+                - /url: /account/addresses
+                - img "123" [ref=e96] [cursor=pointer]
+                - generic [ref=e97] [cursor=pointer]: Số địa chỉ
+            - listitem [ref=e98]:
+              - link "123 Voucher của tôi" [ref=e99] [cursor=pointer]:
+                - /url: /account?view=voucher
+                - img "123" [ref=e100] [cursor=pointer]
+                - generic [ref=e101] [cursor=pointer]: Voucher của tôi
+          - list [ref=e103]:
+            - listitem [ref=e104]:
+              - link "123 Đánh giá của tôi" [ref=e105] [cursor=pointer]:
+                - /url: /account?view=review
+                - img "123" [ref=e106] [cursor=pointer]
+                - generic [ref=e107] [cursor=pointer]: Đánh giá của tôi
+            - listitem [ref=e108]:
+              - link "123 Sản phẩm đã xem" [ref=e109] [cursor=pointer]:
+                - /url: /account?view=preview
+                - img "123" [ref=e110] [cursor=pointer]
+                - generic [ref=e111] [cursor=pointer]: Sản phẩm đã xem
+            - listitem [ref=e112]:
+              - link "123 Sản phẩm yêu thích" [ref=e113] [cursor=pointer]:
+                - /url: /account?view=wishlist
+                - img "123" [ref=e114] [cursor=pointer]
+                - generic [ref=e115] [cursor=pointer]: Sản phẩm yêu thích
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - heading "Thêm mới địa chỉ nhận hàng" [level=3] [ref=e119]
+            - generic [ref=e120]: Vui lòng xác nhận các nội dung bên dưới
+            - generic [ref=e121]:
+              - textbox "Tên" [ref=e123]
+              - textbox "Họ" [ref=e125]
+              - textbox "Công ty" [ref=e127]
+              - textbox "Địa chỉ 1" [ref=e129]
+              - combobox [ref=e131]:
+                - option "Tỉnh/Thành" [selected]
+                - option "Hồ Chí Minh"
+                - option "Hà Nội"
+                - option "Đà Nẵng"
+                - option "An Giang"
+                - option "Bà Rịa - Vũng Tàu"
+                - option "Bình Dương"
+                - option "Bình Phước"
+                - option "Bình Thuận"
+                - option "Bình Định"
+                - option "Bạc Liêu"
+                - option "Bắc Giang"
+                - option "Bắc Kạn"
+                - option "Bắc Ninh"
+                - option "Bến Tre"
+                - option "Cao Bằng"
+                - option "Cà Mau"
+                - option "Cần Thơ"
+                - option "Gia Lai"
+                - option "Hà Giang"
+                - option "Hà Nam"
+                - option "Hà Tĩnh"
+                - option "Hòa Bình"
+                - option "Hưng Yên"
+                - option "Hải Dương"
+                - option "Hải Phòng"
+                - option "Hậu Giang"
+                - option "Khánh Hòa"
+                - option "Kiên Giang"
+                - option "Kon Tum"
+                - option "Lai Châu"
+                - option "Long An"
+                - option "Lào Cai"
+                - option "Lâm Đồng"
+                - option "Lạng Sơn"
+                - option "Nam Định"
+                - option "Nghệ An"
+                - option "Ninh Bình"
+                - option "Ninh Thuận"
+                - option "Phú Thọ"
+                - option "Phú Yên"
+                - option "Quảng Bình"
+                - option "Quảng Nam"
+                - option "Quảng Ngãi"
+                - option "Quảng Ninh"
+                - option "Quảng Trị"
+                - option "Sóc Trăng"
+                - option "Sơn La"
+                - option "Thanh Hóa"
+                - option "Thái Bình"
+                - option "Thái Nguyên"
+                - option "Thừa Thiên Huế"
+                - option "Tiền Giang"
+                - option "Trà Vinh"
+                - option "Tuyên Quang"
+                - option "Tây Ninh"
+                - option "Vĩnh Long"
+                - option "Vĩnh Phúc"
+                - option "Yên Bái"
+                - option "Điện Biên"
+                - option "Đắk Lắk"
+                - option "Đắk Nông"
+                - option "Đồng Nai"
+                - option "Đồng Tháp"
+              - combobox [ref=e133]:
+                - option "Quận/Huyện" [selected]
+              - combobox [ref=e135]:
+                - option "Phường/Xã" [selected]
+              - textbox "Số điện thoại" [ref=e137]
+              - generic [ref=e138]:
+                - checkbox [ref=e139] [cursor=pointer]
+                - text: Đặt làm địa chỉ mặc định
+              - button "Thêm mới" [ref=e140] [cursor=pointer]
+          - generic [ref=e141]:
+            - generic [ref=e143]:
+              - paragraph [ref=e144]:
+                - strong [ref=e145]: Lam Edit Huy Edit
+              - paragraph [ref=e146]: 123 Đường Test Playwright
+              - paragraph [ref=e147]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
+              - paragraph [ref=e148]: "0999888777"
+              - generic [ref=e149]:
+                - link [ref=e150] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e151] [cursor=pointer]
+                - link "Xóa" [ref=e155] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e157]:
+              - paragraph [ref=e158]:
+                - strong [ref=e159]: "!@#$ %^&*"
+              - paragraph [ref=e160]: 123 Duong Test
+              - paragraph [ref=e161]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
+              - paragraph [ref=e162]: "0912345678"
+              - generic [ref=e163]: Địa chỉ mặc định
+              - generic [ref=e164]:
+                - link [ref=e165] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e166] [cursor=pointer]
+                - link "Xóa" [ref=e170] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e172]:
+              - paragraph [ref=e173]:
+                - strong [ref=e174]: Lam Lam
+              - paragraph
+              - paragraph [ref=e175]: ", , , Vietnam"
+              - paragraph
+              - generic [ref=e176]:
+                - link [ref=e177] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e178] [cursor=pointer]
+                - link "Xóa" [ref=e182] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e184]:
+              - paragraph [ref=e185]:
+                - strong [ref=e186]: "!@#$ %^&*"
+              - paragraph [ref=e187]: 123 Duong Test
+              - paragraph [ref=e188]: Thị trấn Tân Túc, Huyện Bình Chánh, Hồ Chí Minh, Vietnam
+              - paragraph [ref=e189]: "0912345678"
+              - generic [ref=e190]:
+                - link [ref=e191] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e192] [cursor=pointer]
+                - link "Xóa" [ref=e196] [cursor=pointer]:
+                  - /url: "#"
+  - contentinfo [ref=e197]:
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - generic [ref=e201]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e202]:
+          - paragraph [ref=e203]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e204]:
+            - textbox "Nhập địa chỉ email" [ref=e205]
+            - button "Đăng ký" [ref=e206] [cursor=pointer]
+          - list [ref=e208]:
+            - listitem [ref=e209]:
+              - link "icon" [ref=e210] [cursor=pointer]:
+                - /url: https://www.facebook.com/Rabityfashion
+                - img "icon" [ref=e211] [cursor=pointer]
+            - listitem [ref=e212]:
+              - link "icon" [ref=e213] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e214] [cursor=pointer]
+            - listitem [ref=e215]:
+              - link "icon" [ref=e216] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e217] [cursor=pointer]
+      - generic [ref=e218]:
+        - generic [ref=e219]: VỀ RABITY
+        - list [ref=e220]:
+          - listitem [ref=e221]:
+            - link "Câu chuyện về Rabity" [ref=e222] [cursor=pointer]:
+              - /url: /pages/cau-chuyen-ve-rabity
+          - listitem [ref=e223]:
+            - link "Tin tức nhà Thỏ" [ref=e224] [cursor=pointer]:
+              - /url: /blogs/tin-tuc-rabity
+          - listitem [ref=e225]:
+            - link "Hệ thống cửa hàng" [ref=e226] [cursor=pointer]:
+              - /url: /pages/danh-sach-cua-hang
+      - generic [ref=e227]:
+        - generic [ref=e228]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e229]:
+          - listitem [ref=e230]:
+            - link "Chính sách đổi trả hàng" [ref=e231] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-doi-hang
+          - listitem [ref=e232]:
+            - link "Hướng dẫn chọn size" [ref=e233] [cursor=pointer]:
+              - /url: https://rabity.vn/pages/huong-dan-chon-size
+          - listitem [ref=e234]:
+            - link "Hướng dẫn giặt quần áo" [ref=e235] [cursor=pointer]:
+              - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
+          - listitem [ref=e236]:
+            - link "Tra cứu đơn hàng" [ref=e237] [cursor=pointer]:
+              - /url: /pages/kiem-tra-don-hang
+          - listitem [ref=e238]:
+            - link "Giao hàng & phí giao hàng" [ref=e239] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-giao-hang
+          - listitem [ref=e240]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e241] [cursor=pointer]:
+              - /url: /pages/chinh-sach-khach-hang-than-thiet
+          - listitem [ref=e242]:
+            - link "Chính sách bảo mật thông tin" [ref=e243] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e244]:
+        - generic [ref=e245]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e246]:
+          - listitem [ref=e247]:
+            - img [ref=e249]
+            - generic [ref=e253]:
+              - generic [ref=e254]: "Văn phòng phía Bắc:"
+              - generic [ref=e255]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e256]:
+            - img [ref=e258]
+            - generic [ref=e262]:
+              - generic [ref=e263]: "Văn phòng phía Nam:"
+              - generic [ref=e264]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e265]:
+            - img [ref=e267]
+            - generic [ref=e272]:
+              - text: "Số điện thoại:"
+              - link "1900633520" [ref=e273] [cursor=pointer]:
+                - /url: tel:1900633520
+          - listitem [ref=e274]:
+            - img [ref=e276]
+            - generic [ref=e280]:
+              - text: "Email:"
+              - link "cskh@rabity.vn" [ref=e281] [cursor=pointer]:
+                - /url: mailto:cskh@rabity.vn
+    - generic [ref=e284]:
+      - generic [ref=e285]:
+        - text: © CÔNG TY TNHH TÂN PHÚ
+        - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
+        - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
+      - link "Logo bộ công thương" [ref=e288] [cursor=pointer]:
+        - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
+        - img "Logo bộ công thương" [ref=e289] [cursor=pointer]
+  - text: prev next
+  - alert:
+    - button "Close":
+      - img "Button Close"
+  - button [ref=e291] [cursor=pointer]
+```
