@@ -1,0 +1,1218 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Banner top" [ref=e4] [cursor=pointer]:
+    - /url: https://rabity.vn/collections/sale-he-ruc-ro
+    - img "Banner top" [ref=e5] [cursor=pointer]
+  - banner [ref=e6]:
+    - generic [ref=e8]:
+      - link "Logo" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Logo Rabity | Thời trang trẻ em cao cấp – Quần áo cho bé" [ref=e11] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link "BÉ GÁI" [ref=e16] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-gai
+          - listitem [ref=e17]:
+            - link "BÉ TRAI" [ref=e18] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-trai
+          - listitem [ref=e19]:
+            - link "🌟 GIÀY DÉP" [ref=e20] [cursor=pointer]:
+              - /url: /collections/giay-tre-em
+          - listitem [ref=e21]:
+            - link "BỘ SƯU TẬP MỚI" [ref=e22] [cursor=pointer]:
+              - /url: /collections/new
+          - listitem [ref=e23]:
+            - link "🔥TUẦN LỄ GIÁ MỚI" [ref=e24] [cursor=pointer]:
+              - /url: /collections/sale-he-ruc-ro
+          - listitem [ref=e25]:
+            - link "THỎ CHIA SẺ" [ref=e26] [cursor=pointer]:
+              - /url: /blogs/news
+      - generic [ref=e28]:
+        - textbox "Bạn cần tìm gì?" [ref=e29]
+        - button [ref=e30] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+      - generic [ref=e34]:
+        - link [ref=e36] [cursor=pointer]:
+          - /url: /account?view=wishlist
+          - img [ref=e37] [cursor=pointer]
+        - img [ref=e42] [cursor=pointer]
+        - img [ref=e47] [cursor=pointer]
+        - link [ref=e51] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e52] [cursor=pointer]
+        - link "0" [ref=e57] [cursor=pointer]:
+          - /url: /cart
+          - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60] [cursor=pointer]: "0"
+  - main [ref=e61]:
+    - link "Thời Trang Bé Gái" [ref=e67] [cursor=pointer]:
+      - /url: "#"
+      - img "Thời Trang Bé Gái" [ref=e69] [cursor=pointer]
+    - generic [ref=e72]:
+      - link "Thời Trang Bé Gái" [ref=e74] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/dam-vay-be-gai
+        - img "Thời Trang Bé Gái" [ref=e76] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e78] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/ao-be-gai
+        - img "Thời Trang Bé Gái" [ref=e80] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e82] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/do-bo-be-gai
+        - img "Thời Trang Bé Gái" [ref=e84] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e86] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/quan-be-gai
+        - img "Thời Trang Bé Gái" [ref=e88] [cursor=pointer]
+      - link "Thời Trang Bé Gái" [ref=e90] [cursor=pointer]:
+        - /url: https://rabity.vn/collections/do-lot-be-gai
+        - img "Thời Trang Bé Gái" [ref=e92] [cursor=pointer]
+    - heading "Thời Trang Bé Gái" [level=1] [ref=e96]
+    - generic [ref=e97]:
+      - generic [ref=e101]:
+        - button "Lọc" [ref=e102] [cursor=pointer]:
+          - img [ref=e103] [cursor=pointer]
+          - generic [ref=e106] [cursor=pointer]: Lọc
+        - generic [ref=e107]:
+          - button "Giới tính" [ref=e108] [cursor=pointer]:
+            - generic [ref=e109] [cursor=pointer]: Giới tính
+            - img [ref=e110] [cursor=pointer]
+          - button "Độ tuổi" [ref=e113] [cursor=pointer]:
+            - generic [ref=e114] [cursor=pointer]: Độ tuổi
+            - img [ref=e115] [cursor=pointer]
+          - button "Cân nặng" [ref=e118] [cursor=pointer]:
+            - generic [ref=e119] [cursor=pointer]: Cân nặng
+            - img [ref=e120] [cursor=pointer]
+          - button "Loại sản phẩm" [ref=e123] [cursor=pointer]:
+            - generic [ref=e124] [cursor=pointer]: Loại sản phẩm
+            - img [ref=e125] [cursor=pointer]
+          - button "Màu sắc" [ref=e128] [cursor=pointer]:
+            - generic [ref=e129] [cursor=pointer]: Màu sắc
+            - img [ref=e130] [cursor=pointer]
+          - button "Giá" [ref=e133] [cursor=pointer]:
+            - generic [ref=e134] [cursor=pointer]: Giá
+            - img [ref=e135] [cursor=pointer]
+      - generic [ref=e141]:
+        - 'button "Xếp theo: Mới nhất" [ref=e142] [cursor=pointer]':
+          - generic [ref=e143] [cursor=pointer]: "Xếp theo:"
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e145] [cursor=pointer]: Mới nhất
+            - img [ref=e146] [cursor=pointer]
+        - list [ref=e149]:
+          - listitem [ref=e150] [cursor=pointer]:
+            - generic [ref=e151] [cursor=pointer]: Tuỳ chọn
+          - listitem [ref=e152] [cursor=pointer]:
+            - generic [ref=e153] [cursor=pointer]: "Giá: Tăng dần"
+          - listitem [ref=e154] [cursor=pointer]:
+            - generic [ref=e155] [cursor=pointer]: "Giá: Giảm dần"
+          - listitem [ref=e156] [cursor=pointer]:
+            - generic [ref=e157] [cursor=pointer]: "Tên: A-Z"
+          - listitem [ref=e158] [cursor=pointer]:
+            - generic [ref=e159] [cursor=pointer]: "Tên: Z-A"
+          - listitem [ref=e160] [cursor=pointer]:
+            - generic [ref=e161] [cursor=pointer]: Cũ nhất
+          - listitem [ref=e162] [cursor=pointer]:
+            - generic [ref=e163] [cursor=pointer]: Mới nhất
+          - listitem [ref=e164] [cursor=pointer]:
+            - generic [ref=e165] [cursor=pointer]: Bán chạy nhất
+          - listitem [ref=e166] [cursor=pointer]:
+            - generic [ref=e167] [cursor=pointer]: Tồn kho giảm dần
+      - generic [ref=e169]:
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172]:
+              - generic [ref=e175]:
+                - img [ref=e177]
+                - generic [ref=e179]: (0)
+              - generic [ref=e181]: Mới
+              - link "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [ref=e182] [cursor=pointer]:
+                - /url: /products/dam-vay-voan-ngan-tay-be-gai-rabity-550-117
+                - img "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [ref=e184] [cursor=pointer]
+                - img "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [ref=e186] [cursor=pointer]
+            - generic [ref=e187]:
+              - heading "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [level=4] [ref=e188]:
+                - link "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [ref=e189] [cursor=pointer]:
+                  - /url: /products/dam-vay-voan-ngan-tay-be-gai-rabity-550-117
+              - generic [ref=e190]:
+                - generic [ref=e191]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e193] [cursor=pointer]:
+                    - img [ref=e194] [cursor=pointer]
+                  - button [ref=e198] [cursor=pointer]:
+                    - img [ref=e199] [cursor=pointer]
+                - generic [ref=e203]:
+                  - generic [ref=e204]: 299,250đ
+                  - generic [ref=e205]:
+                    - text: "-25"
+                    - generic [ref=e206]: "%"
+                  - deletion [ref=e207]: 399,000đ
+              - generic [ref=e208]:
+                - img "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [ref=e211] [cursor=pointer]
+                - img "[Độc quyền online] Đầm váy voan Elsa ngắn tay bé gái Rabity 550.117" [ref=e214] [cursor=pointer]
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - generic [ref=e219]:
+                - img [ref=e221]
+                - generic [ref=e223]: (0)
+              - generic [ref=e225]: Mới
+              - link "Quần dài jean bé gái Rabity 941.025" [ref=e226] [cursor=pointer]:
+                - /url: /products/quan-dai-jean-be-gai-rabity-941-025
+                - img "Quần dài jean bé gái Rabity 941.025" [ref=e228] [cursor=pointer]
+                - img "Quần dài jean bé gái Rabity 941.025" [ref=e230] [cursor=pointer]
+            - generic [ref=e231]:
+              - heading "Quần dài jean bé gái Rabity 941.025" [level=4] [ref=e232]:
+                - link "Quần dài jean bé gái Rabity 941.025" [ref=e233] [cursor=pointer]:
+                  - /url: /products/quan-dai-jean-be-gai-rabity-941-025
+              - generic [ref=e234]:
+                - generic [ref=e235]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e237] [cursor=pointer]:
+                    - img [ref=e238] [cursor=pointer]
+                  - button [ref=e242] [cursor=pointer]:
+                    - img [ref=e243] [cursor=pointer]
+                - generic [ref=e248]: 369,000đ
+              - img "Quần dài jean bé gái Rabity 941.025" [ref=e252] [cursor=pointer]
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - generic [ref=e255]:
+                - generic [ref=e256]: "5"
+                - generic [ref=e258]:
+                  - img [ref=e260]
+                  - generic [ref=e262]: (12)
+              - link "Quần nỉ dài Minnie bé gái Rabity 544.001" [ref=e263] [cursor=pointer]:
+                - /url: /products/quan-ni-dai-minnie-be-gai-rabity-544-001
+                - img "Quần nỉ dài Minnie bé gái Rabity 544.001" [ref=e265] [cursor=pointer]
+                - img "Quần nỉ dài Minnie bé gái Rabity 544.001" [ref=e267] [cursor=pointer]
+            - generic [ref=e268]:
+              - heading "Quần nỉ dài Minnie bé gái Rabity 544.001" [level=4] [ref=e269]:
+                - link "Quần nỉ dài Minnie bé gái Rabity 544.001" [ref=e270] [cursor=pointer]:
+                  - /url: /products/quan-ni-dai-minnie-be-gai-rabity-544-001
+              - generic [ref=e271]:
+                - generic [ref=e272]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e274] [cursor=pointer]:
+                    - img [ref=e275] [cursor=pointer]
+                  - button [ref=e279] [cursor=pointer]:
+                    - img [ref=e280] [cursor=pointer]
+                - generic [ref=e284]:
+                  - generic [ref=e285]: 215,200đ
+                  - generic [ref=e286]:
+                    - text: "-20"
+                    - generic [ref=e287]: "%"
+                  - deletion [ref=e288]: 269,000đ
+              - generic [ref=e289]:
+                - img "Quần nỉ dài Minnie bé gái Rabity 544.001" [ref=e292] [cursor=pointer]
+                - img "Quần nỉ dài Minnie bé gái Rabity 544.001" [ref=e295] [cursor=pointer]
+          - generic [ref=e296]:
+            - generic [ref=e297]:
+              - generic [ref=e298]:
+                - generic [ref=e299]: "4.9"
+                - generic [ref=e301]:
+                  - img [ref=e303]
+                  - generic [ref=e305]: (372)
+              - link "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [ref=e306] [cursor=pointer]:
+                - /url: /products/dam-vay-hai-day-be-gai-rabity-954-900
+                - img "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [ref=e308] [cursor=pointer]
+                - img "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [ref=e310] [cursor=pointer]
+            - generic [ref=e311]:
+              - heading "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [level=4] [ref=e312]:
+                - link "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [ref=e313] [cursor=pointer]:
+                  - /url: /products/dam-vay-hai-day-be-gai-rabity-954-900
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e317] [cursor=pointer]:
+                    - img [ref=e318] [cursor=pointer]
+                  - button [ref=e322] [cursor=pointer]:
+                    - img [ref=e323] [cursor=pointer]
+                - generic [ref=e327]:
+                  - generic [ref=e328]: 161,850đ
+                  - generic [ref=e329]:
+                    - text: "-35"
+                    - generic [ref=e330]: "%"
+                  - deletion [ref=e331]: 249,000đ
+              - generic [ref=e332]:
+                - img "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [ref=e335] [cursor=pointer]
+                - img "[Deal trải nghiệm] [Độc quyền Online] Đầm thun hai dây dâu tây bé gái Rabity 954.900" [ref=e338] [cursor=pointer]
+          - generic [ref=e339]:
+            - generic [ref=e340]:
+              - generic [ref=e343]:
+                - img [ref=e345]
+                - generic [ref=e347]: (0)
+              - generic [ref=e349]: Mới
+              - link "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e350] [cursor=pointer]:
+                - /url: /products/ao-thun-ngan-tay-be-trai-be-gai-rabity-900-904
+                - img "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e352] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e354] [cursor=pointer]
+            - generic [ref=e355]:
+              - heading "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [level=4] [ref=e356]:
+                - link "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e357] [cursor=pointer]:
+                  - /url: /products/ao-thun-ngan-tay-be-trai-be-gai-rabity-900-904
+              - generic [ref=e358]:
+                - generic [ref=e359]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e361] [cursor=pointer]:
+                    - img [ref=e362] [cursor=pointer]
+                  - button [ref=e366] [cursor=pointer]:
+                    - img [ref=e367] [cursor=pointer]
+                - generic [ref=e372]: 149,000đ
+              - generic [ref=e373]:
+                - img "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e376] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e379] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e382] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun trơn ngắn tay bé trai/bé gái Rabity 900.904 (Áo form rộng lùi 1 size)" [ref=e385] [cursor=pointer]
+          - generic [ref=e386]:
+            - generic [ref=e387]:
+              - generic [ref=e390]:
+                - img [ref=e392]
+                - generic [ref=e394]: (0)
+              - generic [ref=e396]: Mới
+              - link "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e397] [cursor=pointer]:
+                - /url: /products/dam-vay-cong-chua-be-gai-rabity-953-901
+                - img "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e399] [cursor=pointer]
+                - img "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e401] [cursor=pointer]
+            - generic [ref=e402]:
+              - heading "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [level=4] [ref=e403]:
+                - link "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e404] [cursor=pointer]:
+                  - /url: /products/dam-vay-cong-chua-be-gai-rabity-953-901
+              - generic [ref=e405]:
+                - generic [ref=e406]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e408] [cursor=pointer]:
+                    - img [ref=e409] [cursor=pointer]
+                  - button [ref=e413] [cursor=pointer]:
+                    - img [ref=e414] [cursor=pointer]
+                - generic [ref=e419]: 299,000đ
+              - generic [ref=e420]:
+                - img "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e423] [cursor=pointer]
+                - img "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e426] [cursor=pointer]
+                - img "[Độc quyền online] Đầm váy công chúa bé gái Rabity 953.901" [ref=e429] [cursor=pointer]
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - generic [ref=e434]:
+                - img [ref=e436]
+                - generic [ref=e438]: (0)
+              - generic [ref=e440]: Mới
+              - link "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e441] [cursor=pointer]:
+                - /url: /products/ao-giu-nhiet-dai-tay-tre-em-rabity-910-900
+                - img "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e443] [cursor=pointer]
+                - img "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e445] [cursor=pointer]
+            - generic [ref=e446]:
+              - heading "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [level=4] [ref=e447]:
+                - link "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e448] [cursor=pointer]:
+                  - /url: /products/ao-giu-nhiet-dai-tay-tre-em-rabity-910-900
+              - generic [ref=e449]:
+                - generic [ref=e450]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e452] [cursor=pointer]:
+                    - img [ref=e453] [cursor=pointer]
+                  - button [ref=e457] [cursor=pointer]:
+                    - img [ref=e458] [cursor=pointer]
+                - generic [ref=e463]: 149,000đ
+              - generic [ref=e464]:
+                - img "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e467] [cursor=pointer]
+                - img "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e470] [cursor=pointer]
+                - img "Áo giữ nhiệt dài tay bé trai/ bé gái Rabity 910.900" [ref=e473] [cursor=pointer]
+          - generic [ref=e474]:
+            - generic [ref=e475]:
+              - generic [ref=e478]:
+                - img [ref=e480]
+                - generic [ref=e482]: (0)
+              - link "[Độc quyền Online] Đầm hai dây hoạ tiết cầu vồng bé gái Rabity 954.902" [ref=e483] [cursor=pointer]:
+                - /url: /products/dam-vay-2-day-be-gai-rabity-954-902
+                - img "[Độc quyền Online] Đầm hai dây hoạ tiết cầu vồng bé gái Rabity 954.902" [ref=e485] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm hai dây hoạ tiết cầu vồng bé gái Rabity 954.902" [ref=e487] [cursor=pointer]
+            - generic [ref=e488]:
+              - heading "[Độc quyền Online] Đầm hai dây hoạ tiết cầu vồng bé gái Rabity 954.902" [level=4] [ref=e489]:
+                - link "[Độc quyền Online] Đầm hai dây hoạ tiết cầu vồng bé gái Rabity 954.902" [ref=e490] [cursor=pointer]:
+                  - /url: /products/dam-vay-2-day-be-gai-rabity-954-902
+              - generic [ref=e491]:
+                - generic [ref=e492]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e494] [cursor=pointer]:
+                    - img [ref=e495] [cursor=pointer]
+                  - button [ref=e499] [cursor=pointer]:
+                    - img [ref=e500] [cursor=pointer]
+                - generic [ref=e504]:
+                  - generic [ref=e505]: 224,100đ
+                  - generic [ref=e506]:
+                    - text: "-10"
+                    - generic [ref=e507]: "%"
+                  - deletion [ref=e508]: 249,000đ
+              - img "[Độc quyền Online] Đầm hai dây hoạ tiết cầu vồng bé gái Rabity 954.902" [ref=e512] [cursor=pointer]
+          - generic [ref=e513]:
+            - generic [ref=e514]:
+              - generic [ref=e517]:
+                - img [ref=e519]
+                - generic [ref=e521]: (0)
+              - generic [ref=e523]: Mới
+              - link "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e524] [cursor=pointer]:
+                - /url: /products/dam-vay-thun-ngan-tay-be-gai-rabity-950-903
+                - img "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e526] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e528] [cursor=pointer]
+            - generic [ref=e529]:
+              - heading "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [level=4] [ref=e530]:
+                - link "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e531] [cursor=pointer]:
+                  - /url: /products/dam-vay-thun-ngan-tay-be-gai-rabity-950-903
+              - generic [ref=e532]:
+                - generic [ref=e533]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e535] [cursor=pointer]:
+                    - img [ref=e536] [cursor=pointer]
+                  - button [ref=e540] [cursor=pointer]:
+                    - img [ref=e541] [cursor=pointer]
+                - generic [ref=e545]:
+                  - generic [ref=e546]: 179,100đ
+                  - generic [ref=e547]:
+                    - text: "-10"
+                    - generic [ref=e548]: "%"
+                  - deletion [ref=e549]: 199,000đ
+              - generic [ref=e550]:
+                - img "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e553] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e556] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e559] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm váy thun ngắn tay bé gái Rabity 950.903" [ref=e562] [cursor=pointer]
+          - generic [ref=e563]:
+            - generic [ref=e564]:
+              - generic [ref=e567]:
+                - img [ref=e569]
+                - generic [ref=e571]: (0)
+              - generic [ref=e573]: Mới
+              - link "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [ref=e574] [cursor=pointer]:
+                - /url: /products/dam-voan-tay-ngan-be-gai-rabity-950-902
+                - img "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [ref=e576] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [ref=e578] [cursor=pointer]
+            - generic [ref=e579]:
+              - heading "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [level=4] [ref=e580]:
+                - link "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [ref=e581] [cursor=pointer]:
+                  - /url: /products/dam-voan-tay-ngan-be-gai-rabity-950-902
+              - generic [ref=e582]:
+                - generic [ref=e583]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e585] [cursor=pointer]:
+                    - img [ref=e586] [cursor=pointer]
+                  - button [ref=e590] [cursor=pointer]:
+                    - img [ref=e591] [cursor=pointer]
+                - generic [ref=e595]:
+                  - generic [ref=e596]: 276,750đ
+                  - generic [ref=e597]:
+                    - text: "-25"
+                    - generic [ref=e598]: "%"
+                  - deletion [ref=e599]: 369,000đ
+              - generic [ref=e600]:
+                - img "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [ref=e603] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm voan Pony tay ngắn bé gái Rabity 950.902" [ref=e606] [cursor=pointer]
+          - generic [ref=e607]:
+            - generic [ref=e608]:
+              - generic [ref=e611]:
+                - img [ref=e613]
+                - generic [ref=e615]: (0)
+              - generic [ref=e617]: Mới
+              - link "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [ref=e618] [cursor=pointer]:
+                - /url: /products/dam-vay-thun-sat-nach-minnie-be-gai-rabity-552-905
+                - img "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [ref=e620] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [ref=e622] [cursor=pointer]
+            - generic [ref=e623]:
+              - heading "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [level=4] [ref=e624]:
+                - link "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [ref=e625] [cursor=pointer]:
+                  - /url: /products/dam-vay-thun-sat-nach-minnie-be-gai-rabity-552-905
+              - generic [ref=e626]:
+                - generic [ref=e627]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e629] [cursor=pointer]:
+                    - img [ref=e630] [cursor=pointer]
+                  - button [ref=e634] [cursor=pointer]:
+                    - img [ref=e635] [cursor=pointer]
+                - generic [ref=e639]:
+                  - generic [ref=e640]: 159,200đ
+                  - generic [ref=e641]:
+                    - text: "-20"
+                    - generic [ref=e642]: "%"
+                  - deletion [ref=e643]: 199,000đ
+              - generic [ref=e644]:
+                - img "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [ref=e647] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm váy thun sát nách Minnie bé gái Rabity 552.905" [ref=e650] [cursor=pointer]
+          - generic [ref=e651]:
+            - generic [ref=e652]:
+              - generic [ref=e655]:
+                - img [ref=e657]
+                - generic [ref=e659]: (0)
+              - generic [ref=e661]: Mới
+              - link "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e662] [cursor=pointer]:
+                - /url: /products/quan-legging-dai-be-gai-rabity-943-900
+                - img "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e664] [cursor=pointer]
+                - img "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e666] [cursor=pointer]
+            - generic [ref=e667]:
+              - heading "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [level=4] [ref=e668]:
+                - link "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e669] [cursor=pointer]:
+                  - /url: /products/quan-legging-dai-be-gai-rabity-943-900
+              - generic [ref=e670]:
+                - generic [ref=e671]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e673] [cursor=pointer]:
+                    - img [ref=e674] [cursor=pointer]
+                  - button [ref=e678] [cursor=pointer]:
+                    - img [ref=e679] [cursor=pointer]
+                - generic [ref=e683]:
+                  - generic [ref=e684]: 119,200đ
+                  - generic [ref=e685]:
+                    - text: "-20"
+                    - generic [ref=e686]: "%"
+                  - deletion [ref=e687]: 149,000đ
+              - generic [ref=e688]:
+                - img "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e691] [cursor=pointer]
+                - img "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e694] [cursor=pointer]
+                - img "[Độc quyền Online] Quần legging dài bé gái Rabity 943.900" [ref=e697] [cursor=pointer]
+          - generic [ref=e698]:
+            - generic [ref=e699]:
+              - generic [ref=e702]:
+                - img [ref=e704]
+                - generic [ref=e706]: (0)
+              - generic [ref=e708]: Mới
+              - link "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [ref=e709] [cursor=pointer]:
+                - /url: /products/ao-ngan-tay-thun-be-gai-rabity-900-160
+                - img "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [ref=e711] [cursor=pointer]
+                - img "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [ref=e713] [cursor=pointer]
+            - generic [ref=e714]:
+              - heading "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [level=4] [ref=e715]:
+                - link "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [ref=e716] [cursor=pointer]:
+                  - /url: /products/ao-ngan-tay-thun-be-gai-rabity-900-160
+              - generic [ref=e717]:
+                - generic [ref=e718]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e720] [cursor=pointer]:
+                    - img [ref=e721] [cursor=pointer]
+                  - button [ref=e725] [cursor=pointer]:
+                    - img [ref=e726] [cursor=pointer]
+                - generic [ref=e731]: 189,000đ
+              - generic [ref=e732]:
+                - img "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [ref=e735] [cursor=pointer]
+                - img "Áo ngắn tay thun bé gái Rabity 900.160 (Áo form rộng lùi 1 size)" [ref=e738] [cursor=pointer]
+          - generic [ref=e739]:
+            - generic [ref=e740]:
+              - generic [ref=e743]:
+                - img [ref=e745]
+                - generic [ref=e747]: (0)
+              - generic [ref=e749]: Mới
+              - link "Giày sandal bé gái Rabity 681.003" [ref=e750] [cursor=pointer]:
+                - /url: /products/giay-sandal-be-gai-rabity-681-003
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e752] [cursor=pointer]
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e754] [cursor=pointer]
+            - generic [ref=e755]:
+              - heading "Giày sandal bé gái Rabity 681.003" [level=4] [ref=e756]:
+                - link "Giày sandal bé gái Rabity 681.003" [ref=e757] [cursor=pointer]:
+                  - /url: /products/giay-sandal-be-gai-rabity-681-003
+              - generic [ref=e758]:
+                - generic [ref=e759]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e761] [cursor=pointer]:
+                    - img [ref=e762] [cursor=pointer]
+                  - button [ref=e766] [cursor=pointer]:
+                    - img [ref=e767] [cursor=pointer]
+                - generic [ref=e772]: 379,000đ
+              - generic [ref=e773]:
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e776] [cursor=pointer]
+                - img "Giày sandal bé gái Rabity 681.003" [ref=e779] [cursor=pointer]
+          - generic [ref=e780]:
+            - generic [ref=e781]:
+              - generic [ref=e784]:
+                - img [ref=e786]
+                - generic [ref=e788]: (0)
+              - generic [ref=e790]: Mới
+              - link "Set túi mũ bé gái Rabity 971.022" [ref=e791] [cursor=pointer]:
+                - /url: /products/set-tui-mu-be-gai-rabity-971-022
+                - img "Set túi mũ bé gái Rabity 971.022" [ref=e793] [cursor=pointer]
+                - img "Set túi mũ bé gái Rabity 971.022" [ref=e795] [cursor=pointer]
+            - generic [ref=e796]:
+              - heading "Set túi mũ bé gái Rabity 971.022" [level=4] [ref=e797]:
+                - link "Set túi mũ bé gái Rabity 971.022" [ref=e798] [cursor=pointer]:
+                  - /url: /products/set-tui-mu-be-gai-rabity-971-022
+              - generic [ref=e799]:
+                - generic [ref=e800]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e802] [cursor=pointer]:
+                    - img [ref=e803] [cursor=pointer]
+                  - button [ref=e807] [cursor=pointer]:
+                    - img [ref=e808] [cursor=pointer]
+                - generic [ref=e812]:
+                  - generic [ref=e813]: 184,500đ
+                  - generic [ref=e814]:
+                    - text: "-50"
+                    - generic [ref=e815]: "%"
+                  - deletion [ref=e816]: 369,000đ
+              - img "Set túi mũ bé gái Rabity 971.022" [ref=e820] [cursor=pointer]
+          - generic [ref=e821]:
+            - generic [ref=e822]:
+              - generic [ref=e825]:
+                - img [ref=e827]
+                - generic [ref=e829]: (0)
+              - generic [ref=e831]: Mới
+              - link "Set túi mũ bé gái Rabity 971.023" [ref=e832] [cursor=pointer]:
+                - /url: /products/set-tui-mu-be-gai-rabity-971-023
+                - img "Set túi mũ bé gái Rabity 971.023" [ref=e834] [cursor=pointer]
+                - img "Set túi mũ bé gái Rabity 971.023" [ref=e836] [cursor=pointer]
+            - generic [ref=e837]:
+              - heading "Set túi mũ bé gái Rabity 971.023" [level=4] [ref=e838]:
+                - link "Set túi mũ bé gái Rabity 971.023" [ref=e839] [cursor=pointer]:
+                  - /url: /products/set-tui-mu-be-gai-rabity-971-023
+              - generic [ref=e840]:
+                - generic [ref=e841]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e843] [cursor=pointer]:
+                    - img [ref=e844] [cursor=pointer]
+                  - button [ref=e848] [cursor=pointer]:
+                    - img [ref=e849] [cursor=pointer]
+                - generic [ref=e853]:
+                  - generic [ref=e854]: 184,500đ
+                  - generic [ref=e855]:
+                    - text: "-50"
+                    - generic [ref=e856]: "%"
+                  - deletion [ref=e857]: 369,000đ
+              - img "Set túi mũ bé gái Rabity 971.023" [ref=e861] [cursor=pointer]
+          - generic [ref=e862]:
+            - generic [ref=e863]:
+              - generic [ref=e864]:
+                - generic [ref=e865]: "5"
+                - generic [ref=e867]:
+                  - img [ref=e869]
+                  - generic [ref=e871]: (2)
+              - link "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [ref=e872] [cursor=pointer]:
+                - /url: /products/chan-vay-voan-be-gai-rabity-x-elle-kids-designed-in-paris-855-003
+                - img "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [ref=e874] [cursor=pointer]
+                - img "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [ref=e876] [cursor=pointer]
+            - generic [ref=e877]:
+              - heading "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [level=4] [ref=e878]:
+                - link "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [ref=e879] [cursor=pointer]:
+                  - /url: /products/chan-vay-voan-be-gai-rabity-x-elle-kids-designed-in-paris-855-003
+              - generic [ref=e880]:
+                - generic [ref=e881]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e883] [cursor=pointer]:
+                    - img [ref=e884] [cursor=pointer]
+                  - button [ref=e888] [cursor=pointer]:
+                    - img [ref=e889] [cursor=pointer]
+                - generic [ref=e894]: 299,000đ
+              - generic [ref=e895]:
+                - img "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [ref=e898] [cursor=pointer]
+                - img "Chân váy voan bé gái Rabity x ELLE Kids - designed in Paris 855.003" [ref=e901] [cursor=pointer]
+          - generic [ref=e902]:
+            - generic [ref=e903]:
+              - generic [ref=e906]:
+                - img [ref=e908]
+                - generic [ref=e910]: (0)
+              - link "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [ref=e911] [cursor=pointer]:
+                - /url: /products/ao-thun-ngan-tay-be-gai-rabity-500-093
+                - img "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [ref=e913] [cursor=pointer]
+                - img "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [ref=e915] [cursor=pointer]
+            - generic [ref=e916]:
+              - heading "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [level=4] [ref=e917]:
+                - link "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [ref=e918] [cursor=pointer]:
+                  - /url: /products/ao-thun-ngan-tay-be-gai-rabity-500-093
+              - generic [ref=e919]:
+                - generic [ref=e920]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e922] [cursor=pointer]:
+                    - img [ref=e923] [cursor=pointer]
+                  - button [ref=e927] [cursor=pointer]:
+                    - img [ref=e928] [cursor=pointer]
+                - generic [ref=e933]: 199,000đ
+              - generic [ref=e934]:
+                - img "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [ref=e937] [cursor=pointer]
+                - img "Áo thun tay ngắn đôi bạn thân Stitch Disney bé gái Rabity 500.093" [ref=e940] [cursor=pointer]
+          - generic [ref=e941]:
+            - generic [ref=e942]:
+              - generic [ref=e945]:
+                - img [ref=e947]
+                - generic [ref=e949]: (0)
+              - link "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e950] [cursor=pointer]:
+                - /url: /products/bo-thun-ngan-tay-be-gai-rabity-960-900
+                - img "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e952] [cursor=pointer]
+                - img "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e954] [cursor=pointer]
+            - generic [ref=e955]:
+              - heading "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [level=4] [ref=e956]:
+                - link "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e957] [cursor=pointer]:
+                  - /url: /products/bo-thun-ngan-tay-be-gai-rabity-960-900
+              - generic [ref=e958]:
+                - generic [ref=e959]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e961] [cursor=pointer]:
+                    - img [ref=e962] [cursor=pointer]
+                  - button [ref=e966] [cursor=pointer]:
+                    - img [ref=e967] [cursor=pointer]
+                - generic [ref=e971]:
+                  - generic [ref=e972]: 209,300đ
+                  - generic [ref=e973]:
+                    - text: "-30"
+                    - generic [ref=e974]: "%"
+                  - deletion [ref=e975]: 299,000đ
+              - generic [ref=e976]:
+                - img "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e979] [cursor=pointer]
+                - img "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e982] [cursor=pointer]
+                - img "[Độc quyền Online] Đồ bộ thun tay ngắn gấu trúc bé gái Rabity 960.900" [ref=e985] [cursor=pointer]
+          - generic [ref=e986]:
+            - generic [ref=e987]:
+              - generic [ref=e988]:
+                - generic [ref=e989]: "5"
+                - generic [ref=e991]:
+                  - img [ref=e993]
+                  - generic [ref=e995]: (25)
+              - link "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [ref=e996] [cursor=pointer]:
+                - /url: /products/ao-thun-stitch-ngan-tay-be-gai-rabity-500-094
+                - img "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [ref=e998] [cursor=pointer]
+                - img "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [ref=e1000] [cursor=pointer]
+            - generic [ref=e1001]:
+              - heading "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [level=4] [ref=e1002]:
+                - link "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [ref=e1003] [cursor=pointer]:
+                  - /url: /products/ao-thun-stitch-ngan-tay-be-gai-rabity-500-094
+              - generic [ref=e1004]:
+                - generic [ref=e1005]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1007] [cursor=pointer]:
+                    - img [ref=e1008] [cursor=pointer]
+                  - button [ref=e1012] [cursor=pointer]:
+                    - img [ref=e1013] [cursor=pointer]
+                - generic [ref=e1018]: 179,000đ
+              - generic [ref=e1019]:
+                - img "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [ref=e1022] [cursor=pointer]
+                - img "Áo thun tay ngắn Stitch Disney bé gái Rabity 500.094" [ref=e1025] [cursor=pointer]
+          - generic [ref=e1026]:
+            - generic [ref=e1027]:
+              - generic [ref=e1028]:
+                - generic [ref=e1029]: "4.9"
+                - generic [ref=e1031]:
+                  - img [ref=e1033]
+                  - generic [ref=e1035]: (192)
+              - link "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1036] [cursor=pointer]:
+                - /url: /products/dam-thun-sat-nach-be-gai-rabity-552-900
+                - img "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1038] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1040] [cursor=pointer]
+            - generic [ref=e1041]:
+              - heading "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [level=4] [ref=e1042]:
+                - link "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1043] [cursor=pointer]:
+                  - /url: /products/dam-thun-sat-nach-be-gai-rabity-552-900
+              - generic [ref=e1044]:
+                - generic [ref=e1045]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1047] [cursor=pointer]:
+                    - img [ref=e1048] [cursor=pointer]
+                  - button [ref=e1052] [cursor=pointer]:
+                    - img [ref=e1053] [cursor=pointer]
+                - generic [ref=e1057]:
+                  - generic [ref=e1058]: 169,150đ
+                  - generic [ref=e1059]:
+                    - text: "-15"
+                    - generic [ref=e1060]: "%"
+                  - deletion [ref=e1061]: 199,000đ
+              - generic [ref=e1062]:
+                - img "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1065] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1068] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1071] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun sát nách Lọ Lem Cinderella Disney bé gái Rabity 552.900" [ref=e1074] [cursor=pointer]
+          - generic [ref=e1075]:
+            - generic [ref=e1076]:
+              - generic [ref=e1077]:
+                - generic [ref=e1078]: "5"
+                - generic [ref=e1080]:
+                  - img [ref=e1082]
+                  - generic [ref=e1084]: (10)
+              - link "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1085] [cursor=pointer]:
+                - /url: /products/chan-vay-stitch-be-gai-rabity-555-016
+                - img "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1087] [cursor=pointer]
+                - img "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1089] [cursor=pointer]
+            - generic [ref=e1090]:
+              - heading "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [level=4] [ref=e1091]:
+                - link "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1092] [cursor=pointer]:
+                  - /url: /products/chan-vay-stitch-be-gai-rabity-555-016
+              - generic [ref=e1093]:
+                - generic [ref=e1094]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1096] [cursor=pointer]:
+                    - img [ref=e1097] [cursor=pointer]
+                  - button [ref=e1101] [cursor=pointer]:
+                    - img [ref=e1102] [cursor=pointer]
+                - generic [ref=e1107]: 299,000đ
+              - generic [ref=e1108]:
+                - img "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1111] [cursor=pointer]
+                - img "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1114] [cursor=pointer]
+                - img "Chân váy xếp ly Stitch Disney bé gái Rabity 555.016" [ref=e1117] [cursor=pointer]
+          - generic [ref=e1118]:
+            - generic [ref=e1119]:
+              - generic [ref=e1120]:
+                - generic [ref=e1121]: "5"
+                - generic [ref=e1123]:
+                  - img [ref=e1125]
+                  - generic [ref=e1127]: (30)
+              - link "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [ref=e1128] [cursor=pointer]:
+                - /url: /products/dam-vay-thun-dai-tay-minnie-be-gai-rabity-551-002
+                - img "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [ref=e1130] [cursor=pointer]
+                - img "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [ref=e1132] [cursor=pointer]
+            - generic [ref=e1133]:
+              - heading "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [level=4] [ref=e1134]:
+                - link "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [ref=e1135] [cursor=pointer]:
+                  - /url: /products/dam-vay-thun-dai-tay-minnie-be-gai-rabity-551-002
+              - generic [ref=e1136]:
+                - generic [ref=e1137]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1139] [cursor=pointer]:
+                    - img [ref=e1140] [cursor=pointer]
+                  - button [ref=e1144] [cursor=pointer]:
+                    - img [ref=e1145] [cursor=pointer]
+                - generic [ref=e1149]:
+                  - generic [ref=e1150]: 179,250đ
+                  - generic [ref=e1151]:
+                    - text: "-25"
+                    - generic [ref=e1152]: "%"
+                  - deletion [ref=e1153]: 239,000đ
+              - generic [ref=e1154]:
+                - img "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [ref=e1157] [cursor=pointer]
+                - img "Đầm váy thun dài tay Minnie Disney bé gái Rabity 551.002" [ref=e1160] [cursor=pointer]
+          - generic [ref=e1161]:
+            - generic [ref=e1162]:
+              - generic [ref=e1165]:
+                - img [ref=e1167]
+                - generic [ref=e1169]: (0)
+              - link "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1170] [cursor=pointer]:
+                - /url: /products/dam-thun-ngan-tay-powerpuff-girls-be-gai-rabity-950-901
+                - img "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1172] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1174] [cursor=pointer]
+            - generic [ref=e1175]:
+              - heading "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [level=4] [ref=e1176]:
+                - link "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1177] [cursor=pointer]:
+                  - /url: /products/dam-thun-ngan-tay-powerpuff-girls-be-gai-rabity-950-901
+              - generic [ref=e1178]:
+                - generic [ref=e1179]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1181] [cursor=pointer]:
+                    - img [ref=e1182] [cursor=pointer]
+                  - button [ref=e1186] [cursor=pointer]:
+                    - img [ref=e1187] [cursor=pointer]
+                - generic [ref=e1191]:
+                  - generic [ref=e1192]: 186,750đ
+                  - generic [ref=e1193]:
+                    - text: "-25"
+                    - generic [ref=e1194]: "%"
+                  - deletion [ref=e1195]: 249,000đ
+              - generic [ref=e1196]:
+                - img "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1199] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1202] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun ngắn tay Powerpuff Girls bé gái Rabity 950.901" [ref=e1205] [cursor=pointer]
+          - generic [ref=e1206]:
+            - generic [ref=e1207]:
+              - generic [ref=e1208]:
+                - generic [ref=e1209]: "4.9"
+                - generic [ref=e1211]:
+                  - img [ref=e1213]
+                  - generic [ref=e1215]: (204)
+              - link "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1216] [cursor=pointer]:
+                - /url: /products/dam-tho-ngan-tay-be-gai-rabity-950-052
+                - img "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1218] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1220] [cursor=pointer]
+            - generic [ref=e1221]:
+              - heading "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [level=4] [ref=e1222]:
+                - link "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1223] [cursor=pointer]:
+                  - /url: /products/dam-tho-ngan-tay-be-gai-rabity-950-052
+              - generic [ref=e1224]:
+                - generic [ref=e1225]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1227] [cursor=pointer]:
+                    - img [ref=e1228] [cursor=pointer]
+                  - button [ref=e1232] [cursor=pointer]:
+                    - img [ref=e1233] [cursor=pointer]
+                - generic [ref=e1237]:
+                  - generic [ref=e1238]: 169,150đ
+                  - generic [ref=e1239]:
+                    - text: "-15"
+                    - generic [ref=e1240]: "%"
+                  - deletion [ref=e1241]: 199,000đ
+              - generic [ref=e1242]:
+                - img "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1245] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1248] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1251] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thô tay cánh tiên bé gái Rabity 950.052" [ref=e1254] [cursor=pointer]
+          - generic [ref=e1255]:
+            - generic [ref=e1256]:
+              - generic [ref=e1257]:
+                - generic [ref=e1258]: "5"
+                - generic [ref=e1260]:
+                  - img [ref=e1262]
+                  - generic [ref=e1264]: (8)
+              - link "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1265] [cursor=pointer]:
+                - /url: /products/dam-vay-thun-lotso-dai-tay-be-gai-rabity-551-001
+                - img "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1267] [cursor=pointer]
+                - img "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1269] [cursor=pointer]
+            - generic [ref=e1270]:
+              - heading "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [level=4] [ref=e1271]:
+                - link "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1272] [cursor=pointer]:
+                  - /url: /products/dam-vay-thun-lotso-dai-tay-be-gai-rabity-551-001
+              - generic [ref=e1273]:
+                - generic [ref=e1274]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1276] [cursor=pointer]:
+                    - img [ref=e1277] [cursor=pointer]
+                  - button [ref=e1281] [cursor=pointer]:
+                    - img [ref=e1282] [cursor=pointer]
+                - generic [ref=e1286]:
+                  - generic [ref=e1287]: 167,300đ
+                  - generic [ref=e1288]:
+                    - text: "-30"
+                    - generic [ref=e1289]: "%"
+                  - deletion [ref=e1290]: 239,000đ
+              - generic [ref=e1291]:
+                - img "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1294] [cursor=pointer]
+                - img "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1297] [cursor=pointer]
+                - img "Đầm váy thun Gấu Dâu Lotso dài tay bé gái Rabity 551.001" [ref=e1300] [cursor=pointer]
+          - generic [ref=e1301]:
+            - generic [ref=e1302]:
+              - generic [ref=e1303]:
+                - generic [ref=e1304]: "5"
+                - generic [ref=e1306]:
+                  - img [ref=e1308]
+                  - generic [ref=e1310]: (19)
+              - link "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [ref=e1311] [cursor=pointer]:
+                - /url: /products/dam-vay-tho-ngan-tay-be-gai-rabity-950-076
+                - img "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [ref=e1313] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [ref=e1315] [cursor=pointer]
+            - generic [ref=e1316]:
+              - heading "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [level=4] [ref=e1317]:
+                - link "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [ref=e1318] [cursor=pointer]:
+                  - /url: /products/dam-vay-tho-ngan-tay-be-gai-rabity-950-076
+              - generic [ref=e1319]:
+                - generic [ref=e1320]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1322] [cursor=pointer]:
+                    - img [ref=e1323] [cursor=pointer]
+                  - button [ref=e1327] [cursor=pointer]:
+                    - img [ref=e1328] [cursor=pointer]
+                - generic [ref=e1332]:
+                  - generic [ref=e1333]: 224,250đ
+                  - generic [ref=e1334]:
+                    - text: "-25"
+                    - generic [ref=e1335]: "%"
+                  - deletion [ref=e1336]: 299,000đ
+              - generic [ref=e1337]:
+                - img "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [ref=e1340] [cursor=pointer]
+                - img "[Độc quyền Online] Đầm thun phối voan ngắn tay đính nơ bé gái Rabity 950.076" [ref=e1343] [cursor=pointer]
+          - generic [ref=e1344]:
+            - generic [ref=e1345]:
+              - generic [ref=e1346]:
+                - generic [ref=e1347]: "4.9"
+                - generic [ref=e1349]:
+                  - img [ref=e1351]
+                  - generic [ref=e1353]: (12)
+              - link "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [ref=e1354] [cursor=pointer]:
+                - /url: /products/ao-thun-ngan-tay-tre-em-rabity-900-901
+                - img "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [ref=e1356] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [ref=e1358] [cursor=pointer]
+            - generic [ref=e1359]:
+              - heading "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [level=4] [ref=e1360]:
+                - link "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [ref=e1361] [cursor=pointer]:
+                  - /url: /products/ao-thun-ngan-tay-tre-em-rabity-900-901
+              - generic [ref=e1362]:
+                - generic [ref=e1363]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1365] [cursor=pointer]:
+                    - img [ref=e1366] [cursor=pointer]
+                  - button [ref=e1370] [cursor=pointer]:
+                    - img [ref=e1371] [cursor=pointer]
+                - generic [ref=e1376]: 169,000đ
+              - generic [ref=e1377]:
+                - img "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [ref=e1380] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun tay ngắn Con Rồng Cháu Tiên bé trai/bé gái Rabity 900.901 (Áo form rộng lùi 1 size)" [ref=e1383] [cursor=pointer]
+          - generic [ref=e1384]:
+            - generic [ref=e1385]:
+              - generic [ref=e1386]:
+                - generic [ref=e1387]: "4.9"
+                - generic [ref=e1389]:
+                  - img [ref=e1391]
+                  - generic [ref=e1393]: (237)
+              - link "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1394] [cursor=pointer]:
+                - /url: /products/ao-thun-ngan-tay-tre-em-cabybara-rabity-900-096
+                - img "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1396] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1398] [cursor=pointer]
+            - generic [ref=e1399]:
+              - heading "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [level=4] [ref=e1400]:
+                - link "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1401] [cursor=pointer]:
+                  - /url: /products/ao-thun-ngan-tay-tre-em-cabybara-rabity-900-096
+              - generic [ref=e1402]:
+                - generic [ref=e1403]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1405] [cursor=pointer]:
+                    - img [ref=e1406] [cursor=pointer]
+                  - button [ref=e1410] [cursor=pointer]:
+                    - img [ref=e1411] [cursor=pointer]
+                - generic [ref=e1415]:
+                  - generic [ref=e1416]: 107,400đ
+                  - generic [ref=e1417]:
+                    - text: "-40"
+                    - generic [ref=e1418]: "%"
+                  - deletion [ref=e1419]: 179,000đ
+              - generic [ref=e1420]:
+                - img "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1423] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1426] [cursor=pointer]
+                - img "[Độc quyền Online] Áo thun tay ngắn Capybara bé trai/bé gái Rabity 900.096 (Áo form rộng lùi 1 size)" [ref=e1429] [cursor=pointer]
+          - generic [ref=e1430]:
+            - generic [ref=e1431]:
+              - generic [ref=e1432]:
+                - generic [ref=e1433]: "4.9"
+                - generic [ref=e1435]:
+                  - img [ref=e1437]
+                  - generic [ref=e1439]: (13)
+              - link "Quần nhung dài bé gái Rabity 92844" [ref=e1440] [cursor=pointer]:
+                - /url: /products/quan-nhung-dai-be-gai-rabity-92844
+                - img "Quần nhung dài bé gái Rabity 92844" [ref=e1442] [cursor=pointer]
+                - img "Quần nhung dài bé gái Rabity 92844" [ref=e1444] [cursor=pointer]
+            - generic [ref=e1445]:
+              - heading "Quần nhung dài bé gái Rabity 92844" [level=4] [ref=e1446]:
+                - link "Quần nhung dài bé gái Rabity 92844" [ref=e1447] [cursor=pointer]:
+                  - /url: /products/quan-nhung-dai-be-gai-rabity-92844
+              - generic [ref=e1448]:
+                - generic [ref=e1449]:
+                  - list:
+                    - listitem: Thêm nhanh vào giỏ
+                    - listitem: S
+                    - listitem: X
+                    - listitem: L
+                  - button [ref=e1451] [cursor=pointer]:
+                    - img [ref=e1452] [cursor=pointer]
+                  - button [ref=e1456] [cursor=pointer]:
+                    - img [ref=e1457] [cursor=pointer]
+                - generic [ref=e1461]:
+                  - generic [ref=e1462]: 134,500đ
+                  - generic [ref=e1463]:
+                    - text: "-50"
+                    - generic [ref=e1464]: "%"
+                  - deletion [ref=e1465]: 269,000đ
+              - generic [ref=e1466]:
+                - img "Quần nhung dài bé gái Rabity 92844" [ref=e1469] [cursor=pointer]
+                - img "Quần nhung dài bé gái Rabity 92844" [ref=e1472] [cursor=pointer]
+                - img "Quần nhung dài bé gái Rabity 92844" [ref=e1475] [cursor=pointer]
+        - button "Xem thêm" [ref=e1477] [cursor=pointer]
+      - generic [ref=e1480]:
+        - generic [ref=e1482]: Có thể ba mẹ tìm
+        - generic [ref=e1485]:
+          - link [ref=e1486] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/sale-he-ruc-ro
+          - link [ref=e1487] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/dam-vay-be-gai
+          - link [ref=e1488] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/marvel
+          - link [ref=e1489] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/ao-khoac-tre-em
+          - link [ref=e1490] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/elle-kids-x-rabity-collection
+          - link [ref=e1491] [cursor=pointer]:
+            - /url: https://rabity.vn/collections/balo-tui-xach-tre-em
+  - contentinfo [ref=e1492]:
+    - generic [ref=e1494]:
+      - generic [ref=e1495]:
+        - generic [ref=e1496]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e1497]:
+          - paragraph [ref=e1498]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e1499]:
+            - textbox "Nhập địa chỉ email" [ref=e1500]
+            - button "Đăng ký" [ref=e1501] [cursor=pointer]
+          - list [ref=e1503]:
+            - listitem [ref=e1504]:
+              - link "icon" [ref=e1505] [cursor=pointer]:
+                - /url: https://www.facebook.com/Rabityfashion
+                - img "icon" [ref=e1506] [cursor=pointer]
+            - listitem [ref=e1507]:
+              - link "icon" [ref=e1508] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e1509] [cursor=pointer]
+            - listitem [ref=e1510]:
+              - link "icon" [ref=e1511] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e1512] [cursor=pointer]
+      - generic [ref=e1513]:
+        - generic [ref=e1514]: VỀ RABITY
+        - list [ref=e1515]:
+          - listitem [ref=e1516]:
+            - link "Câu chuyện về Rabity" [ref=e1517] [cursor=pointer]:
+              - /url: /pages/cau-chuyen-ve-rabity
+          - listitem [ref=e1518]:
+            - link "Tin tức nhà Thỏ" [ref=e1519] [cursor=pointer]:
+              - /url: /blogs/tin-tuc-rabity
+          - listitem [ref=e1520]:
+            - link "Hệ thống cửa hàng" [ref=e1521] [cursor=pointer]:
+              - /url: /pages/danh-sach-cua-hang
+      - generic [ref=e1522]:
+        - generic [ref=e1523]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e1524]:
+          - listitem [ref=e1525]:
+            - link "Chính sách đổi trả hàng" [ref=e1526] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-doi-hang
+          - listitem [ref=e1527]:
+            - link "Hướng dẫn chọn size" [ref=e1528] [cursor=pointer]:
+              - /url: https://rabity.vn/pages/huong-dan-chon-size
+          - listitem [ref=e1529]:
+            - link "Hướng dẫn giặt quần áo" [ref=e1530] [cursor=pointer]:
+              - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
+          - listitem [ref=e1531]:
+            - link "Tra cứu đơn hàng" [ref=e1532] [cursor=pointer]:
+              - /url: /pages/kiem-tra-don-hang
+          - listitem [ref=e1533]:
+            - link "Giao hàng & phí giao hàng" [ref=e1534] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-giao-hang
+          - listitem [ref=e1535]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e1536] [cursor=pointer]:
+              - /url: /pages/chinh-sach-khach-hang-than-thiet
+          - listitem [ref=e1537]:
+            - link "Chính sách bảo mật thông tin" [ref=e1538] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e1539]:
+        - generic [ref=e1540]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e1541]:
+          - listitem [ref=e1542]:
+            - img [ref=e1544]
+            - generic [ref=e1548]:
+              - generic [ref=e1549]: "Văn phòng phía Bắc:"
+              - generic [ref=e1550]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e1551]:
+            - img [ref=e1553]
+            - generic [ref=e1557]:
+              - generic [ref=e1558]: "Văn phòng phía Nam:"
+              - generic [ref=e1559]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e1560]:
+            - img [ref=e1562]
+            - generic [ref=e1567]:
+              - text: "Số điện thoại:"
+              - link "1900633520" [ref=e1568] [cursor=pointer]:
+                - /url: tel:1900633520
+          - listitem [ref=e1569]:
+            - img [ref=e1571]
+            - generic [ref=e1575]:
+              - text: "Email:"
+              - link "cskh@rabity.vn" [ref=e1576] [cursor=pointer]:
+                - /url: mailto:cskh@rabity.vn
+    - generic [ref=e1579]:
+      - generic [ref=e1580]:
+        - text: © CÔNG TY TNHH TÂN PHÚ
+        - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
+        - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
+      - link "Logo bộ công thương" [ref=e1583] [cursor=pointer]:
+        - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
+        - img "Logo bộ công thương" [ref=e1584] [cursor=pointer]
+  - text: prev next
+  - alert:
+    - button "Close":
+      - img "Button Close"
+  - button [ref=e1586] [cursor=pointer]
+  - button "↑" [ref=e1587] [cursor=pointer]
+```

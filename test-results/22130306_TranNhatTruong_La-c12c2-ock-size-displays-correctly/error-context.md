@@ -1,0 +1,866 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Banner top" [ref=e4] [cursor=pointer]:
+    - /url: https://rabity.vn/collections/sale-he-ruc-ro
+    - img "Banner top" [ref=e5] [cursor=pointer]
+  - banner [ref=e6]:
+    - generic [ref=e8]:
+      - link "Logo" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Logo Rabity | Thời trang trẻ em cao cấp – Quần áo cho bé" [ref=e11] [cursor=pointer]
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link "BÉ GÁI" [ref=e16] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-gai
+          - listitem [ref=e17]:
+            - link "BÉ TRAI" [ref=e18] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-trai
+          - listitem [ref=e19]:
+            - link "🌟 GIÀY DÉP" [ref=e20] [cursor=pointer]:
+              - /url: /collections/giay-tre-em
+          - listitem [ref=e21]:
+            - link "BỘ SƯU TẬP MỚI" [ref=e22] [cursor=pointer]:
+              - /url: /collections/new
+          - listitem [ref=e23]:
+            - link "🔥TUẦN LỄ GIÁ MỚI" [ref=e24] [cursor=pointer]:
+              - /url: /collections/sale-he-ruc-ro
+          - listitem [ref=e25]:
+            - link "THỎ CHIA SẺ" [ref=e26] [cursor=pointer]:
+              - /url: /blogs/news
+      - generic [ref=e28]:
+        - textbox "Bạn cần tìm gì?" [ref=e29]
+        - button [ref=e30] [cursor=pointer]:
+          - img [ref=e31] [cursor=pointer]
+      - generic [ref=e34]:
+        - link [ref=e36] [cursor=pointer]:
+          - /url: /account?view=wishlist
+          - img [ref=e37] [cursor=pointer]
+        - img [ref=e42] [cursor=pointer]
+        - img [ref=e47] [cursor=pointer]
+        - link [ref=e51] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e52] [cursor=pointer]
+        - link "0" [ref=e57] [cursor=pointer]:
+          - /url: /cart
+          - img [ref=e58] [cursor=pointer]
+          - generic [ref=e60] [cursor=pointer]: "0"
+  - main [ref=e61]:
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - text: prev next
+        - generic [ref=e67]:
+          - generic [ref=e69]:
+            - link "Vàng - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-1__1__bdcad03eb7d943fd85bb010440582dbb.jpg
+              - img "Vàng - Hoa Nhí" [ref=e70] [cursor=pointer]
+          - generic [ref=e72]:
+            - link "Vàng - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-2__1__0c6c25e890074368b6495c50829588d4.jpg
+              - img "Vàng - Hoa Nhí" [ref=e73] [cursor=pointer]
+          - generic [ref=e75]:
+            - link "Vàng - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-3_f50c54fe0b224e8596cafe456a5b5abd.jpg
+              - img "Vàng - Hoa Nhí" [ref=e76] [cursor=pointer]
+          - generic [ref=e78]:
+            - link "main Đỏ - Hoa Nhí":
+              - /url: https://cdn.hstatic.net/products/1000290074/rabity-ai-generated-image_-_2025-12-02t114251.036_ad118ca4ba5b43f0bfaea2b0798fa121.png
+              - img "main Đỏ - Hoa Nhí" [ref=e79] [cursor=pointer]
+          - generic [ref=e81]:
+            - link "main Đỏ - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/2_0_84e852a5c6b249a5a9e6f97db1e5a26c.jpg
+              - img "main Đỏ - Hoa Nhí" [ref=e82] [cursor=pointer]
+          - generic [ref=e84]:
+            - link "Đỏ - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/2_1_243b94936d02443e8a41f10eb955c427.jpg
+              - img "Đỏ - Hoa Nhí" [ref=e85] [cursor=pointer]
+          - generic [ref=e87]:
+            - link "Đỏ - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-1_6e6df40db55d4d15a0d7ec11b8aacd69.jpg
+              - img "Đỏ - Hoa Nhí" [ref=e88] [cursor=pointer]
+          - generic [ref=e90]:
+            - link "Đỏ - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-2_efeb716c1906435dbf40f47b6decd23a.jpg
+              - img "Đỏ - Hoa Nhí" [ref=e91] [cursor=pointer]
+          - generic [ref=e93]:
+            - link "Tím than - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-1__2__56529b2dc7694befa1d6d3728a864351.jpg
+              - img "Tím than - Hoa Nhí" [ref=e94] [cursor=pointer]
+          - generic [ref=e96]:
+            - link "Tím than - Hoa Nhí":
+              - /url: https://product.hstatic.net/1000290074/product/92902-2__2__928066bb36b94076bc2fe7931e4416ba.jpg
+              - img "Tím than - Hoa Nhí" [ref=e97] [cursor=pointer]
+        - text: prev next
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - link "Trang chủ" [ref=e100] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e101]: ">"
+          - link "Sản phẩm" [ref=e102] [cursor=pointer]:
+            - /url: /
+        - heading "Đầm váy Nhung cổ sen bé gái Rabity 92902" [level=1] [ref=e103]
+        - generic [ref=e104]:
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - img [ref=e109]
+              - img [ref=e111]
+              - img [ref=e113]
+              - img [ref=e115]
+              - img [ref=e117]
+            - generic [ref=e119] [cursor=pointer]: (5 đánh giá)
+          - generic [ref=e121]:
+            - strong [ref=e122]: "SKU:"
+            - generic [ref=e123]: "9290200000430"
+        - generic [ref=e124]:
+          - generic [ref=e125]: 198,390đ
+          - deletion [ref=e126]: 389,000đ
+          - generic [ref=e127]:
+            - text: "-49"
+            - generic [ref=e128]: "%"
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - generic [ref=e132]: "Màu sắc:"
+            - generic [ref=e133]:
+              - img "Vàng - Hoa Nhí" [ref=e137] [cursor=pointer]
+              - img "Tím than - Hoa Nhí" [ref=e141] [cursor=pointer]
+              - img "Đỏ - Hoa Nhí" [ref=e145] [cursor=pointer]
+          - generic [ref=e146]:
+            - generic [ref=e148]: "Kích thước:"
+            - generic [ref=e149]:
+              - generic [ref=e152] [cursor=pointer]: 4Y-14-16kg
+              - generic [ref=e155] [cursor=pointer]: 5Y-17-19kg
+              - generic [ref=e158] [cursor=pointer]: 6Y-19-21kg
+              - generic [ref=e161] [cursor=pointer]: 7Y-21-23kg
+              - generic [ref=e164] [cursor=pointer]: 8Y-23-25kg
+        - generic [ref=e165]:
+          - generic [ref=e167]:
+            - button [ref=e168] [cursor=pointer]:
+              - img [ref=e169] [cursor=pointer]
+            - textbox [ref=e172]: "1"
+            - button [ref=e173] [cursor=pointer]:
+              - img [ref=e174] [cursor=pointer]
+          - generic [ref=e177]:
+            - button "Thêm vào giỏ hàng" [ref=e178] [cursor=pointer]:
+              - generic [ref=e179] [cursor=pointer]: Thêm vào giỏ hàng
+            - button [ref=e180] [cursor=pointer]:
+              - img [ref=e181] [cursor=pointer]
+        - generic [ref=e185]:
+          - list [ref=e186]:
+            - img "Vàng - Hoa Nhí" [ref=e190] [cursor=pointer]
+            - img "Tím than - Hoa Nhí" [ref=e194] [cursor=pointer]
+            - img "Đỏ - Hoa Nhí" [ref=e198] [cursor=pointer]
+          - button "Thêm vào giỏ" [ref=e199] [cursor=pointer]
+        - generic [ref=e201]:
+          - generic [ref=e203]: Mã khuyến mãi
+          - generic [ref=e204]:
+            - generic [ref=e205] [cursor=pointer]:
+              - img [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]: Giảm 50k
+            - generic [ref=e209] [cursor=pointer]:
+              - img [ref=e210] [cursor=pointer]
+              - generic [ref=e212] [cursor=pointer]: Giảm 30k
+        - generic [ref=e214] [cursor=pointer]:
+          - generic [ref=e215] [cursor=pointer]: Miễn phí giao hàng cho hóa đơn từ 299K
+          - img [ref=e216] [cursor=pointer]
+        - link "icon chat Chat để Thỏ tư vấn (8:00 - 21:00). Chat ngay" [ref=e220] [cursor=pointer]:
+          - /url: http://m.me/Rabityfashion
+          - img "icon chat" [ref=e221] [cursor=pointer]
+          - generic [ref=e222] [cursor=pointer]:
+            - text: Chat để Thỏ tư vấn (8:00 - 21:00).
+            - generic [ref=e223] [cursor=pointer]: Chat ngay
+        - generic [ref=e224]:
+          - generic [ref=e225]:
+            - img "Giao hàng toàn quốc" [ref=e226]
+            - generic [ref=e227]: Giao hàng toàn quốc
+          - generic [ref=e228]:
+            - img "30 ngày đổi trả quần áo" [ref=e229]
+            - generic [ref=e230]: 30 ngày đổi trả quần áo
+          - generic [ref=e231]:
+            - img "Hotline 1900.63.35.20" [ref=e232]
+            - generic [ref=e233]: Hotline 1900.63.35.20
+          - generic [ref=e234]:
+            - img "Kiểm tra trước khi nhận" [ref=e235]
+            - generic [ref=e236]: Kiểm tra trước khi nhận
+      - generic [ref=e237]:
+        - navigation [ref=e238]:
+          - tablist [ref=e239]:
+            - tab "Mô tả" [selected] [ref=e240] [cursor=pointer]
+        - tabpanel [ref=e242]:
+          - generic [ref=e243]:
+            - heading "Đầm váy Nhung cổ sen bé gái Rabity 92902" [level=2] [ref=e244]:
+              - generic [ref=e245]: Đầm váy Nhung cổ sen bé gái Rabity 92902
+            - heading "1. Thông tin Đầm váy Nhung cổ sen bé gái Rabity 92902" [level=3] [ref=e246]:
+              - strong [ref=e248]: 1. Thông tin Đầm váy Nhung cổ sen bé gái Rabity 92902
+            - generic [ref=e249]: "- Chất liệu vải 100% cotton được dệt từ sợi bông thiên nhiên"
+            - generic [ref=e250]: "- Phù hợp với bé gái cân nặng từ 14-25kg"
+            - generic [ref=e251]:
+              - text: "- Loại sản phẩm:"
+              - link "Đầm, váy bé gái" [ref=e252] [cursor=pointer]:
+                - /url: https://rabity.vn/collections/dam-be-gai
+                - generic [ref=e253] [cursor=pointer]: Đầm, váy bé gái
+            - generic [ref=e254]: "- Đầm nhung cổ sen với họa tiết hoa nhí xinh xắn và dịu dàng"
+            - generic [ref=e255]: "- Kích thước sản phẩm:"
+            - generic [ref=e257]:
+              - paragraph [ref=e258]:
+                - img [ref=e259]
+              - paragraph [ref=e260]
+            - heading "2. Hình ảnh Đầm váy Nhung cổ sen bé gái Rabity 92902" [level=3] [ref=e262]:
+              - strong [ref=e264]: 2. Hình ảnh Đầm váy Nhung cổ sen bé gái Rabity 92902
+            - generic [ref=e265]:
+              - paragraph [ref=e266]:
+                - img [ref=e267]
+              - paragraph [ref=e268]:
+                - emphasis [ref=e269]: Đầm váy Nhung cổ sen bé gái Rabity 92902
+              - paragraph [ref=e270]
+              - paragraph [ref=e271]:
+                - img [ref=e272]
+              - paragraph [ref=e273]:
+                - emphasis [ref=e274]: Đầm váy Nhung cổ sen bé gái Rabity 92902
+              - paragraph [ref=e275]:
+                - img [ref=e276]
+              - paragraph [ref=e277]:
+                - emphasis [ref=e278]: Đầm váy Nhung cổ sen bé gái Rabity 92902
+              - paragraph [ref=e279]:
+                - img [ref=e280]
+              - paragraph [ref=e281]:
+                - emphasis [ref=e282]: Đầm váy Nhung cổ sen bé gái Rabity 92902
+              - paragraph [ref=e283]:
+                - img [ref=e284]
+              - paragraph [ref=e285]:
+                - emphasis [ref=e286]: Đầm váy Nhung cổ sen bé gái Rabity 92902
+            - generic [ref=e287]:
+              - heading "3 . Hướng dẫn giặt và bảo quản" [level=3] [ref=e288]:
+                - strong [ref=e290]: 3 . Hướng dẫn giặt và bảo quản
+              - paragraph [ref=e291]: "- Giặt tay trong lần giặt đầu tiên, mẹ nên ngâm và giặt riêng, không giặt chung đồ tối và sáng màu. Sau đó giặt bằng nước lạnh không có xà phòng để hình in mềm hơn, khó bong tróc hơn. Nên giặt sản phẩm bằng nước lạnh hoặc nước ấm dưới 40 độ C. Giặt bằng nước quá nóng có thể làm giãn vải và làm lỏng sản phẩm."
+              - paragraph [ref=e292]: "- Bảo quản: Sản phẩm có tính hút ẩm và thấm nước cao nên, vì vậy, mẹ nên bảo quản áo thun của bé nơi khô ráo. Ngoài ra, khi giặt và phơi áo thun trẻ em, mẹ nên lộn trái mặt trong của áo thun tay ngắn để giữ màu cho sản phẩm luôn như mới."
+              - paragraph [ref=e293]
+              - heading "4. Chính sách hậu mãi/tư vấn" [level=3] [ref=e294]:
+                - strong [ref=e296]: 4. Chính sách hậu mãi/tư vấn
+              - paragraph [ref=e297]:
+                - text: "- Inbox để được tư vấn:"
+                - link "https://www.messenger.com/t/Rabityfashion" [ref=e298] [cursor=pointer]:
+                  - /url: https://www.messenger.com/t/Rabityfashion
+                  - generic [ref=e299] [cursor=pointer]: https://www.messenger.com/t/Rabityfashion
+              - paragraph [ref=e300]:
+                - text: "- Hotline tư vấn:"
+                - strong [ref=e301]: "1900633520"
+              - paragraph [ref=e302]: "- Thời gian vận chuyển:"
+              - list [ref=e303]:
+                - listitem [ref=e304]: "Nội thành: 2 ngày"
+                - listitem [ref=e305]: "Ngoại thành/liên tỉnh: 4-5 ngày"
+              - paragraph [ref=e306]
+              - paragraph [ref=e307]:
+                - text: "Tags:"
+                - link "Đầm, váy Elsa bé gái" [ref=e308] [cursor=pointer]:
+                  - /url: https://rabity.vn/collections/dam-vay-elsa-tre-em
+                  - generic [ref=e309] [cursor=pointer]: Đầm, váy Elsa bé gái
+                - text: ;
+                - link "Giày dép bé gái" [ref=e310] [cursor=pointer]:
+                  - /url: https://rabity.vn/collections/giay-dep-be-gai
+                  - generic [ref=e311] [cursor=pointer]: Giày dép bé gái
+                - text: ;
+                - link "Đồ lót bé gái" [ref=e313] [cursor=pointer]:
+                  - /url: https://rabity.vn/collections/do-lot-be-gai
+                  - generic [ref=e314] [cursor=pointer]: Đồ lót bé gái
+          - button "Xem thêm" [ref=e315] [cursor=pointer]
+      - generic [ref=e318]:
+        - generic [ref=e319]:
+          - generic [ref=e320]:
+            - generic [ref=e321]:
+              - generic [ref=e322]:
+                - img [ref=e323]
+                - generic [ref=e325]: "5.0"
+              - generic [ref=e326]: 5 đánh giá
+            - generic [ref=e327]:
+              - generic [ref=e328]:
+                - generic [ref=e329]:
+                  - img [ref=e330]
+                  - img [ref=e332]
+                  - img [ref=e334]
+                  - img [ref=e336]
+                  - img [ref=e338]
+                - progressbar [ref=e340]: 100.0%
+                - generic [ref=e341]: "5"
+              - generic [ref=e342]:
+                - generic [ref=e343]:
+                  - img [ref=e344]
+                  - img [ref=e346]
+                  - img [ref=e348]
+                  - img [ref=e350]
+                  - img [ref=e352]
+                - progressbar [ref=e354]: 0.0%
+                - generic [ref=e355]: "0"
+              - generic [ref=e356]:
+                - generic [ref=e357]:
+                  - img [ref=e358]
+                  - img [ref=e360]
+                  - img [ref=e362]
+                  - img [ref=e364]
+                  - img [ref=e366]
+                - progressbar [ref=e368]: 0.0%
+                - generic [ref=e369]: "0"
+              - generic [ref=e370]:
+                - generic [ref=e371]:
+                  - img [ref=e372]
+                  - img [ref=e374]
+                  - img [ref=e376]
+                  - img [ref=e378]
+                  - img [ref=e380]
+                - progressbar [ref=e382]: 0.0%
+                - generic [ref=e383]: "0"
+              - generic [ref=e384]:
+                - generic [ref=e385]:
+                  - img [ref=e386]
+                  - img [ref=e388]
+                  - img [ref=e390]
+                  - img [ref=e392]
+                  - img [ref=e394]
+                - progressbar [ref=e396]: 0.0%
+                - generic [ref=e397]: "0"
+          - generic [ref=e398]:
+            - generic [ref=e399]: Đánh giá sản phẩm
+            - generic [ref=e400]:
+              - img [ref=e402] [cursor=pointer]
+              - img [ref=e410] [cursor=pointer]
+              - img [ref=e418] [cursor=pointer]
+              - img [ref=e426] [cursor=pointer]
+              - img [ref=e434] [cursor=pointer]
+            - generic [ref=e441]: Bạn cần đăng nhập để nhận xét và đánh giá sản phẩm
+        - generic [ref=e444] [cursor=pointer]:
+          - img [ref=e445] [cursor=pointer]
+          - generic [ref=e447] [cursor=pointer]: Lọc đánh giá
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - generic [ref=e452]: catredoftu
+              - generic [ref=e453]: 06/12/2025
+            - generic [ref=e454]:
+              - generic [ref=e455]:
+                - img [ref=e456]
+                - img [ref=e458]
+                - img [ref=e460]
+                - img [ref=e462]
+                - img [ref=e464]
+              - generic [ref=e466]:
+                - generic [ref=e467] [cursor=pointer]:
+                  - img [ref=e468] [cursor=pointer]
+                  - generic [ref=e470] [cursor=pointer]: (0)
+                - generic [ref=e471] [cursor=pointer]:
+                  - img [ref=e472] [cursor=pointer]
+                  - generic [ref=e474] [cursor=pointer]: (0)
+          - generic [ref=e475]:
+            - generic [ref=e476]:
+              - generic [ref=e478]: trang.do.1310
+              - generic [ref=e479]: 04/12/2025
+            - generic [ref=e480]:
+              - generic [ref=e481]:
+                - img [ref=e482]
+                - img [ref=e484]
+                - img [ref=e486]
+                - img [ref=e488]
+                - img [ref=e490]
+              - generic [ref=e492]:
+                - generic [ref=e493] [cursor=pointer]:
+                  - img [ref=e494] [cursor=pointer]
+                  - generic [ref=e496] [cursor=pointer]: (0)
+                - generic [ref=e497] [cursor=pointer]:
+                  - img [ref=e498] [cursor=pointer]
+                  - generic [ref=e500] [cursor=pointer]: (0)
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - generic [ref=e504]: lehoai.it07
+              - generic [ref=e505]: 02/12/2025
+            - generic [ref=e506]:
+              - generic [ref=e507]:
+                - img [ref=e508]
+                - img [ref=e510]
+                - img [ref=e512]
+                - img [ref=e514]
+                - img [ref=e516]
+              - generic [ref=e518]:
+                - generic [ref=e519] [cursor=pointer]:
+                  - img [ref=e520] [cursor=pointer]
+                  - generic [ref=e522] [cursor=pointer]: (0)
+                - generic [ref=e523] [cursor=pointer]:
+                  - img [ref=e524] [cursor=pointer]
+                  - generic [ref=e526] [cursor=pointer]: (0)
+          - generic [ref=e527]:
+            - generic [ref=e528]:
+              - generic [ref=e530]: khanhvysport
+              - generic [ref=e531]: 27/11/2025
+            - generic [ref=e532]:
+              - generic [ref=e533]:
+                - img [ref=e534]
+                - img [ref=e536]
+                - img [ref=e538]
+                - img [ref=e540]
+                - img [ref=e542]
+              - generic [ref=e544]: Này là chất nhung dày mang thu đông k phải hoa voan nhé
+              - generic [ref=e545]:
+                - generic [ref=e546] [cursor=pointer]:
+                  - img [ref=e547] [cursor=pointer]
+                  - generic [ref=e549] [cursor=pointer]: (0)
+                - generic [ref=e550] [cursor=pointer]:
+                  - img [ref=e551] [cursor=pointer]
+                  - generic [ref=e553] [cursor=pointer]: (0)
+          - generic [ref=e554]:
+            - generic [ref=e555]:
+              - generic [ref=e557]: songtu5691
+              - generic [ref=e558]: 26/11/2025
+            - generic [ref=e559]:
+              - generic [ref=e560]:
+                - img [ref=e561]
+                - img [ref=e563]
+                - img [ref=e565]
+                - img [ref=e567]
+                - img [ref=e569]
+              - generic [ref=e571]:
+                - generic [ref=e572]: "Mặc thoải mái:"
+                - text: ok.
+                - generic [ref=e573]: "Đáng tiền:"
+                - text: ok.
+                - generic [ref=e574]: "Phong cách:"
+                - text: ok. Đã nhận được hàng, giao hàng nhanh chóng, shop rất nhiệt tình hỗ trợ Hình ảnh mang tính nhận xu
+              - generic [ref=e576]:
+                - generic [ref=e577]:
+                  - text: slide
+                  - generic [ref=e578]: "1"
+                  - text: of 1
+                - img "Hình ảnh đánh giá" [ref=e583] [cursor=pointer]
+              - generic [ref=e584]:
+                - generic [ref=e585] [cursor=pointer]:
+                  - img [ref=e586] [cursor=pointer]
+                  - generic [ref=e588] [cursor=pointer]: (0)
+                - generic [ref=e589] [cursor=pointer]:
+                  - img [ref=e590] [cursor=pointer]
+                  - generic [ref=e592] [cursor=pointer]: (0)
+              - generic [ref=e593]:
+                - generic [ref=e594]: Rabity
+                - generic [ref=e595]: Rabity xin chào ạ! Rabity cảm ơn mình đã dành thời gian đánh giá và tin tưởng lựa chọn Rabity 💕 Sự hài lòng của khách hàng là động lực để Rabity không ngừng hoàn thiện hơn mỗi ngày. Chúc mình và gia đình luôn vui khỏe ạ 🌷
+    - generic [ref=e597]:
+      - generic [ref=e598]: Thường được mua cùng
+      - generic [ref=e600]:
+        - generic [ref=e601]:
+          - group "1 / 10" [ref=e602]:
+            - generic [ref=e603]:
+              - generic [ref=e604]:
+                - generic [ref=e607]:
+                  - img [ref=e609]
+                  - generic [ref=e611]: (0)
+                - generic [ref=e613]: Mới
+                - link "Đầm thô ngắn tay bé gái Rabity 950.115" [ref=e614] [cursor=pointer]:
+                  - /url: /products/dam-tho-ngan-tay-be-gai-rabity-950-115
+                  - img "Đầm thô ngắn tay bé gái Rabity 950.115" [ref=e616] [cursor=pointer]
+                  - img "Đầm thô ngắn tay bé gái Rabity 950.115" [ref=e618] [cursor=pointer]
+              - generic [ref=e619]:
+                - heading "Đầm thô ngắn tay bé gái Rabity 950.115" [level=4] [ref=e620]:
+                  - link "Đầm thô ngắn tay bé gái Rabity 950.115" [ref=e621] [cursor=pointer]:
+                    - /url: /products/dam-tho-ngan-tay-be-gai-rabity-950-115
+                - generic [ref=e622]:
+                  - generic [ref=e623]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e625] [cursor=pointer]:
+                      - img [ref=e626] [cursor=pointer]
+                    - button [ref=e630] [cursor=pointer]:
+                      - img [ref=e631] [cursor=pointer]
+                  - generic [ref=e636]: 349,000đ
+                - img "Đầm thô ngắn tay bé gái Rabity 950.115" [ref=e640] [cursor=pointer]
+          - group "2 / 10" [ref=e641]:
+            - generic [ref=e642]:
+              - generic [ref=e643]:
+                - generic [ref=e644]:
+                  - generic [ref=e645]: "5"
+                  - generic [ref=e647]:
+                    - img [ref=e649]
+                    - generic [ref=e651]: (1)
+                - link "Đầm nhung dài tay bé gái Rabity 951.009" [ref=e652] [cursor=pointer]:
+                  - /url: /products/dam-nhung-dai-tay-be-gai-rabity-951-009
+                  - img "Đầm nhung dài tay bé gái Rabity 951.009" [ref=e654] [cursor=pointer]
+                  - img "Đầm nhung dài tay bé gái Rabity 951.009" [ref=e656] [cursor=pointer]
+              - generic [ref=e657]:
+                - heading "Đầm nhung dài tay bé gái Rabity 951.009" [level=4] [ref=e658]:
+                  - link "Đầm nhung dài tay bé gái Rabity 951.009" [ref=e659] [cursor=pointer]:
+                    - /url: /products/dam-nhung-dai-tay-be-gai-rabity-951-009
+                - generic [ref=e660]:
+                  - generic [ref=e661]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e663] [cursor=pointer]:
+                      - img [ref=e664] [cursor=pointer]
+                    - button [ref=e668] [cursor=pointer]:
+                      - img [ref=e669] [cursor=pointer]
+                  - generic [ref=e673]:
+                    - generic [ref=e674]: 199,000đ
+                    - generic [ref=e675]:
+                      - text: "-50"
+                      - generic [ref=e676]: "%"
+                    - deletion [ref=e677]: 399,000đ
+                - generic [ref=e678]:
+                  - img "Đầm nhung dài tay bé gái Rabity 951.009" [ref=e681] [cursor=pointer]
+                  - img "Đầm nhung dài tay bé gái Rabity 951.009" [ref=e684] [cursor=pointer]
+          - group "3 / 10" [ref=e685]:
+            - generic [ref=e686]:
+              - generic [ref=e687]:
+                - generic [ref=e690]:
+                  - img [ref=e692]
+                  - generic [ref=e694]: (0)
+                - link "Đầm nhung dài tay bé gái Rabity 951.010" [ref=e695] [cursor=pointer]:
+                  - /url: /products/dam-nhung-dai-tay-be-gai-rabity-951-010
+                  - img "Đầm nhung dài tay bé gái Rabity 951.010" [ref=e697] [cursor=pointer]
+                  - img "Đầm nhung dài tay bé gái Rabity 951.010" [ref=e699] [cursor=pointer]
+              - generic [ref=e700]:
+                - heading "Đầm nhung dài tay bé gái Rabity 951.010" [level=4] [ref=e701]:
+                  - link "Đầm nhung dài tay bé gái Rabity 951.010" [ref=e702] [cursor=pointer]:
+                    - /url: /products/dam-nhung-dai-tay-be-gai-rabity-951-010
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e706] [cursor=pointer]:
+                      - img [ref=e707] [cursor=pointer]
+                    - button [ref=e711] [cursor=pointer]:
+                      - img [ref=e712] [cursor=pointer]
+                  - generic [ref=e716]:
+                    - generic [ref=e717]: 197,550đ
+                    - generic [ref=e718]:
+                      - text: "-55"
+                      - generic [ref=e719]: "%"
+                    - deletion [ref=e720]: 439,000đ
+                - generic [ref=e721]:
+                  - img "Đầm nhung dài tay bé gái Rabity 951.010" [ref=e724] [cursor=pointer]
+                  - img "Đầm nhung dài tay bé gái Rabity 951.010" [ref=e727] [cursor=pointer]
+          - group "4 / 10" [ref=e728]:
+            - generic [ref=e729]:
+              - generic [ref=e730]:
+                - generic [ref=e731]:
+                  - generic [ref=e732]: "5"
+                  - generic [ref=e734]:
+                    - img [ref=e736]
+                    - generic [ref=e738]: (14)
+                - link "Đầm váy nỉ lông bé gái Rabity 92976" [ref=e739] [cursor=pointer]:
+                  - /url: /products/dam-vay-ni-long-be-gai-rabity-92976
+                  - img "Đầm váy nỉ lông bé gái Rabity 92976" [ref=e741] [cursor=pointer]
+                  - img "Đầm váy nỉ lông bé gái Rabity 92976" [ref=e743] [cursor=pointer]
+              - generic [ref=e744]:
+                - heading "Đầm váy nỉ lông bé gái Rabity 92976" [level=4] [ref=e745]:
+                  - link "Đầm váy nỉ lông bé gái Rabity 92976" [ref=e746] [cursor=pointer]:
+                    - /url: /products/dam-vay-ni-long-be-gai-rabity-92976
+                - generic [ref=e747]:
+                  - generic [ref=e748]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e750] [cursor=pointer]:
+                      - img [ref=e751] [cursor=pointer]
+                    - button [ref=e755] [cursor=pointer]:
+                      - img [ref=e756] [cursor=pointer]
+                  - generic [ref=e760]:
+                    - generic [ref=e761]: 179,400đ
+                    - generic [ref=e762]:
+                      - text: "-40"
+                      - generic [ref=e763]: "%"
+                    - deletion [ref=e764]: 299,000đ
+                - img "Đầm váy nỉ lông bé gái Rabity 92976" [ref=e768] [cursor=pointer]
+          - group "5 / 10" [ref=e769]:
+            - generic [ref=e770]:
+              - generic [ref=e771]:
+                - generic [ref=e772]:
+                  - generic [ref=e773]: "5"
+                  - generic [ref=e775]:
+                    - img [ref=e777]
+                    - generic [ref=e779]: (6)
+                - link "Đầm váy nhung dài tay bé gái Rabity 951.005" [ref=e780] [cursor=pointer]:
+                  - /url: /products/dam-vay-nhung-dai-tay-be-gai-rabity-951-005
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.005" [ref=e782] [cursor=pointer]
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.005" [ref=e784] [cursor=pointer]
+              - generic [ref=e785]:
+                - heading "Đầm váy nhung dài tay bé gái Rabity 951.005" [level=4] [ref=e786]:
+                  - link "Đầm váy nhung dài tay bé gái Rabity 951.005" [ref=e787] [cursor=pointer]:
+                    - /url: /products/dam-vay-nhung-dai-tay-be-gai-rabity-951-005
+                - generic [ref=e788]:
+                  - generic [ref=e789]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e791] [cursor=pointer]:
+                      - img [ref=e792] [cursor=pointer]
+                    - button [ref=e796] [cursor=pointer]:
+                      - img [ref=e797] [cursor=pointer]
+                  - generic [ref=e801]:
+                    - generic [ref=e802]: 298,520đ
+                    - generic [ref=e803]:
+                      - text: "-32"
+                      - generic [ref=e804]: "%"
+                    - deletion [ref=e805]: 439,000đ
+                - generic [ref=e806]:
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.005" [ref=e809] [cursor=pointer]
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.005" [ref=e812] [cursor=pointer]
+          - group "6 / 10" [ref=e813]:
+            - generic [ref=e814]:
+              - generic [ref=e815]:
+                - generic [ref=e816]:
+                  - generic [ref=e817]: "5"
+                  - generic [ref=e819]:
+                    - img [ref=e821]
+                    - generic [ref=e823]: (6)
+                - link "Đầm váy nhung dài tay bé gái Rabity 951.002" [ref=e824] [cursor=pointer]:
+                  - /url: /products/dam-vay-nhung-dai-tay-be-gai-rabity-951-002
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.002" [ref=e826] [cursor=pointer]
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.002" [ref=e828] [cursor=pointer]
+              - generic [ref=e829]:
+                - heading "Đầm váy nhung dài tay bé gái Rabity 951.002" [level=4] [ref=e830]:
+                  - link "Đầm váy nhung dài tay bé gái Rabity 951.002" [ref=e831] [cursor=pointer]:
+                    - /url: /products/dam-vay-nhung-dai-tay-be-gai-rabity-951-002
+                - generic [ref=e832]:
+                  - generic [ref=e833]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e835] [cursor=pointer]:
+                      - img [ref=e836] [cursor=pointer]
+                    - button [ref=e840] [cursor=pointer]:
+                      - img [ref=e841] [cursor=pointer]
+                  - generic [ref=e845]:
+                    - generic [ref=e846]: 259,350đ
+                    - generic [ref=e847]:
+                      - text: "-35"
+                      - generic [ref=e848]: "%"
+                    - deletion [ref=e849]: 399,000đ
+                - generic [ref=e850]:
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.002" [ref=e853] [cursor=pointer]
+                  - img "Đầm váy nhung dài tay bé gái Rabity 951.002" [ref=e856] [cursor=pointer]
+          - group "7 / 10" [ref=e857]:
+            - generic [ref=e858]:
+              - generic [ref=e859]:
+                - generic [ref=e862]:
+                  - img [ref=e864]
+                  - generic [ref=e866]: (0)
+                - link "Đầm váy dài tay bé gái Rabity 92938" [ref=e867] [cursor=pointer]:
+                  - /url: /products/dam-vay-dai-tay-be-gai-rabity-92938
+                  - img "Đầm váy dài tay bé gái Rabity 92938" [ref=e869] [cursor=pointer]
+                  - img "Đầm váy dài tay bé gái Rabity 92938" [ref=e871] [cursor=pointer]
+              - generic [ref=e872]:
+                - heading "Đầm váy dài tay bé gái Rabity 92938" [level=4] [ref=e873]:
+                  - link "Đầm váy dài tay bé gái Rabity 92938" [ref=e874] [cursor=pointer]:
+                    - /url: /products/dam-vay-dai-tay-be-gai-rabity-92938
+                - generic [ref=e875]:
+                  - generic [ref=e876]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e878] [cursor=pointer]:
+                      - img [ref=e879] [cursor=pointer]
+                    - button [ref=e883] [cursor=pointer]:
+                      - img [ref=e884] [cursor=pointer]
+                  - generic [ref=e888]:
+                    - generic [ref=e889]: 197,550đ
+                    - generic [ref=e890]:
+                      - text: "-55"
+                      - generic [ref=e891]: "%"
+                    - deletion [ref=e892]: 439,000đ
+                - generic [ref=e893]:
+                  - img "Đầm váy dài tay bé gái Rabity 92938" [ref=e896] [cursor=pointer]
+                  - img "Đầm váy dài tay bé gái Rabity 92938" [ref=e899] [cursor=pointer]
+          - group "8 / 10" [ref=e900]:
+            - generic [ref=e901]:
+              - generic [ref=e902]:
+                - generic [ref=e903]:
+                  - generic [ref=e904]: "5"
+                  - generic [ref=e906]:
+                    - img [ref=e908]
+                    - generic [ref=e910]: (2)
+                - link "Đầm váy nhung dài tay bé gái Rabity 92771" [ref=e911] [cursor=pointer]:
+                  - /url: /products/dam-vay-nhung-dai-tay-be-gai-rabity-92771
+                  - img "Đầm váy nhung dài tay bé gái Rabity 92771" [ref=e913] [cursor=pointer]
+                  - img "Đầm váy nhung dài tay bé gái Rabity 92771" [ref=e915] [cursor=pointer]
+              - generic [ref=e916]:
+                - heading "Đầm váy nhung dài tay bé gái Rabity 92771" [level=4] [ref=e917]:
+                  - link "Đầm váy nhung dài tay bé gái Rabity 92771" [ref=e918] [cursor=pointer]:
+                    - /url: /products/dam-vay-nhung-dai-tay-be-gai-rabity-92771
+                - generic [ref=e919]:
+                  - generic [ref=e920]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e922] [cursor=pointer]:
+                      - img [ref=e923] [cursor=pointer]
+                    - button [ref=e927] [cursor=pointer]:
+                      - img [ref=e928] [cursor=pointer]
+                  - generic [ref=e932]:
+                    - generic [ref=e933]: 199,000đ
+                    - generic [ref=e934]:
+                      - text: "-49"
+                      - generic [ref=e935]: "%"
+                    - deletion [ref=e936]: 389,000đ
+                - generic [ref=e937]:
+                  - img "Đầm váy nhung dài tay bé gái Rabity 92771" [ref=e940] [cursor=pointer]
+                  - img "Đầm váy nhung dài tay bé gái Rabity 92771" [ref=e943] [cursor=pointer]
+          - group "9 / 10"
+          - group "10 / 10"
+        - button "Next slide" [ref=e944] [cursor=pointer]: next
+        - button "Previous slide" [ref=e945] [cursor=pointer]: prev
+    - generic [ref=e947]:
+      - generic [ref=e948]: Sản phẩm đã xem
+      - generic [ref=e950]:
+        - generic [ref=e951]:
+          - group "1 / 5" [ref=e952]:
+            - generic [ref=e953]:
+              - generic [ref=e954]:
+                - generic [ref=e955]:
+                  - generic [ref=e956]: "5"
+                  - generic [ref=e958]:
+                    - img [ref=e960]
+                    - generic [ref=e962]: (5)
+                - link "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e963] [cursor=pointer]:
+                  - /url: /products/dam-vay-nhung-co-sen-be-gai-rabity-92902
+                  - img "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e965] [cursor=pointer]
+                  - img "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e967] [cursor=pointer]
+              - generic [ref=e968]:
+                - heading "Đầm váy Nhung cổ sen bé gái Rabity 92902" [level=4] [ref=e969]:
+                  - link "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e970] [cursor=pointer]:
+                    - /url: /products/dam-vay-nhung-co-sen-be-gai-rabity-92902
+                - generic [ref=e971]:
+                  - generic [ref=e972]:
+                    - list:
+                      - listitem: Thêm nhanh vào giỏ
+                      - listitem: S
+                      - listitem: X
+                      - listitem: L
+                    - button [ref=e974] [cursor=pointer]:
+                      - img [ref=e975] [cursor=pointer]
+                    - button [ref=e979] [cursor=pointer]:
+                      - img [ref=e980] [cursor=pointer]
+                  - generic [ref=e984]:
+                    - generic [ref=e985]: 198,390đ
+                    - generic [ref=e986]:
+                      - text: "-49"
+                      - generic [ref=e987]: "%"
+                    - deletion [ref=e988]: 389,000đ
+                - generic [ref=e989]:
+                  - img "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e992] [cursor=pointer]
+                  - img "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e995] [cursor=pointer]
+                  - img "Đầm váy Nhung cổ sen bé gái Rabity 92902" [ref=e998] [cursor=pointer]
+          - group "2 / 5"
+          - group "3 / 5"
+          - group "4 / 5"
+          - group "5 / 5"
+        - text: next prev
+  - contentinfo [ref=e999]:
+    - generic [ref=e1001]:
+      - generic [ref=e1002]:
+        - generic [ref=e1003]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e1004]:
+          - paragraph [ref=e1005]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e1006]:
+            - textbox "Nhập địa chỉ email" [ref=e1007]
+            - button "Đăng ký" [ref=e1008] [cursor=pointer]
+          - list [ref=e1010]:
+            - listitem [ref=e1011]:
+              - link "icon" [ref=e1012] [cursor=pointer]:
+                - /url: https://www.facebook.com/Rabityfashion
+                - img "icon" [ref=e1013] [cursor=pointer]
+            - listitem [ref=e1014]:
+              - link "icon" [ref=e1015] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e1016] [cursor=pointer]
+            - listitem [ref=e1017]:
+              - link "icon" [ref=e1018] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e1019] [cursor=pointer]
+      - generic [ref=e1020]:
+        - generic [ref=e1021]: VỀ RABITY
+        - list [ref=e1022]:
+          - listitem [ref=e1023]:
+            - link "Câu chuyện về Rabity" [ref=e1024] [cursor=pointer]:
+              - /url: /pages/cau-chuyen-ve-rabity
+          - listitem [ref=e1025]:
+            - link "Tin tức nhà Thỏ" [ref=e1026] [cursor=pointer]:
+              - /url: /blogs/tin-tuc-rabity
+          - listitem [ref=e1027]:
+            - link "Hệ thống cửa hàng" [ref=e1028] [cursor=pointer]:
+              - /url: /pages/danh-sach-cua-hang
+      - generic [ref=e1029]:
+        - generic [ref=e1030]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e1031]:
+          - listitem [ref=e1032]:
+            - link "Chính sách đổi trả hàng" [ref=e1033] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-doi-hang
+          - listitem [ref=e1034]:
+            - link "Hướng dẫn chọn size" [ref=e1035] [cursor=pointer]:
+              - /url: https://rabity.vn/pages/huong-dan-chon-size
+          - listitem [ref=e1036]:
+            - link "Hướng dẫn giặt quần áo" [ref=e1037] [cursor=pointer]:
+              - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
+          - listitem [ref=e1038]:
+            - link "Tra cứu đơn hàng" [ref=e1039] [cursor=pointer]:
+              - /url: /pages/kiem-tra-don-hang
+          - listitem [ref=e1040]:
+            - link "Giao hàng & phí giao hàng" [ref=e1041] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-giao-hang
+          - listitem [ref=e1042]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e1043] [cursor=pointer]:
+              - /url: /pages/chinh-sach-khach-hang-than-thiet
+          - listitem [ref=e1044]:
+            - link "Chính sách bảo mật thông tin" [ref=e1045] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e1046]:
+        - generic [ref=e1047]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e1048]:
+          - listitem [ref=e1049]:
+            - img [ref=e1051]
+            - generic [ref=e1055]:
+              - generic [ref=e1056]: "Văn phòng phía Bắc:"
+              - generic [ref=e1057]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e1058]:
+            - img [ref=e1060]
+            - generic [ref=e1064]:
+              - generic [ref=e1065]: "Văn phòng phía Nam:"
+              - generic [ref=e1066]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e1067]:
+            - img [ref=e1069]
+            - generic [ref=e1074]:
+              - text: "Số điện thoại:"
+              - link "1900633520" [ref=e1075] [cursor=pointer]:
+                - /url: tel:1900633520
+          - listitem [ref=e1076]:
+            - img [ref=e1078]
+            - generic [ref=e1082]:
+              - text: "Email:"
+              - link "cskh@rabity.vn" [ref=e1083] [cursor=pointer]:
+                - /url: mailto:cskh@rabity.vn
+    - generic [ref=e1086]:
+      - generic [ref=e1087]:
+        - text: © CÔNG TY TNHH TÂN PHÚ
+        - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
+        - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
+      - link "Logo bộ công thương" [ref=e1090] [cursor=pointer]:
+        - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
+        - img "Logo bộ công thương" [ref=e1091] [cursor=pointer]
+  - text: prev next
+  - alert:
+    - button "Close":
+      - img "Button Close"
+  - button [ref=e1093] [cursor=pointer]
+```

@@ -1,0 +1,209 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e10]:
+    - generic [ref=e12] [cursor=pointer]: X
+    - link "popup_1764668940254.png" [ref=e20] [cursor=pointer]:
+      - /url: https://rabity.vn/collections/sale-he-ruc-ro
+      - img "popup_1764668940254.png" [ref=e22] [cursor=pointer]
+  - link "Banner top" [ref=e25] [cursor=pointer]:
+    - /url: https://rabity.vn/collections/sale-he-ruc-ro
+    - img "Banner top" [ref=e26] [cursor=pointer]
+  - banner [ref=e27]:
+    - generic [ref=e29]:
+      - link "Logo" [ref=e31] [cursor=pointer]:
+        - /url: /
+        - img "Logo Rabity | Thời trang trẻ em cao cấp – Quần áo cho bé" [ref=e32] [cursor=pointer]
+      - navigation [ref=e34]:
+        - list [ref=e35]:
+          - listitem [ref=e36]:
+            - link "BÉ GÁI" [ref=e37] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-gai
+          - listitem [ref=e38]:
+            - link "BÉ TRAI" [ref=e39] [cursor=pointer]:
+              - /url: /collections/thoi-trang-be-trai
+          - listitem [ref=e40]:
+            - link "🌟 GIÀY DÉP" [ref=e41] [cursor=pointer]:
+              - /url: /collections/giay-tre-em
+          - listitem [ref=e42]:
+            - link "BỘ SƯU TẬP MỚI" [ref=e43] [cursor=pointer]:
+              - /url: /collections/new
+          - listitem [ref=e44]:
+            - link "🔥TUẦN LỄ GIÁ MỚI" [ref=e45] [cursor=pointer]:
+              - /url: /collections/sale-he-ruc-ro
+          - listitem [ref=e46]:
+            - link "THỎ CHIA SẺ" [ref=e47] [cursor=pointer]:
+              - /url: /blogs/news
+      - generic [ref=e49]:
+        - textbox "Bạn cần tìm gì?" [ref=e50]
+        - button [ref=e51] [cursor=pointer]:
+          - img [ref=e52] [cursor=pointer]
+      - generic [ref=e55]:
+        - link [ref=e57] [cursor=pointer]:
+          - /url: /account?view=wishlist
+          - img [ref=e58] [cursor=pointer]
+        - img [ref=e63] [cursor=pointer]
+        - img [ref=e68] [cursor=pointer]
+        - link [ref=e72] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e73] [cursor=pointer]
+        - link "0" [ref=e78] [cursor=pointer]:
+          - /url: /cart
+          - img [ref=e79] [cursor=pointer]
+          - generic [ref=e81] [cursor=pointer]: "0"
+  - main [ref=e82]:
+    - generic [ref=e85]:
+      - img "Tài khoản" [ref=e88]
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - tablist [ref=e94]:
+            - tab "Đăng Nhập" [ref=e95] [cursor=pointer]
+            - tab "Đăng Ký" [selected] [ref=e96] [cursor=pointer]
+          - tabpanel [ref=e98]:
+            - generic [ref=e99]: Mật khẩu phải có ít nhất 8 ký tự, bao gồm chữ và số, không bao gồm ký tự đặc biệt
+            - generic [ref=e100]:
+              - generic [ref=e101]:
+                - generic [ref=e102]: Họ
+                - textbox "Họ" [ref=e103]: han
+              - generic [ref=e104]:
+                - generic [ref=e105]: Tên
+                - textbox "Tên" [ref=e106]: trang
+              - generic [ref=e107]:
+                - generic [ref=e108]: Email
+                - textbox "Email" [ref=e109]: test1765278629609@yobmail.com
+              - generic [ref=e110]:
+                - generic [ref=e111]: Mật khẩu
+                - textbox "Mật khẩu" [active] [ref=e112]: "123"
+                - img [ref=e114] [cursor=pointer]
+              - generic [ref=e120]:
+                - text: Bằng cách tạo tài khoản ở Rabity Fashion là bạn đồng ý với các
+                - link "Chính sách Bảo mật và Điều khoản - Điều kiện" [ref=e121] [cursor=pointer]:
+                  - /url: ""
+              - button "Tạo tài khoản" [ref=e123] [cursor=pointer]
+            - generic [ref=e124]:
+              - generic [ref=e125]: Hoặc đăng nhập với
+              - link "Đăng nhập Google" [ref=e126] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - img "icon" [ref=e127] [cursor=pointer]
+                - generic [ref=e128] [cursor=pointer]: Google
+              - link "Đăng nhập Facebook" [ref=e129] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - img "icon" [ref=e130] [cursor=pointer]
+                - generic [ref=e131] [cursor=pointer]: Facebook
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - heading "Quên Mật Khẩu" [level=3] [ref=e134]
+            - generic [ref=e135]: Vui lòng nhập email của bạn ở đây để nhận hướng dẫn đặt lại mật khẩu.
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - generic [ref=e138]: Email
+                - textbox "Email" [ref=e139]
+              - generic [ref=e140]:
+                - button "XÁC THỰC EMAIL" [ref=e141] [cursor=pointer]
+                - link "trở về đăng nhập" [ref=e143] [cursor=pointer]:
+                  - /url: /
+                  - img [ref=e144] [cursor=pointer]
+                  - text: trở về đăng nhập
+          - generic [ref=e146]:
+            - text: Bạn chưa có tài khoản?
+            - link "Tạo ngay" [ref=e147] [cursor=pointer]:
+              - /url: javascript:void(0)
+  - contentinfo [ref=e148]:
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - generic [ref=e152]: ĐĂNG KÝ NHẬN TIN
+        - generic [ref=e153]:
+          - paragraph [ref=e154]: Đăng ký ngay và là người đầu tiên nắm được thông tin khi nhà Thỏ có bộ sưu tập mới, khuyến mãi mới, các sự kiện sắp diễn ra tại cửa hàng và nhiều thông tin hấp dẫn khác.
+          - generic [ref=e155]:
+            - textbox "Nhập địa chỉ email" [ref=e156]
+            - button "Đăng ký" [ref=e157] [cursor=pointer]
+          - list [ref=e159]:
+            - listitem [ref=e160]:
+              - link "icon" [ref=e161] [cursor=pointer]:
+                - /url: https://www.facebook.com/Rabityfashion
+                - img "icon" [ref=e162] [cursor=pointer]
+            - listitem [ref=e163]:
+              - link "icon" [ref=e164] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e165] [cursor=pointer]
+            - listitem [ref=e166]:
+              - link "icon" [ref=e167] [cursor=pointer]:
+                - /url: https://www.youtube.com/@rabity8526
+                - img "icon" [ref=e168] [cursor=pointer]
+      - generic [ref=e169]:
+        - generic [ref=e170]: VỀ RABITY
+        - list [ref=e171]:
+          - listitem [ref=e172]:
+            - link "Câu chuyện về Rabity" [ref=e173] [cursor=pointer]:
+              - /url: /pages/cau-chuyen-ve-rabity
+          - listitem [ref=e174]:
+            - link "Tin tức nhà Thỏ" [ref=e175] [cursor=pointer]:
+              - /url: /blogs/tin-tuc-rabity
+          - listitem [ref=e176]:
+            - link "Hệ thống cửa hàng" [ref=e177] [cursor=pointer]:
+              - /url: /pages/danh-sach-cua-hang
+      - generic [ref=e178]:
+        - generic [ref=e179]: HỖ TRỢ KHÁCH HÀNG
+        - list [ref=e180]:
+          - listitem [ref=e181]:
+            - link "Chính sách đổi trả hàng" [ref=e182] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-doi-hang
+          - listitem [ref=e183]:
+            - link "Hướng dẫn chọn size" [ref=e184] [cursor=pointer]:
+              - /url: https://rabity.vn/pages/huong-dan-chon-size
+          - listitem [ref=e185]:
+            - link "Hướng dẫn giặt quần áo" [ref=e186] [cursor=pointer]:
+              - /url: /blogs/news/cach-giat-va-bao-quan-quan-ao-tre-em
+          - listitem [ref=e187]:
+            - link "Tra cứu đơn hàng" [ref=e188] [cursor=pointer]:
+              - /url: /pages/kiem-tra-don-hang
+          - listitem [ref=e189]:
+            - link "Giao hàng & phí giao hàng" [ref=e190] [cursor=pointer]:
+              - /url: /pages/rabity-chinh-sach-giao-hang
+          - listitem [ref=e191]:
+            - link "Chính sách Khách hàng thân thiết" [ref=e192] [cursor=pointer]:
+              - /url: /pages/chinh-sach-khach-hang-than-thiet
+          - listitem [ref=e193]:
+            - link "Chính sách bảo mật thông tin" [ref=e194] [cursor=pointer]:
+              - /url: /pages/chinh-sach-bao-mat-thong-tin
+      - generic [ref=e195]:
+        - generic [ref=e196]: CÔNG TY TNHH TÂN PHÚ
+        - list [ref=e197]:
+          - listitem [ref=e198]:
+            - img [ref=e200]
+            - generic [ref=e204]:
+              - generic [ref=e205]: "Văn phòng phía Bắc:"
+              - generic [ref=e206]: 378 Lĩnh Nam, Phường Lĩnh Nam, Thành phố Hà Nội
+          - listitem [ref=e207]:
+            - img [ref=e209]
+            - generic [ref=e213]:
+              - generic [ref=e214]: "Văn phòng phía Nam:"
+              - generic [ref=e215]: 33 đường 12A, Khu đô thị Lakeview City, Phường Bình Trưng, Thành phố Hồ Chí Minh
+          - listitem [ref=e216]:
+            - img [ref=e218]
+            - generic [ref=e223]:
+              - text: "Số điện thoại:"
+              - link "1900633520" [ref=e224] [cursor=pointer]:
+                - /url: tel:1900633520
+          - listitem [ref=e225]:
+            - img [ref=e227]
+            - generic [ref=e231]:
+              - text: "Email:"
+              - link "cskh@rabity.vn" [ref=e232] [cursor=pointer]:
+                - /url: mailto:cskh@rabity.vn
+    - generic [ref=e235]:
+      - generic [ref=e236]:
+        - text: © CÔNG TY TNHH TÂN PHÚ
+        - text: "Mã số doanh nghiệp: 0101048086. Giấy chứng nhận đăng ký doanh nghiệp do Sở Kế hoạch và Đầu tư TP Hà Nội cấp lần đầu ngày 14/08/2000."
+        - text: "ĐỊA CHỈ: 35 Hàng Bè, Phường Hàng Bạc, Quận Hoàn Kiếm, Hà Nội"
+      - link "Logo bộ công thương" [ref=e239] [cursor=pointer]:
+        - /url: http://online.gov.vn/Home/WebDetails/51352?AspxAutoDetectCookieSupport=1
+        - img "Logo bộ công thương" [ref=e240] [cursor=pointer]
+  - text: prev next
+  - alert:
+    - button "Close":
+      - img "Button Close"
+  - button [ref=e242] [cursor=pointer]
+  - button "↑" [ref=e243] [cursor=pointer]
+```

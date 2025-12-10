@@ -115,7 +115,7 @@
               - textbox "Nhập tên của bạn" [ref=e122]: Tuấn
             - generic [ref=e123]:
               - generic [ref=e124]: Sinh nhật
-              - textbox "Ngày sinh 22/10/1994" [ref=e125]: 26/11/2030
+              - textbox "Ngày sinh 22/10/1994" [ref=e125]: 12/09/2030
             - generic [ref=e126]:
               - generic [ref=e127]: Giới tính
               - combobox [ref=e128]:
